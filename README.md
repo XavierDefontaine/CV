@@ -1,6 +1,6 @@
 ## Xavier Defontaine
 
-Skills | Projects | Education | Experience | Interests | LinkedIn
+Projects | Skills | Education | Experience | Interests | LinkedIn
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
@@ -9,7 +9,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| [Student Directory]  (https://github.com/XavierDefontaine/student-directory )| A webapp to do y. | Ruby              |
 
 ## Experience
 
