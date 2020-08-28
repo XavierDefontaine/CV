@@ -16,8 +16,6 @@ Throughout my education and career, I have stumbled upon technical bareers that 
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-
 #### Adaptable
 
 #### Communication
@@ -29,6 +27,8 @@ Consider skills relevent to software development. Then consider your best skills
 #### Fast and continuous learner
 
 #### EXAMPLE
+
+Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
 - Experience
 - Achievements
