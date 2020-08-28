@@ -75,25 +75,25 @@ _Logistics Coordinator & Admin Manager_
 - Created a corporate travel unit and acted as expert to boost our points and margins by up to 20%.
 - Acted as main contact between the directors, artists, managers and staff for any operational, logistical, legal and administrative support.
 
-**The Big Noise Festival** - Elephant & Castle, London (2014) 
+**The Big Noise Festival** - Elephant & Castle, London (2014)  
 _Booker/Production assistant_
 - Helped coordinate a team of 10 volunteers on the ground.
 - Facilitated the procurement sound equipment, livestreamed and booked artists.
 
-**The Trailer TV** - Deptford, London (2013 - 2015) 
+**The Trailer TV** - Deptford, London (2013 - 2015)  
 _Co-founder: "Fortnightly music event showcasing emerging artists through its online broadcast of live performances, interviews and music videos in a lorry trailer"_
 - Managed a team of 8 volunteers.
 - Designed tech workshops for local arts charities to teach kids on how to livestream and DJ.
 - Booked artists and liaised closely with agents, promoters and record labels.
 
-**ULYSSE Transport** - Nice, France (2010 - 2011) 
+**ULYSSE Transport** - Nice, France (2010 - 2011)  
 _Transport Assistant and Fleet Officer (work placement)_
 - Coordinated 20 drivers and clients on a daily basis
 - Optimised the Fleet Officer's admin time spent by creating automated tools to monitor the national fleet via Excel (insurance expiry, fines due dates, car locations, etc).
 - Implementated a new procurement policy nationally by surveying our franchises and negotiating new prices with our top car manufacturers.
 - Secured 10 new regional lines on a call for tender after carefully analysing our client's requirements and designing an interactive visual tool on excel that helped us minimise the amount of vehicles and staff required.
 
-**HELP Transport** - Nice, France (2010 - 2011) 
+**HELP Transport** - Nice, France (2010 - 2011)  
 _Transport Assistant Officer (work placement)_
 - Coordinated over 10 trucks drivers internationally on a day-to-day basis.
 - 
