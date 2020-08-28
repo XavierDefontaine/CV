@@ -1,8 +1,15 @@
 ## Xavier Defontaine
 
-[Projects](https://github.com/XavierDefontaine/CV#projects) | [Skills](https://github.com/XavierDefontaine/CV#skills) | [Education](https://github.com/XavierDefontaine/CV#education) | [Experience](https://github.com/XavierDefontaine/CV#experience) | Interests | LinkedIn
+[Bio](https://github.com/XavierDefontaine/CV#xavier-defontaine) | [Projects](https://github.com/XavierDefontaine/CV#projects) | [Skills](https://github.com/XavierDefontaine/CV#skills) | [Education](https://github.com/XavierDefontaine/CV#education) | [Experience](https://github.com/XavierDefontaine/CV#experience) | [Interests](https://github.com/XavierDefontaine/CV#interests)
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+/ A sentence about who and what you are:
+I have been project managing worldwide tours for musicians for the last 7 years and am now focusing on tech.
+
+/ Then a sentence about what you've achieved:
+I aspire to be a Full Stack develloper and am currently undertaking an full time course at Makers academy to formalise my self taugh skills in coding.
+
+/ And then a sentence about what excites you about tech:
+
 
 ## Projects
 
@@ -65,5 +72,5 @@ _Logistics Coordinator & Admin Manager_
 - Acted as main contact between the directors, artists, managers and staff for any operational, logistical, legal and administrative support.
 
 ## Interests
-
+- 
 Any cool stuff that makes you a super part of a software development team
