@@ -90,7 +90,7 @@ _"Fortnightly music event showcasing emerging artists through its online broadca
 **ULYSSE Transport** - Nice, France (2010 - 2011)  
 _Transport Assistant and Fleet Officer (work placement)_
 - Coordinated 20 drivers and clients on a daily basis
-- Optimised the Fleet Officer's admin time spent by creating automated tools to monitor the national fleet via Excel (insurance expiry, fines due dates, car locations, etc).
+- Optimised the Fleet Officer's admin time  by creating automated tools to monitor the national fleet via Excel (insurance expiry, fines due dates, car locations, etc).
 - Implementated a new procurement policy nationally by surveying our franchises and negotiating new prices with our top car manufacturers.
 - Secured 10 new regional lines on a call for tender after carefully analysing our client's requirements and designing an interactive visual tool on excel that helped us minimise the amount of vehicles and staff required.
 
