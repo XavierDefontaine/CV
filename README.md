@@ -2,11 +2,11 @@
 
 [Bio](https://github.com/XavierDefontaine/CV#xavier-defontaine) | [Projects](https://github.com/XavierDefontaine/CV#projects) | [Skills](https://github.com/XavierDefontaine/CV#skills) | [Education](https://github.com/XavierDefontaine/CV#education) | [Experience](https://github.com/XavierDefontaine/CV#experience) | [Interests](https://github.com/XavierDefontaine/CV#interests)
 
-I'm Xavier, a bi-lingual french speaker who have been project managing worldwide tours for musicians for the last 7 years, created a livestreamed Jools Holland' style club night at the back of a lorry trailer in South East London along the way and now focusing on tech.
+I'm Xavier, a bi-lingual french speaker who has been project managing worldwide tours for musicians for the last 7 years, created a livestreamed club night at the back of a lorry trailer in South East London along the way and now focusing on tech.
 
-I aspire to be a Full Stack developer, currently undertaking a full time course at Makers Academy to formalise my quickly self taught coding skills.
+I aspire to be a Full Stack developer and am currently taking a full time course at Makers Academy to formalise my self taught coding skills.
 
-Throughout my education and career, I have stumbled upon technical bareers that could have easily been solved through a bit of code; it has 
+Throughout my education and career, I have stumbled upon technical barriers that could have easily been solved through a bit of code.
 
 ## Projects
 
@@ -26,20 +26,6 @@ Throughout my education and career, I have stumbled upon technical bareers that 
 
 #### Fast and continuous learner
 
-#### EXAMPLE
-
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-
-- Experience
-- Achievements
-- Evidence
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
