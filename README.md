@@ -81,7 +81,8 @@ _Booker/Production assistant_
 - Facilitated the procurement sound equipment, livestreamed and booked artists.
 
 **The Trailer TV** - Deptford, London (2013 - 2015)  
-_Co-founder: "Fortnightly music event showcasing emerging artists through its online broadcast of live performances, interviews and music videos in a lorry trailer"_
+_Co-founder_  
+_"Fortnightly music event showcasing emerging artists through its online broadcast of live performances, interviews and music videos in a lorry trailer"_
 - Managed a team of 8 volunteers.
 - Designed tech workshops for local arts charities to teach kids on how to livestream and DJ.
 - Booked artists and liaised closely with agents, promoters and record labels.
