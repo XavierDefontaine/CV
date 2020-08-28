@@ -72,8 +72,8 @@ _Executive Assistant of 2 senior Agents_
 **MN2S Booking Agency** - Borough, London (08/2014 - 01/2019)  
 _Logistics Coordinator & Admin Manager_
 - Led a team of 5 assistants overseeing a roster of 200+ artists across 15 agents and its logistics.
-- Created a corporate travel unit and acted as expert to boost our points and margins by up to 20%.
-- Acted as main contact between the directors, artists, managers and staff for any operational, logistical, legal and administrative support.
+- Created a corporate travel unit and provided expertise to boost our margins by up to 20%.
+- Acted as main contact between the directors, artists, managers and our staff for any operational, logistical, legal and administrative support.
 
 **The Big Noise Festival** - Elephant & Castle, London (2014)  
 _Booker/Production assistant_
