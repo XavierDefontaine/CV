@@ -66,8 +66,10 @@ Highly selective 12 week intensive coding bootcamp.
 ## Experience
 
 **Paradigm Talent Agency** - Old Street, London (01/2019 - Present)  
-_Executive Assistant of 2 senior Agents_
+_Executive Assistant to 2 Senior Agents_
 - First point of contact for operational, logistical and administrative support
+- Planning 
+- Coordinating tours (tax) marketing, announcements and on-sale including the approval of artworks, press releases and ticket sales across various platforms.
 
 **MN2S Booking Agency** - Borough, London (08/2014 - 01/2019)  
 _Logistics Coordinator & Admin Manager_
