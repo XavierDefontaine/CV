@@ -6,7 +6,7 @@ I'm Xavier, a bi-lingual french speaker who have been project managing worldwide
 
 I aspire to be a Full Stack developer, currently undertaking a full time course at Makers Academy to formalise my quickly self taught coding skills.
 
-Throughout my education and career, my beliefs 
+Throughout my education and career, I have stumbled upon technical bareers that could have easily been solved through a bit of code; it has 
 
 ## Projects
 
@@ -73,7 +73,7 @@ _Executive Assistant of 2 senior Agents_
 _Logistics Coordinator & Admin Manager_
 - Led a team of 5 assistants overseeing a roster of 200+ artists across 15 agents and its logistics.
 - Created a corporate travel unit and provided expertise to boost our margins by up to 20%.
-- Acted as main contact between the directors, artists, managers and our staff for any operational, logistical, legal and administrative support.
+- Acted as main contact between the directors, artists, managers and our staff for support and resolve any conflict be operational, logistical, legal or administrative.
 
 **The Big Noise Festival** - Elephant & Castle, London (2014)  
 _Booker/Production assistant_
@@ -81,8 +81,7 @@ _Booker/Production assistant_
 - Facilitated the procurement sound equipment, livestreamed and booked artists.
 
 **The Trailer TV** - Deptford, London (2013 - 2015)  
-_Co-founder_  
-_"Fortnightly music event showcasing emerging artists through its online broadcast of live performances, interviews and music videos in a lorry trailer"_
+_Co-founder - "Fortnightly music event showcasing emerging artists through its online broadcast of live performances, interviews and music videos in a lorry trailer"_  
 - Managed a team of 8 volunteers.
 - Designed tech workshops for local arts charities to teach kids on how to livestream and DJ.
 - Booked artists and liaised closely with agents, promoters and record labels.
@@ -94,10 +93,10 @@ _Transport Assistant and Fleet Officer (work placement)_
 - Implementated a new procurement policy nationally by surveying our franchises and negotiating new prices with our top car manufacturers.
 - Secured 10 new regional lines on a call for tender after carefully analysing our client's requirements and designing an interactive visual tool on excel that helped us minimise the amount of vehicles and staff required.
 
-**HELP Transport** - Nice, France (2010 - 2011)  
+**HELP Transport** - Nice, France (2009 - 2010)  
 _Transport Assistant Officer (work placement)_
 - Coordinated over 10 trucks drivers internationally on a day-to-day basis.
-- 
+- Increased the chartering margin by 10% by sourcing and negotiating with new suppliers, optimising internal flow times (invoicing process, internal/external communication and documentation, database standardisation) and signing us up to an online freight exchange.
 
 ## Interests
 - **Music**: from playing classical/baroque music on the recorder as a kid to heavy metal as rythmn guitar in high school or obsessively listening to electronic music now, music has always been a passion of mine.
