@@ -2,7 +2,7 @@
 
 [Bio](https://github.com/XavierDefontaine/CV#xavier-defontaine) | [Projects](https://github.com/XavierDefontaine/CV#projects) | [Skills](https://github.com/XavierDefontaine/CV#skills) | [Education](https://github.com/XavierDefontaine/CV#education) | [Experience](https://github.com/XavierDefontaine/CV#experience) | [Interests](https://github.com/XavierDefontaine/CV#interests)
 
-I'm Xavier, a bi-lingual french speaker who has been project managing worldwide tours for musicians for the last 7 years, created a livestreamed club night at the back of a lorry trailer container in South East London along the way and now focusing on becoming a developper.
+I'm Xavier, a bi-lingual french speaker who has project managed worldwide tours for musicians over the last 7 years, created a livestreamed club night at the back of a lorry trailer container in South East London along the way and now focusing on tech.
 
 I aspire to be a Full Stack developer and am currently taking a full time course at Makers Academy to formalise my self taught coding skills.
 
@@ -87,7 +87,6 @@ _Transport Assistant Officer (work placement)_
 - Increased the chartering margin by 10% by sourcing and negotiating with new suppliers, optimising internal flow times (invoicing process, internal/external communication and documentation, database standardisation) and signing us up to an online freight exchange.
 
 ## Interests
-- **Music**: from playing classical/baroque music on the recorder as a kid to heavy metal as rythmn guitar in high school or obsessively listening to electronic music now, music has always been a passion of mine.
-- **Restoration**: I love restoring mid-century furniture, gutting things around the house (computers, lamps etc) to see how they work and _sometimes_ fix them.
-- **Growing**: sowing seeds, watching it grow chopping its plants, and experimenting 
+- **Music**: from playing classical/baroque music on the recorder as a kid to heavy metal as rhythm guitar in high school or obsessively listening to electronic music now, music has always been a passion of mine.
+- **Restoration**: I love restoring mid-century furniture, gutting things around the house to see how they work and _sometimes_ fix them.
 - **Challenging**: I am fascinated by concepts totally alien to me especially those around the tech community whether philosophical (e.g [Lesswrong](https://www.lesswrong.com/)'s rationalism & AI) or more technical (e.g Hacker News) often leading me down rabbits holes for hours on end.
