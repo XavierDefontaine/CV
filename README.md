@@ -20,8 +20,6 @@ Throughout my education and career, I have stumbled upon technical barriers that
 
 #### Communication
 
-#### Highly 
-
 #### Problem solving (analysing, deliverying)
 
 #### Fast and continuous learner
