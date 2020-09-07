@@ -2,7 +2,7 @@
 
 [Bio](https://github.com/XavierDefontaine/CV#xavier-defontaine) | [Projects](https://github.com/XavierDefontaine/CV#projects) | [Skills](https://github.com/XavierDefontaine/CV#skills) | [Education](https://github.com/XavierDefontaine/CV#education) | [Experience](https://github.com/XavierDefontaine/CV#experience) | [Interests](https://github.com/XavierDefontaine/CV#interests)
 
-I'm Xavier, a bi-lingual french speaker who has been project managing worldwide tours for musicians for the last 7 years, created a livestreamed club night at the back of a lorry trailer container in South East London along the way and now focusing on tech.
+I'm Xavier, a bi-lingual french speaker who has been project managing worldwide tours for musicians for the last 7 years, created a livestreamed club night at the back of a lorry trailer container in South East London along the way and now focusing on becoming a developper.
 
 I aspire to be a Full Stack developer and am currently taking a full time course at Makers Academy to formalise my self taught coding skills.
 
