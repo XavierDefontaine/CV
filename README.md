@@ -16,11 +16,11 @@ Coding to me is the freedom to create and innovate, it offers the opportunity to
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| [Process Reviews dashboard](https://github.com/XavierDefontaine/ProcessReviewSite) | Final Group project. A full-stack web app for Reviewers to add their avails, rate student reviews and Students to book their reviews and track their progress visually overtime. Our challenge was learn a different framework, finalise our goals and deploy within a week. |  Express, React, NodeJS, PostreSQL, Sequelize, Heroku.  |
-| [Acebook](https://github.com/XavierDefontaine/acebook-robotlizard) | Group project. A social media web application inspired by Facebook. | Ruby on Rails, Heroku |
+| [Process Reviews dashboard](https://github.com/XavierDefontaine/ProcessReviewSite) | Final Group project. A full-stack web app for Reviewers to add their avails, rate student reviews and Students to book their reviews and track their progress visually overtime. Our challenge was to learn a different framework, finalise our goals and deploy within a week. |  Express, React, NodeJS, PostreSQL, Sequelize, Heroku.  |
+| [Acebook](https://github.com/XavierDefontaine/acebook-robotlizard) | Group project. A social media web application inspired by Facebook. | Ruby on Rails, RSpec, PostgreSQL, HTML/CSS, Google Cloud, Heroku. |
 | [Bank Tech Test](https://github.com/XavierDefontaine/Bank-Tech-Test) | Solo project. A small test-driven program to interact within the command line and log finances. | Ruby |
 
-## Skills
+## Soft Skills
 
 #### Adaptable
 
@@ -30,6 +30,78 @@ Coding to me is the freedom to create and innovate, it offers the opportunity to
 
 #### Fast and continuous learner
 
+
+## Tech Skills
+
+<table>
+  <thead>
+    <tr>
+      <th>Languages</th>
+      <th>Technologies</th>
+      <th>Testing Frameworks</th>
+      <th>Concepts</th>
+      <th>Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="vertical-align: top">
+        <ul>
+          <li>JavaScript</li>
+          <li>Ruby</li>
+          <li>SQL</li>
+          <li>HTML5</li>
+          <li>CSS3</li>
+        </ul>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
+          <li>React</li>
+          <li>Express</li>
+          <li>Sequelize ORM</li>
+          <li>Rails</li>
+          <li>Sinatra</li>
+          <li>Node.js</li>
+          <li>jQuery</li>
+          <li>PostgreSQL</li>
+          <li>TravisCI</li>
+          <li>Heroku</li>
+        </ul>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
+          <li>RSpec</li>
+          <li>Capybara</li>
+          <li>Jasmine</li>
+          <li>Jest</li>
+        </ul>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
+          <li>XP/Agile methodology</li>
+          <li>TDD/BDD</li>
+          <li>Object-Oriented Design</li>
+          <li>Remote working</li>
+          <li>Pair programming</li>
+          <li>Continuous Integration & Deployment</li>
+          <li>Git workflow</li>
+          <li>Code reviews</li>
+          <li>MVC Pattern</li>
+          <li>RESTful APIs</li>
+        </ul>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
+          <li>VSCode</li>
+          <li>Google Cloud/AWS</li>
+          <li>Git</li>
+          <li>TablePlus</li>
+          <li>OSX</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## Education
 
