@@ -10,13 +10,15 @@ With a background in Logistics & Supply Chain and having spent 7 years planning 
 
 I have recently graduated from Makers Academy, having realised a lifelong passion for software development, and am eager to start a new career.  My time at the bootcamp taught me the value of a growth mindset which is a principle I apply to all my learning and development.
 
-Coding to me is the freedom to create and innovate, it offers the opportunity to push exciting new boundaries and continually improve user experiences.  I am also excited to now have the technical skills and the perspective to be able to build solutions to help solve real world problems.
+Coding to me is the freedom to create and innovate, it offers the opportunity to push exciting new boundaries and continually improve user experiences. I am also excited to now have the technical skills and the perspective to be able to build solutions to help solve real world problems.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| [Student Directory](https://github.com/XavierDefontaine/student-directory) | My first command line app to add, save, load and display student data | Ruby |
+| [Process Reviews dashboard](https://github.com/XavierDefontaine/ProcessReviewSite) | Final Group project. A full-stack web app for Reviewers to add their avails, rate student reviews and Students to book their reviews and track their progress visually overtime. Our challenge was learn a different framework, finalise our goals and deploy within a week. |  Express, React, NodeJS, PostreSQL, Sequelize, Heroku.  |
+| [Acebook](https://github.com/XavierDefontaine/acebook-robotlizard) | Group project. A social media web application inspired by Facebook. | Ruby on Rails, Heroku |
+| [Bank Tech Test](https://github.com/XavierDefontaine/Bank-Tech-Test) | Solo project. A small test-driven program to interact within the command line and log finances. | Ruby |
 
 ## Skills
 
