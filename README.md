@@ -32,12 +32,16 @@ Coding to me is the freedom to create and innovate, it offers the opportunity to
 ## Education
 
 #### Makers Academy (September 2020 - November 2020)
-Highly selective 12 weeks intensive coding bootcamp.
+Makers is a highly selective and 12 week an intensive software development bootcamp. Throughout the course, we were taught the following:
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+    Languages: Ruby, Rails, JavaScript, SQL (PostgreSQL, ActiveRecord), Go
+    Testing: RSpec, Jasmine, Capybara
+    Design principles: OOP, TDD, MVC, DDD
+    Cloud Tech: Heroku, AWS, GCP
+    Tooling: Github Actions, Travis-CI, Git
+    TDD, pair programming and code reviews, focusing on clean code (DRY, SRP, RESTful APIs)
+    Development driven by Agile project management principles
+
 
 #### Marseille University - France (2009 - 2011)
 - Bachelor’s degree in Logistics and Supply Chain Management 
@@ -56,7 +60,6 @@ Highly selective 12 weeks intensive coding bootcamp.
 **Paradigm Talent Agency** - Old Street, London (01/2019 - Present)  
 _Executive Assistant to 2 Senior Agents_
 - First point of contact for operational, logistical and administrative support
-- Planning 
 - Coordinating tours (tax) marketing, announcements and on-sale including the approval of artworks, press releases and ticket sales across various platforms.
 
 **MN2S Booking Agency** - Borough, London (08/2014 - 01/2019)  
