@@ -10,7 +10,7 @@ With a background in Logistics & Supply Chain and having spent 7 years planning 
 
 I have recently graduated from Makers Academy, having realised a lifelong passion for software development, and am eager to start a new career.  My time at the bootcamp taught me the value of a growth mindset which is a principle I apply to all my learning and development.
 
-Coding to me is the freedom to create and innovate, it offers the opportunity to push exciting new boundaries and continually improve user experiences.  I am also excited to now have the technical skills and the perspective to be able to build solutions to help solve real world problems using TDD, Agile and best practices.
+Coding to me is the freedom to create and innovate, it offers the opportunity to push exciting new boundaries and continually improve user experiences.  I am also excited to now have the technical skills and the perspective to be able to build solutions to help solve real world problems.
 
 ## Projects
 
