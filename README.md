@@ -18,7 +18,7 @@ Coding to me is the freedom to create and innovate, it offers the opportunity to
 | ---------------------------- | ----------------- | ----------------- |
 | [Process Reviews dashboard](https://github.com/XavierDefontaine/ProcessReviewSite) | Final Group project. A full-stack web app for Reviewers to add their avails, rate student reviews and Students to book their reviews and track their progress visually overtime. Our challenge was to learn a different framework, finalise our goals and deploy within a week. |  Express, React, NodeJS, PostreSQL, Sequelize, Heroku.  |
 | [Acebook](https://github.com/XavierDefontaine/acebook-robotlizard) | Group project. A social media web application inspired by Facebook. | Ruby on Rails, RSpec, PostgreSQL, HTML/CSS, Google Cloud, Heroku. |
-| [Bank Tech Test](https://github.com/XavierDefontaine/Bank-Tech-Test) | Solo project. A small test-driven program to interact within the command line and log finances. | Ruby |
+| [Bank Tech Test](https://github.com/XavierDefontaine/Bank-Tech-Test) | Solo project. A small test-driven program to interact within the command line and log finances. | Ruby / RSpec |
 
 ## Soft Skills
 
