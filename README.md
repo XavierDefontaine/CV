@@ -1,6 +1,8 @@
 ## Xavier Defontaine
 
-[Bio](https://github.com/XavierDefontaine/CV#xavier-defontaine) | [Projects](https://github.com/XavierDefontaine/CV#projects) | [Skills](https://github.com/XavierDefontaine/CV#skills) | [Education](https://github.com/XavierDefontaine/CV#education) | [Experience](https://github.com/XavierDefontaine/CV#experience) | [Interests](https://github.com/XavierDefontaine/CV#interests)
+[Profile](https://github.com/XavierDefontaine/CV#Profile) | [Projects](https://github.com/XavierDefontaine/CV#projects) | [Skills](https://github.com/XavierDefontaine/CV#skills) | [Education](https://github.com/XavierDefontaine/CV#education) | [Experience](https://github.com/XavierDefontaine/CV#experience) | [Interests](https://github.com/XavierDefontaine/CV#interests)
+
+## Profile
 
 **Full Stack Junior Developer** looking for a Junior role across Backend and/or Frontend.
 
