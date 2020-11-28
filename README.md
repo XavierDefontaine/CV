@@ -109,7 +109,7 @@ Coding to me is the freedom to create and innovate, it offers the opportunity to
 Makers is a highly selective and 12 week an intensive software development bootcamp. Throughout the course, we were taught the following:
 
 - Languages: Ruby,JavaScript, SQL (PostgreSQL, ActiveRecord), HTML, CSS
-- Frameworks: Sinatra, Ruby on Rails, React, Sequelize
+- Frameworks: Sinatra, Ruby on Rails
 - Testing: RSpec, Jasmine, Capybara
 - Cloud Tech: Heroku, AWS, Google Cloud
 - Tooling: Travis-CI, Git
