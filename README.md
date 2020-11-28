@@ -23,7 +23,7 @@ Coding to me is the freedom to create and innovate, it offers the opportunity to
 | [Bank Tech Test](https://github.com/XavierDefontaine/Bank-Tech-Test) | Solo project. A small test-driven program to interact within the command line and log finances. | Ruby / RSpec |
 
 ## Skills
-# Tech Skills
+### Tech Skills
 
 <table>
   <thead>
@@ -96,7 +96,7 @@ Coding to me is the freedom to create and innovate, it offers the opportunity to
 </table>
 
 
-# Soft Skills
+### Soft Skills
 
 #### Adaptable
 
