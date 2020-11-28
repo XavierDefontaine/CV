@@ -34,13 +34,13 @@ Coding to me is the freedom to create and innovate, it offers the opportunity to
 #### Makers Academy (September 2020 - November 2020)
 Makers is a highly selective and 12 week an intensive software development bootcamp. Throughout the course, we were taught the following:
 
-    Languages: Ruby, Rails, JavaScript, SQL (PostgreSQL, ActiveRecord), Go
-    Testing: RSpec, Jasmine, Capybara
-    Design principles: OOP, TDD, MVC, DDD
-    Cloud Tech: Heroku, AWS, GCP
-    Tooling: Github Actions, Travis-CI, Git
-    TDD, pair programming and code reviews, focusing on clean code (DRY, SRP, RESTful APIs)
-    Development driven by Agile project management principles
+- Languages: Ruby,JavaScript, SQL (PostgreSQL, ActiveRecord), HTML, CSS
+- Frameworks: Sinatra, Ruby on Rails, React, Sequelize
+- Testing: RSpec, Jasmine, Capybara
+- Cloud Tech: Heroku, AWS, Google Cloud
+- Tooling: Travis-CI, Git
+- TDD, pair programming and code reviews, focusing on clean code (DRY, SRP, RESTful APIs)
+- Development driven by Agile project management principles applied whislt working on group projects
 
 
 #### Marseille University - France (2009 - 2011)
