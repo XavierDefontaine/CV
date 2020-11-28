@@ -2,11 +2,15 @@
 
 [Bio](https://github.com/XavierDefontaine/CV#xavier-defontaine) | [Projects](https://github.com/XavierDefontaine/CV#projects) | [Skills](https://github.com/XavierDefontaine/CV#skills) | [Education](https://github.com/XavierDefontaine/CV#education) | [Experience](https://github.com/XavierDefontaine/CV#experience) | [Interests](https://github.com/XavierDefontaine/CV#interests)
 
-I'm Xavier, a bi-lingual french speaker who has project managed worldwide tours for musicians over the last 7 years, created a livestreamed club night at the back of a lorry trailer container in South East London along the way and now focusing on tech.
+I am a **Full Stack Junior Developer** looking for a Junior role across Backend and/or Frontend.
 
-I aspire to be a Full Stack developer and am currently taking a full time course at Makers Academy to formalise my self taught coding skills.
+I am passionate about Ruby and Javascript with a thirst for learning new languages and frameworks.
 
-Throughout my education and career, I have stumbled upon technical barriers that could have easily been solved through a bit of code.
+With a background in Logistics & Supply Chain and having spent 7 years planning worldwide tours for global artist management agencies,  I have developed a strong  set of problem solving, collaborative and stakeholder management skills. I am my most energised when working with a diverse team to achieve a common goal, and really enjoy sharing knowledge as well as learning from those around me.
+
+I have recently graduated from Makers Academy, having realised a lifelong passion for software development, and am eager to start a new career.  My time at the bootcamp taught me the value of a growth mindset which is a principle I apply to all my learning and development.
+
+Coding to me is the freedom to create and innovate, it offers the opportunity to push exciting new boundaries and continually improve user experiences.  I am also excited to now have the technical skills and the perspective to be able to build solutions to help solve real world problems using TDD, Agile and best practices.
 
 ## Projects
 
