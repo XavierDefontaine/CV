@@ -2,7 +2,7 @@
 
 [Bio](https://github.com/XavierDefontaine/CV#xavier-defontaine) | [Projects](https://github.com/XavierDefontaine/CV#projects) | [Skills](https://github.com/XavierDefontaine/CV#skills) | [Education](https://github.com/XavierDefontaine/CV#education) | [Experience](https://github.com/XavierDefontaine/CV#experience) | [Interests](https://github.com/XavierDefontaine/CV#interests)
 
-I am a **Full Stack Junior Developer** looking for a Junior role across Backend and/or Frontend.
+**Full Stack Junior Developer** looking for a Junior role across Backend and/or Frontend.
 
 I am passionate about Ruby and Javascript with a thirst for learning new languages and frameworks.
 
