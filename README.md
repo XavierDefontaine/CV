@@ -180,3 +180,4 @@ _Transport Assistant Officer (work placement)_
 - **Music**: from playing classical/baroque music on the recorder as a kid to heavy metal as rhythm guitar in high school or obsessively listening to electronic music now, music has always been a passion of mine.
 - **Restoration**: I love restoring mid-century furniture, gutting things around the house to see how they work and _sometimes_ fix them.
 - **Challenging**: I am fascinated by concepts totally alien to me especially those around the tech community whether philosophical (e.g [Lesswrong](https://www.lesswrong.com/)'s rationalism & AI) or more technical (e.g Hacker News) often leading me down rabbits holes for hours on end.
+- **Currently Reading**: Metaprogramming Ruby by Paolo Perrota - Full Spectrum 3 - Thinking, Fast and Slow by Daniel Kahneman
