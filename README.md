@@ -1,6 +1,6 @@
 ## Xavier Defontaine
 
-[Profile](https://github.com/XavierDefontaine/CV#Profile) | [Projects](https://github.com/XavierDefontaine/CV#projects) | [Skills](https://github.com/XavierDefontaine/CV#skills) | [Education](https://github.com/XavierDefontaine/CV#education) | [Experience](https://github.com/XavierDefontaine/CV#experience) | [Interests](https://github.com/XavierDefontaine/CV#interests)
+[Profile](https://github.com/XavierDefontaine/CV#Profile) | [Skills](https://github.com/XavierDefontaine/CV#skills) | [Projects](https://github.com/XavierDefontaine/CV#projects) | [Education](https://github.com/XavierDefontaine/CV#education) | [Experience](https://github.com/XavierDefontaine/CV#experience) | [Interests](https://github.com/XavierDefontaine/CV#interests)
 
 ## Profile
 
@@ -14,13 +14,6 @@ I have recently graduated from Makers Academy, having realised a lifelong passio
 
 Coding to me is the freedom to create and innovate, it offers the opportunity to push exciting new boundaries and continually improve user experiences. I am also excited to now have the technical skills and the perspective to be able to build solutions to help solve real world problems.
 
-## Projects
-
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| [Process Reviews dashboard](https://github.com/XavierDefontaine/ProcessReviewSite) | Final Group project. A full-stack web app for Reviewers to add their avails, rate student reviews and Students to book their reviews and track their progress visually overtime. Our challenge was to learn a different framework, finalise our goals and deploy within a week. |  Express, React, NodeJS, PostreSQL, Sequelize, Heroku.  |
-| [Acebook](https://github.com/XavierDefontaine/acebook-robotlizard) | Group project. A social media web application inspired by Facebook. | Ruby on Rails, RSpec, PostgreSQL, HTML/CSS, Google Cloud, Heroku. |
-| [Bank Tech Test](https://github.com/XavierDefontaine/Bank-Tech-Test) | Solo project. A small test-driven program to interact within the command line and log finances. | Ruby / RSpec |
 
 ## Skills
 ### Tech Skills
@@ -111,6 +104,15 @@ Whilst working in artist management, I successfully managed high stakes relation
 #### Adaptable:
 I always try to operate using a growth mindset, by seeking out criticism, changing my approach if I meet a difficult challenge and gathering  different perspectives. This served me well when working on my final project at Makers.
 While managing lots of different stakeholders at MN2S and Paradigm I often had to adapt my communication skills and approaches to work successfully with different people, personalities and cultures. I worked with many different types of bands and artists, some in heavy rock, some in dance music, some in rap. And so, It was important to me to develop a deep understanding of each genre and scene so that I could be the best representative of my company, and could better understand the needs of the artist and where they were coming from. 
+
+
+## Projects
+
+| Name                         | Description       | Tech/tools        |
+| ---------------------------- | ----------------- | ----------------- |
+| [Process Reviews dashboard](https://github.com/XavierDefontaine/ProcessReviewSite) | Final Group project. A full-stack web app for Reviewers to add their avails, rate student reviews and Students to book their reviews and track their progress visually overtime. Our challenge was to learn a different framework, finalise our goals and deploy within a week. |  Express, React, NodeJS, PostreSQL, Sequelize, Heroku.  |
+| [Acebook](https://github.com/XavierDefontaine/acebook-robotlizard) | Group project. A social media web application inspired by Facebook. | Ruby on Rails, RSpec, PostgreSQL, HTML/CSS, Google Cloud, Heroku. |
+| [Bank Tech Test](https://github.com/XavierDefontaine/Bank-Tech-Test) | Solo project. A small test-driven program to interact within the command line and log finances. | Ruby / RSpec |
 
 
 ## Education
