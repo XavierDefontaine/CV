@@ -98,13 +98,20 @@ Coding to me is the freedom to create and innovate, it offers the opportunity to
 
 ### Soft Skills
 
-#### Adaptable
+#### Problem solving:
 
-#### Communication
+I always approach solving problems by breaking them down into manageable chunks. While working on my final project at Makers, we challenged ourselves to use entirely new technologies to us and finish our project in just over a week. During the project,  we came up against multiple problems which we solved by making a map of how each actor in the process interacted with each other, outlining the flow in the code,  narrowing down the issue, then each reading up on it and share what we learned to help inform our next sprint - the deployment of the web application was a good example of this as I tried to deploy both server and client and have them speak to each other, however then realised the server could solely serve the React frontend via its build. LINK
 
-#### Problem solving (analysing, deliverying)
+While working at MN2S, I led a team of 5 logistics co-ordinators as well as doing my own role. Part of my role was to motivate and coach the team who were working in a highly demanding and pressurised environment,  where we were constantly faced to solve logistical, contractual, financial and interpersonal issues relating to artist tours. I taught the team to alway remain calm, to wok together and with me to break the problem down and find the cleanest solution. In this role, I also learnt never to be deterred by a problem and that by taking a level headed approach and not giving up it can always be solved.
 
-#### Fast and continuous learner
+#### Stakeholder management:
+
+Whilst working in artist management, I successfully managed high stakes relationships with a variety of key stakeholders, including press and legal teams, event promoters, artist managers and the artists themselves, to ensure the success of worldwide tours and individual shows . This resulted in the band Boney M requesting me specifically to tour manage them in Thailand.  I also worked closely with DJ Jazzy Jeff and his team on multiple shows, which resulted in them agreeing to reunite with Will Smith for a one-off show in Blackpool in 2017 which they hadn’t done in decades.  To do this role successfully required excellent communication, management and organisational skills.
+
+#### Adaptable:
+I always try to operate using a growth mindset, by seeking out criticism, changing my approach if I meet a difficult challenge and gathering  different perspectives. This served me well when working on my final project at Makers.
+While managing lots of different stakeholders at MN2S and Paradigm I often had to adapt my communication skills and approaches to work successfully with different people, personalities and cultures. I worked with many different types of bands and artists, some in heavy rock, some in dance music, some in rap. And so, It was important to me to develop a deep understanding of each genre and scene so that I could be the best representative of my company, and could better understand the needs of the artist and where they were coming from. 
+
 
 ## Education
 
@@ -118,7 +125,6 @@ Makers is a highly selective and 12 week an intensive software development bootc
 - Tooling: Travis-CI, Git
 - TDD, pair programming and code reviews, focusing on clean code (DRY, SRP, RESTful APIs)
 - Development driven by Agile project management principles applied whislt working on group projects
-
 
 #### Marseille University - France (2009 - 2011)
 - Bachelor’s degree in Logistics and Supply Chain Management 
