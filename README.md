@@ -1,8 +1,8 @@
 ## Xavier Defontaine
 
-[Profile](https://github.com/XavierDefontaine/CV#Profile) | [Skills](https://github.com/XavierDefontaine/CV#skills) | [Projects](https://github.com/XavierDefontaine/CV#projects) | [Education](https://github.com/XavierDefontaine/CV#education) | [Experience](https://github.com/XavierDefontaine/CV#experience) | [Interests](https://github.com/XavierDefontaine/CV#interests)
+[About Me](https://github.com/XavierDefontaine/CV#about-me-) | [Skills](https://github.com/XavierDefontaine/CV#skills) | [Projects](https://github.com/XavierDefontaine/CV#projects) | [Education](https://github.com/XavierDefontaine/CV#education) | [Experience](https://github.com/XavierDefontaine/CV#experience) | [Interests](https://github.com/XavierDefontaine/CV#interests)
 
-## About me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## About me
 
 **Full Stack Junior Developer** looking for a Junior role across Backend and/or Frontend.
 
@@ -105,13 +105,11 @@ _Co-founder - "Fortnightly music event showcasing emerging artists through its o
 
 **ULYSSE Transport** - Nice, France (2010 - 2011)  
 _Transport Assistant and Fleet Officer (work placement)_
-- Coordinated 20 drivers and clients on a daily basis
-- Reduced the Fleet Officer's admin time by creating automated tools to monitor the national fleet via Excel (insurance expiry, fines due dates, car locations, etc).
+- Coordinated 20 drivers and reduced Director's admin time by creating automated tools to monitor the national fleet via Excel (insurance expiry, fines due dates, car locations, etc).
 
 **HELP Transport** - Nice, France (2009 - 2010)  
 _Transport Assistant Officer (work placement)_
-- Coordinated over 10 truck drivers internationally on a day-to-day basis.
-- Increased the chartering margin by 10% by sourcing and negotiating with new suppliers, optimising internal flows times (invoicing process, internal/external communication and documentation, database standardisation).
+- Coordinated over 10 truck drivers internationally and increased our chartering margin by 10% by negotiating contracts and optimising internal flows (invoicing, database standardisation etc).
 
 ## Interests 🎉
 - **Martial Arts**: I practice wing-chun (when there is no lock down).
