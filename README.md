@@ -40,7 +40,7 @@ While working at MN2S, I led a team of 5 logistics coordinators in a highly dema
 #### Stakeholder management 🤝
 Whilst working in artist management, I successfully managed high stakes relationships with a variety of key stakeholders, including press and legal teams, event promoters, artist managers and the artists themselves, to ensure the success of worldwide tours and individual shows. 
 
-This resulted in the band Boney M trusting me to tour manage them in Thailand and DJ Jazzy Jeff’s team agreeing to [reunite]((https://www.bbc.co.uk/news/uk-england-lancashire-41051831) with Will Smith for a one-off show in Blackpool in 2017 which they hadn’t done in decades.  
+This resulted in the band Boney M trusting me to tour manage them in Thailand and DJ Jazzy Jeff’s team agreeing to [reunite](https://www.bbc.co.uk/news/uk-england-lancashire-41051831) with Will Smith for a one-off show in Blackpool in 2017 which they hadn’t done in decades.  
 
 #### Adaptable ☯︎
 I always try to operate using a growth mindset, by seeking out criticism, changing my approach if I meet a difficult challenge and gathering different perspectives. This served me well when working on my final group project at Makers as it meant I could quickly learn new tools and motivate the team when we were struggling.
