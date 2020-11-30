@@ -18,6 +18,26 @@ Coding to me is the freedom to create and innovate, it offers the opportunity to
 ## Skills
 ### Tech Skills
 
+Test1
+
+|Languages|Technologies|Testing|Concepts|Tools|
+|---------|------------|-------|--------|-----|
+|JavaScript|React|Jest| XP/Agile|VSCode|
+|Ruby|Express|Jasmine|TDD/BDD|Google Cloud/AWS|
+|SQL|Sequelize ORM|Capybara|Object-Oriented Design|Git|
+|HTML5|Rails|RSpec|Remote working|TablePlus|
+|CSS3|Sinatra|Pair programming|OSX|
+||Node.js|Continuous Integration & Deployment|Bootstrap|
+||jQuery|Git workflow|
+||PostgreSQL|Code reviews|
+||TravisCI|MVC Pattern|
+||Heroku|RESTful APIs|
+    
+    
+  
+
+Test2
+
 <table>
   <thead>
     <tr>
