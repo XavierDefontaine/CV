@@ -33,7 +33,7 @@ I love programming as it gives me the freedom to create and innovate and it offe
 ### Soft Skills 
 
 #### Problem solving 🕵🏻‍♂️
-I always approach solving problems by breaking them down into manageable chunks. A good example of this was deploying a finished product in just over a week using entirely new technologies to us for my final project at Makers. During this project, we came up against multiple problems which we solved by mapping how each actor interacted, outlining the flow in the code, narrowing down the issue, then each reading up on them and sharing what we learned to inform our next sprint.
+I always approach solving problems by breaking them down into manageable chunks. A good example of this was deploying a finished product in just over a week using entirely new technologies to us for my final project at Makers. During this project, we came up against multiple challenges which we overcame by mapping how each actor interacted, outlining the flow in the code, narrowing down the issue, then each reading up on them and sharing what we learned to inform our next sprint.
 
 While working at MN2S, I led a team of 5 logistics coordinators in a highly demanding environment, where we were constantly faced with complex issues relating to artist tours. I taught the team to remain calm and worked with them to find the cleanest solution. In this role, I learned never to be deterred by a problem.
 
