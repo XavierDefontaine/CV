@@ -2,7 +2,7 @@
 
 [Profile](https://github.com/XavierDefontaine/CV#Profile) | [Skills](https://github.com/XavierDefontaine/CV#skills) | [Projects](https://github.com/XavierDefontaine/CV#projects) | [Education](https://github.com/XavierDefontaine/CV#education) | [Experience](https://github.com/XavierDefontaine/CV#experience) | [Interests](https://github.com/XavierDefontaine/CV#interests)
 
-## About me 🧔🏻
+## About me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 **Full Stack Junior Developer** looking for a Junior role across Backend and/or Frontend.
 
