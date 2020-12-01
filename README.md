@@ -55,7 +55,7 @@ Oh, and I also speak French fluently if that’s any use. 😁
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| [Process Reviews dashboard](https://github.com/XavierDefontaine/ProcessReviewSite) | Final Group project. A full-stack web app for Reviewers to add their avails, rate student reviews and Students to book their reviews and track their progress visually over time. Our challenge was to learn a different framework, finalise our goals and deploy within a week. |  Express, React, NodeJS, PostgreSQL, Bcrypt, Sequelize, Heroku.  |
+| [Process Reviews dashboard](https://github.com/XavierDefontaine/ProcessReviewSite) | Final Group project. A full-stack web app for Reviewers to add their avails, rate student reviews and Students to book their reviews and track their progress visually over time. Our challenge was to learn a different framework, finalise our goals and deploy in just over a week. |  Express, React, NodeJS, PostgreSQL, Bcrypt, Sequelize, Heroku.  |
 | [Acebook](https://github.com/XavierDefontaine/acebook-robotlizard) | Group project. A social media web application inspired by Facebook. | Ruby on Rails, RSpec, PostgreSQL, HTML/CSS, Devise, Google Cloud, Heroku. |
 | [Bank Tech Test](https://github.com/XavierDefontaine/Bank-Tech-Test) | Solo project. A small test-driven program to interact within the command line and log finances. | Ruby / RSpec |
 | [Gilded Rose](https://github.com/XavierDefontaine/Gilded-Rose-tech-test) | Solo project. A legacy code refactoring tech test. | Ruby / RSpec |
