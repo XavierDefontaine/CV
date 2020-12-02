@@ -19,12 +19,12 @@ I love programming as it gives me the freedom to create and innovate and it offe
 |Languages|Technologies|Testing|Concepts|Tools|
 |---------|------------|-------|--------|-----|
 |JavaScript|React|Jest| XP/Agile|VSCode|
-|Ruby|Express|Jasmine|TDD/BDD|GCP/AWS|
-|SQL|Sequelize ORM|Capybara|OO Design|Git|
-|HTML5|Rails|RSpec|Remote working|TablePlus|
-|CSS3|Sinatra||Pair programming|OSX|
-|Markdown|Node.js||CI/CD|Bootstrap|
-||jQuery||Git workflow||
+|NodeJS|Express|Jasmine|TDD/BDD|GCP/AWS|
+|Ruby|Sequelize ORM|Capybara|OO Design|Git|
+|SQL|Rails|RSpec|Remote working|TablePlus|
+|HTML5|Sinatra||Pair programming|OSX|
+|CSS3|Node.js||CI/CD|Bootstrap|
+|Markdown|jQuery||Git workflow||
 ||PostgreSQL||Refactoring Legacy code||
 ||TravisCI||MVC Pattern||
 ||Heroku||RESTful APIs||
