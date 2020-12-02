@@ -25,9 +25,9 @@ I love programming as it gives me the freedom to create and innovate and it offe
 |HTML5|Sinatra||Pair programming|OSX|
 |CSS3|jQuery||CI/CD|Bootstrap|
 |Markdown|PostgreSQL||Git workflow||
-||TravisCI||Refactoring Legacy code||
+||TravisCI||RESTful APIs||
 ||Heroku||MVC Pattern||
-||||RESTful APIs||
+||||Legacy code||
     
     
 ### Soft Skills 
