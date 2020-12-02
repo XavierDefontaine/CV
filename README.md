@@ -24,10 +24,10 @@ I love programming as it gives me the freedom to create and innovate and it offe
 |SQL|Ruby on Rails|RSpec|Remote working|TablePlus|
 |HTML5|Sinatra||Pair programming|OSX|
 |CSS3|jQuery||CI/CD|Bootstrap|
-|Markdown|||Git workflow||
-||PostgreSQL||Refactoring Legacy code||
-||TravisCI||MVC Pattern||
-||Heroku||RESTful APIs||
+|Markdown|PostgreSQL||Git workflow||
+||TravisCI||Refactoring Legacy code||
+||Heroku||MVC Pattern||
+||||RESTful APIs||
     
     
 ### Soft Skills 
