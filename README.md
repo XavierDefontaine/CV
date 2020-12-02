@@ -21,10 +21,10 @@ I love programming as it gives me the freedom to create and innovate and it offe
 |JavaScript|React|Jest| XP/Agile|VSCode|
 |NodeJS|Express|Jasmine|TDD/BDD|GCP/AWS|
 |Ruby|Sequelize ORM|Capybara|OO Design|Git|
-|SQL|Rails|RSpec|Remote working|TablePlus|
+|SQL|Ruby on Rails|RSpec|Remote working|TablePlus|
 |HTML5|Sinatra||Pair programming|OSX|
-|CSS3|Node.js||CI/CD|Bootstrap|
-|Markdown|jQuery||Git workflow||
+|CSS3|jQuery||CI/CD|Bootstrap|
+|Markdown|||Git workflow||
 ||PostgreSQL||Refactoring Legacy code||
 ||TravisCI||MVC Pattern||
 ||Heroku||RESTful APIs||
