@@ -22,7 +22,7 @@ I love programming as it gives me the freedom to create and innovate and it offe
 |NodeJS|Express|Jasmine|TDD/BDD|GCP/AWS|
 |Ruby|Sequelize|Capybara|OO Design|Git|
 |SQL|Ruby on Rails|RSpec|Remote working|TablePlus|
-|HTML5|Sinatra||Pair programming|OSX|
+|HTML5|Sinatra|Selenium|Pair programming|OSX|
 |CSS3|jQuery||CI/CD|Bootstrap|
 |Markdown|PostgreSQL||Git workflow||
 ||TravisCI||RESTful APIs||
