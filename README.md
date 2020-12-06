@@ -10,7 +10,7 @@ I have recently graduated from Makers Academy, having realised a lifelong passio
 
 With a background in Logistics & Supply Chain and having spent 7 years planning worldwide tours for global artist management agencies, I have developed a strong set of problem solving, collaborative and stakeholder management skills.
 
-I love programming as it gives me the freedom to create and innovate and it offers the opportunity to push exciting new boundaries while improving user experiences. I am now excited to be able to use my technical knowledge to build solutions to help solve real world problems, whether in my personal projects or in a workplace. 
+I love programming as it gives me the freedom to create and innovate and it offers the opportunity to push exciting new boundaries while improving user experiences. Throughout my career, I always thought of ways to improve and increase the efficiency of our processes, while keeping abreast of innovations in the sector. I am now particularly excited to be able to use my technical knowledge to build solutions to help solve real world problems, whether in my personal projects or in a workplace. 
 
 
 ## Skills
@@ -28,14 +28,52 @@ I love programming as it gives me the freedom to create and innovate and it offe
 ||TravisCI||RESTful APIs||
 ||Heroku||MVC Pattern||
 ||||Legacy code||
-    
-    
+### Projects 👨🏻‍💻
+#### [Process Reviews Dashboard](https://github.com/XavierDefontaine/ProcessReviewSite) 
+_/ A web app for Reviewers to add their avails, rate student reviews and Students to book reviews and track their progress visually over time._
+
+In this final group project at Makers, I:
+- challenged myself by learning an entirely new stack which was not taught on the course and deployed in just over a week. 
+- wrote the frontend with Javascript/React and Bootstrap for extra styling
+- wrote the backend in NodeJS/Express
+- hosted the database on AWS via Heroku and managed via PostgreSQL/Sequelize
+- used Bcrypt/Passport for authentication,
+- deployed via Heroku  with continuous integration via Travis-CI
+I particularly loved to:
+work as part of team and take ownership of features across backend and frontend
+gain the confidence to take a project from scoping requirements through to actual launch
+learn how to deploy a web app using the server to serve React’s build
+showcase our project to a wider audience (presentation on YouTube).
+Nice to have, if we had more time:
+making the frontend more responsive 
+fixing graphs rendering issues when passing props down from the Profile
+implementing Hash History as to avoid 404s on refresh or gracefully handle them with a catch-all.
+
+#### [Acebook Robot-lizard](https://github.com/XavierDefontaine/acebook-robotlizard) |
+_A web app inspired by Facebook for lizards and robots who like to hack._
+In this group project, we used:
+Ruby on Rails for the backend
+HTML/CSS for the frontend
+Devise for Authentication and emails management
+Capybara/RSpec for TDD
+Database management with PostgreSQL and Google Cloud for media files
+Deployed via Heroku.
+
+#### [Bank Tech Test](https://github.com/XavierDefontaine/Bank-Tech-Test) 
+_A solo project and small test-driven program to interact within the command line and log finances._ 
+Here, I worked off acceptance criterias to create user stories and write a program in Ruby / RSpec using BDD / best OOP practices.
+
+#### [Gilded Rose](https://github.com/XavierDefontaine/Gilded-Rose-tech-test) 
+_A solo project to work with and refactor legacy code._
+On this challenge, I had to add a new product to an [ugly](https://github.com/emilybache/GildedRose-Refactoring-Kata/blob/master/ruby/gilded_rose.rb) codebase. 
+I started by writing [tests with 100% coverage](https://github.com/XavierDefontaine/Gilded-Rose-tech-test/blob/master/spec/gilded_rose_spec.rb) via RSpec and encapsulated patterns to be able to [refactor and add the new product](https://github.com/XavierDefontaine/Gilded-Rose-tech-test/blob/master/lib/refactored_gilded_rose.rb). If I had more time then, I would have looked at moving each item into respective classes using SRP and dependency injection.
+
 ### Soft Skills 
 
 #### Problem solving 🕵🏻‍♂️
-I always approach solving problems by breaking them down into manageable chunks. A good example of this was deploying a finished product in just over a week using entirely new technologies to us for my final project at Makers. During this project, we came up against multiple challenges which we overcame by mapping how each actor interacted, outlining the flow in the code, narrowing down the issue, then each reading up on them and sharing what we learned to inform our next sprint.
+I always approach solving problems by breaking them down into manageable chunks. I am patient and never deterred by a problem. A good example of this was deploying a finished product in just over a week using entirely new technologies to us for my final project at Makers - we came up against multiple challenges which we overcame by mapping how each actor interacted, outlining the flow in the code, narrowing down the issue, then each reading up on them and sharing what we learned to inform our next sprint.
 
-While working at MN2S, I led a team of 5 logistics coordinators in a highly demanding environment, where we were constantly faced with complex issues relating to artist tours. I taught the team to remain calm and worked with them to find the cleanest solution. In this role, I learned never to be deterred by a problem.
+While working at MN2S, I led a team of 5 logistics coordinators in a highly demanding environment, where we were constantly faced with complex issues relating to artist tours. I taught the team to remain calm and worked with them to find the cleanest solution. 
 
 #### Stakeholder management 🤝
 Whilst working in artist management, I successfully managed high stakes relationships with a variety of key stakeholders, including press and legal teams, event promoters, artist managers and the artists themselves, to ensure the success of worldwide tours and individual shows. 
@@ -43,35 +81,31 @@ Whilst working in artist management, I successfully managed high stakes relation
 This resulted in the band Boney M trusting me to tour manage them in Thailand and DJ Jazzy Jeff’s team agreeing to [reunite](https://www.bbc.co.uk/news/uk-england-lancashire-41051831) with Will Smith for a one-off show in Blackpool in 2017 which they hadn’t done in decades.  
 
 #### Adaptable ☯︎
-I always try to operate using a growth mindset, by seeking out criticism, changing my approach if I meet a difficult challenge and gathering different perspectives. This served me well when working on my final group project at Makers as it meant I could quickly learn new tools and motivate the team when we were struggling.
+I always try to operate using a growth mindset, by seeking out criticism, changing my approach if I meet a difficult challenge and gathering different perspectives
 
-While working in music, I often had to adapt my communication style to build good relationships and to explain complex technical or legal requirements to different audiences. 
-I always meticulously researched the music genre, product and industry I was working with to go above and beyond what was expected of me, for the artist and my company. 
+This served me well when working on my final group project at Makers as it meant I could quickly learn new tools and motivate the team when we were struggling.
+
+I pride myself on being empathic, a good listener and have the emotional intelligence to navigate through difficult situations and meant I could play an important role in keeping the team on track through positive leadership.
+
+While working in music, I often had to adapt my communication style to build good relationships and explain complex concepts (e.g. technical, legal etc) to different audiences. 
+For example, I would always meticulously research the music genre, product and industry I was working with to go above and beyond what was expected of me, for the artist and my company. 
 
 #### Additional Skill 
-Oh, and I also speak French fluently if that’s any use. 😁
-
-## Projects 👨🏻‍💻
-
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| [Process Reviews dashboard](https://github.com/XavierDefontaine/ProcessReviewSite) | Final Group project. A full-stack web app for Reviewers to add their avails, rate student reviews and Students to book their reviews and track their progress visually over time. Our challenge was to learn a different framework, finalise our goals and deploy in just over a week. |  Express, React, NodeJS, PostgreSQL, Bcrypt, Sequelize, Heroku.  |
-| [Acebook](https://github.com/XavierDefontaine/acebook-robotlizard) | Group project. A social media web application inspired by Facebook. | Ruby on Rails, RSpec, PostgreSQL, HTML/CSS, Devise, Google Cloud, Heroku. |
-| [Bank Tech Test](https://github.com/XavierDefontaine/Bank-Tech-Test) | Solo project. A small test-driven program to interact within the command line and log finances. | Ruby / RSpec |
-| [Gilded Rose](https://github.com/XavierDefontaine/Gilded-Rose-tech-test) | Solo project. A legacy code refactoring tech test. | Ruby / RSpec |
+Oh, and I also speak French fluently!
 
 
 ## Education 🎓
 
 #### Makers Academy (September 2020 - November 2020)
-Makers is a highly selective and 12 week intensive software development bootcamp. Throughout the course, we were taught the following:
-- Languages: Ruby, JavaScript, SQL (PostgreSQL, ActiveRecord), HTML, CSS
-- Frameworks: Sinatra, Ruby on Rails
-- Testing: RSpec, Jasmine, Capybara
-- Tooling: Travis-CI, Git
-- TDD, pair programming and code reviews, focusing on clean code (DRY, SRP, RESTful APIs)
-- Development driven by Agile project management principles applied whilst working on group projects
-
+Makers is a highly selective and 12 week intensive **software development bootcamp**. 
+Built full-stack applications in several languages including Ruby, Rails, JavaScript, SQL (PostgreSQL, ActiveRecord) and HTML/CSS.
+Extensively practiced TDD principles using RSpec, Jasmine and Capybara
+Learnt and applied architectural patterns including MVC and DDD
+Pair programmed extensively during design and development of applications
+Provided code reviews focusing on OOP, DRY, SRP and RESTful API design
+Deployed to, and interacted with, cloud platforms including AWS, GCP and Heroku
+Integrated CI/CD workflows using Travis-CI and Github
+Development driven by Agile project management principles using Github Projects and UML diagrams
 #### Marseille University - France (2009 - 2011)
 - Bachelor’s degree in Logistics and Supply Chain Management 
 
@@ -113,7 +147,11 @@ _Transport Assistant Officer (work placement)_
 
 ## Interests 🎉
 - **Martial Arts**: I practice wing-chun (when there is no lock down).
-- **Music**: from playing classical/baroque music on the recorder as a kid to heavy metal as rhythm guitar in high school or obsessively listening to electronic music now, music has always been a passion of mine.
+- **Music**: from playing classical/baroque music on the recorder as a kid to heavy metal as rhythm guitar in high school or obsessively listening to electronic music now, music has always been a passion of mine - [my top 2020 Spotify songs](https://open.spotify.com/playlist/37i9dQZF1EM51tz1HB9yQx).
 - **Restoration**: I love restoring mid-century furniture, gutting things around the house to see how they work and _sometimes_ fix them.
 - **Challenging**: I am fascinated by concepts totally alien to me especially those around the tech community whether philosophical (e.g [Lesswrong](https://www.lesswrong.com/)'s rationalism & AI) or more technical (e.g Hacker News) often leading me down rabbits holes for hours on end.
 - **Currently Reading**: Metaprogramming Ruby by Paolo Perrota - Full Spectrum 3 - Thinking, Fast and Slow by Daniel Kahneman
+- **_Virtually_ Attending**: LRUG (London Ruby User Group) / BBC tech meetups.
+
+
+
