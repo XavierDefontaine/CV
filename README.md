@@ -30,7 +30,7 @@ I love programming as it gives me the freedom to create and innovate and it offe
 ||||Legacy code||
 ### Projects 👨🏻‍💻
 #### [Process Reviews Dashboard](https://github.com/XavierDefontaine/ProcessReviewSite) 
-_/ A web app for Reviewers to add their avails, rate student reviews and Students to book reviews and track their progress visually over time._
+_A web app for Reviewers to add their avails, rate student reviews and Students to book reviews and track their progress visually over time._
 
 In this final group project at Makers, I:
 - challenged myself by learning an entirely new stack which was not taught on the course and deployed in just over a week. 
@@ -40,24 +40,24 @@ In this final group project at Makers, I:
 - used Bcrypt/Passport for authentication,
 - deployed via Heroku  with continuous integration via Travis-CI
 I particularly loved to:
-work as part of team and take ownership of features across backend and frontend
-gain the confidence to take a project from scoping requirements through to actual launch
-learn how to deploy a web app using the server to serve React’s build
-showcase our project to a wider audience (presentation on YouTube).
+- work as part of team and take ownership of features across backend and frontend
+- gain the confidence to take a project from scoping requirements through to actual launch
+- learn how to deploy a web app using the server to serve React’s build
+- showcase our project to a wider audience (presentation on YouTube).
 Nice to have, if we had more time:
-making the frontend more responsive 
-fixing graphs rendering issues when passing props down from the Profile
-implementing Hash History as to avoid 404s on refresh or gracefully handle them with a catch-all.
+- making the frontend more responsive 
+- fixing graphs rendering issues when passing props down from the Profile
+- implementing Hash History as to avoid 404s on refresh or gracefully handle them with a catch-all.
 
 #### [Acebook Robot-lizard](https://github.com/XavierDefontaine/acebook-robotlizard) |
 _A web app inspired by Facebook for lizards and robots who like to hack._
 In this group project, we used:
-Ruby on Rails for the backend
-HTML/CSS for the frontend
-Devise for Authentication and emails management
-Capybara/RSpec for TDD
-Database management with PostgreSQL and Google Cloud for media files
-Deployed via Heroku.
+- Ruby on Rails for the backend
+- HTML/CSS for the frontend
+- Devise for Authentication and emails management
+- Capybara/RSpec for TDD
+- Database management with PostgreSQL and Google Cloud for media files
+- Deployed via Heroku.
 
 #### [Bank Tech Test](https://github.com/XavierDefontaine/Bank-Tech-Test) 
 _A solo project and small test-driven program to interact within the command line and log finances._ 
