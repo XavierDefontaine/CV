@@ -39,11 +39,13 @@ In this final group project at Makers, I:
 - hosted the database on AWS via Heroku and managed via PostgreSQL/Sequelize
 - used Bcrypt/Passport for authentication,
 - deployed via Heroku  with continuous integration via Travis-CI
+
 I particularly loved to:
 - work as part of team and take ownership of features across backend and frontend
 - gain the confidence to take a project from scoping requirements through to actual launch
 - learn how to deploy a web app using the server to serve React’s build
 - showcase our project to a wider audience (presentation on YouTube).
+
 Nice to have, if we had more time:
 - making the frontend more responsive 
 - fixing graphs rendering issues when passing props down from the Profile
