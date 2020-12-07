@@ -29,7 +29,34 @@ I love programming as it gives me the freedom to create and innovate and it offe
 ||Heroku||MVC Pattern||
 ||||Legacy code||
 
-### Projects 👨🏻‍💻
+### Soft Skills 
+
+#### Problem solving 🕵🏻‍♂️
+I always approach solving problems by breaking them down into manageable chunks. I am **patient** and never deterred by a problem. A good example of this was deploying a finished product in just over a week using entirely new technologies to us for my final project at Makers - we came up against multiple challenges which we overcame by mapping how each actor interacted, outlining the flow in the code, narrowing down the issue, then each reading up on them and sharing what we learned to inform our next sprint.
+
+While working at MN2S, I led a team of 5 logistics coordinators in a highly demanding environment, where we were constantly faced with complex issues relating to artist tours. I taught the team to remain **calm** and worked with them to find the **cleanest solution**. 
+
+#### Stakeholder management 🤝
+Whilst working in artist management, I successfully managed high stakes relationships with a variety of key stakeholders, including press and legal teams, event promoters, artist managers and the artists themselves, to ensure the success of worldwide tours and individual shows. 
+
+This resulted in the band Boney M trusting me to tour manage them in Thailand and DJ Jazzy Jeff’s team agreeing to [reunite](https://www.bbc.co.uk/news/uk-england-lancashire-41051831) with Will Smith for a one-off show in Blackpool in 2017 which they hadn’t done in decades.  
+
+#### Adaptable ☯︎
+I always try to operate using a **growth mindset**, by seeking out criticism, changing my approach if I meet a difficult challenge and gathering different perspectives
+
+This served me well when working on my final group project at Makers as it meant I could quickly learn new tools and motivate the team when we were struggling.
+
+I pride myself on being **empathic**, a good listener and have the emotional intelligence to navigate through difficult situations. This meant I could play an important role in keeping the project team on track through **positive leadership**.
+
+While working in music, I often had to adapt my communication style to build good relationships and explain complex concepts (e.g. technical, legal etc) to different audiences. 
+
+Having worked with a very diverse roster of artists, I would always meticulously research the music genre, product and industry I was working with to go above and beyond what was expected of me, for the artist and my company. 
+
+#### Additional Skill 
+Oh, and I also speak French fluently!
+
+
+## Projects 👨🏻‍💻
 #### [Process Reviews Dashboard](https://github.com/XavierDefontaine/ProcessReviewSite) 
 _"A web app for reviewers and students to book reviews and track their progress visually over time."_
 
@@ -75,33 +102,6 @@ _"A solo project to work with and refactor legacy code."_
 
 On this challenge, I had to add a new product to a legacy codebase that has gone [out of hand](https://github.com/emilybache/GildedRose-Refactoring-Kata/blob/master/ruby/gilded_rose.rb). 
 I started by writing [tests with 100% coverage](https://github.com/XavierDefontaine/Gilded-Rose-tech-test/blob/master/spec/gilded_rose_spec.rb) via RSpec and encapsulated behaviour to be able to [refactor and add the new product](https://github.com/XavierDefontaine/Gilded-Rose-tech-test/blob/master/lib/refactored_gilded_rose.rb). If I had more time then, I would have looked at moving each item into respective classes using SRP and dependency injection.
-
-### Soft Skills 
-
-#### Problem solving 🕵🏻‍♂️
-I always approach solving problems by breaking them down into manageable chunks. I am **patient** and never deterred by a problem. A good example of this was deploying a finished product in just over a week using entirely new technologies to us for my final project at Makers - we came up against multiple challenges which we overcame by mapping how each actor interacted, outlining the flow in the code, narrowing down the issue, then each reading up on them and sharing what we learned to inform our next sprint.
-
-While working at MN2S, I led a team of 5 logistics coordinators in a highly demanding environment, where we were constantly faced with complex issues relating to artist tours. I taught the team to remain **calm** and worked with them to find the **cleanest solution**. 
-
-#### Stakeholder management 🤝
-Whilst working in artist management, I successfully managed high stakes relationships with a variety of key stakeholders, including press and legal teams, event promoters, artist managers and the artists themselves, to ensure the success of worldwide tours and individual shows. 
-
-This resulted in the band Boney M trusting me to tour manage them in Thailand and DJ Jazzy Jeff’s team agreeing to [reunite](https://www.bbc.co.uk/news/uk-england-lancashire-41051831) with Will Smith for a one-off show in Blackpool in 2017 which they hadn’t done in decades.  
-
-#### Adaptable ☯︎
-I always try to operate using a **growth mindset**, by seeking out criticism, changing my approach if I meet a difficult challenge and gathering different perspectives
-
-This served me well when working on my final group project at Makers as it meant I could quickly learn new tools and motivate the team when we were struggling.
-
-I pride myself on being **empathic**, a good listener and have the emotional intelligence to navigate through difficult situations. This meant I could play an important role in keeping the project team on track through **positive leadership**.
-
-While working in music, I often had to adapt my communication style to build good relationships and explain complex concepts (e.g. technical, legal etc) to different audiences. 
-
-Having worked with a very diverse roster of artists, I would always meticulously research the music genre, product and industry I was working with to go above and beyond what was expected of me, for the artist and my company. 
-
-#### Additional Skill 
-Oh, and I also speak French fluently!
-
 
 ## Education 🎓
 
