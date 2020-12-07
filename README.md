@@ -29,7 +29,7 @@ I love programming as it gives me the freedom to create and innovate and it offe
 ||Heroku||MVC Pattern||
 ||||Legacy code||
 ### Projects 👨🏻‍💻
-#### | [Process Reviews Dashboard](https://github.com/XavierDefontaine/ProcessReviewSite) | 
+#### | [Process Reviews Dashboard](https://github.com/XavierDefontaine/ProcessReviewSite) 
 _A web app for reviewers and students to book reviews and track their progress visually over time._
 
 In this final group project at Makers, I:
@@ -51,7 +51,7 @@ Nice to have, if we had more time:
 - Fixing graphs rendering issues when passing props down from the Profile
 - Implementing Hash History as to avoid 404s on refresh or gracefully handle them with a catch-all.
 
-#### | [Acebook Robot-lizard](https://github.com/XavierDefontaine/acebook-robotlizard) | 
+#### | [Acebook Robot-lizard](https://github.com/XavierDefontaine/acebook-robotlizard) 
 _A web app inspired by Facebook for lizards and robots who like to hack._
 
 In this group project, we used:
@@ -62,12 +62,12 @@ In this group project, we used:
 - Database management with **PostgreSQL** and **Google Cloud **for media files
 - Deployed via **Heroku**.
 
-#### | [Bank Tech Test](https://github.com/XavierDefontaine/Bank-Tech-Test) | 
+#### | [Bank Tech Test](https://github.com/XavierDefontaine/Bank-Tech-Test) 
 _A solo project and small test-driven program to interact with the command line and log finances._ 
 
 Here, I worked off acceptance criterias to create user stories and write a program in Ruby / RSpec using BDD / best OOP practices.
 
-####  | [Gilded Rose](https://github.com/XavierDefontaine/Gilded-Rose-tech-test) | 
+####  | [Gilded Rose](https://github.com/XavierDefontaine/Gilded-Rose-tech-test) 
 _A solo project to work with and refactor legacy code._
 
 On this challenge, I had to add a new product to a legacy codebase that has gone [out of hand](https://github.com/emilybache/GildedRose-Refactoring-Kata/blob/master/ruby/gilded_rose.rb). 
