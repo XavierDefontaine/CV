@@ -1,9 +1,16 @@
 Xavier Defontaine
 ============
 
+>  **Full Stack Junior Developer** looking for a role across Backend and/or Frontend.  
+
+-------------------     ----------------------------
+  
+[About me](#about-me-) | [Skills](#skills) | [Projects](#projects) | [Education](#education-) | [Experience](#experience-) | [Interests](#interests-)  
+
 -------------------     ----------------------------
 
->  **Full Stack Junior Developer** looking for a role across Backend and/or Frontend.
+About me
+--------------------
 
 I have recently graduated from Makers Academy, having realised a lifelong passion for software development. I am passionate about Ruby and Javascript with a thirst for discovering new languages and frameworks. 
 
@@ -13,7 +20,7 @@ I love programming as it gives me the freedom to create and innovate and it offe
 
 Throughout my career, I would always think of ways to improve our processes while keeping abreast of innovations in the sector and I am now particularly excited to be able to use my technical knowledge to build solutions to help solve real world problems, whether in my personal projects or in a workplace. 
 
--------------------     ----------------------------
+
 
 
 Skills
