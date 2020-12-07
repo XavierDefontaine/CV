@@ -1,0 +1,535 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>README</title>
+  <style>
+    html {
+      line-height: 1.5;
+      font-family: Georgia, serif;
+      font-size: 20px;
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      word-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 1em;
+      }
+    }
+    @media print {
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, 'Lucida Console', Consolas, monospace;
+      font-size: 85%;
+      margin: 0;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+  <style type="text/css">
+  /*
+   * Copyright 2013 Christophe-Marie Duquesne <chmd@chmd.fr>
+   *
+   * CSS for making a resume with pandoc. Inspired by moderncv.
+   *
+   * This CSS document is delivered to you under the CC BY-SA 3.0 License.
+   * https://creativecommons.org/licenses/by-sa/3.0/deed.en_US
+   */
+
+  /* Whole document */
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+  html {
+      background: #f1faee;
+  }
+  body {
+      font-family: 'Roboto', sans-serif;
+      max-width: 1000px;
+      margin: auto;
+      background: #f1faee;
+      padding: 10px 10px 10px 10px;
+      color: #003049;
+  }
+
+  /* Title of the resume */
+  h1 {
+      font-size: 55px;
+      color: #1d3557;
+      text-align:center;
+      margin-bottom:15px;
+  }
+  /* h1:hover { */
+  /*     background-color: #757575; */
+  /*     color: #FFFFFF; */
+  /*     text-shadow: 1px 1px 1px #333; */
+  /* } */
+
+  /* Titles of categories */
+  h2 {
+      /* This is called "sectioncolor" in the ConTeXt stylesheet. */
+      color: #33617e;
+      margin-bottom: 0.4em;
+  }
+  /* There is a bar just before each category */
+  h2:before {
+      content: "";
+      display: inline-block;
+      margin-right:1%;
+      width: 16%;
+      height: 10px;
+      /* This is called "rulecolor" in the ConTeXt stylesheet. */
+      background-color: #a8dadc;
+  }
+  h3 {
+      color: #1d3557;
+      margin-bottom: 0px;
+      text-decoration: underline;
+  }
+  h4 {
+      margin-bottom: 0.5em;
+  }
+  ul {
+      margin-top: 0.1em
+  }
+  /* h2:hover { */
+  /*     background-color: #397249; */
+  /*     color: #FFFFFF; */
+  /*     text-shadow: 1px 1px 1px #333; */
+  /* } */
+
+  /* Definitions */
+  dt {
+      float: left;
+      clear: left;
+      width: 17%;
+      font-weight: bold;
+  }
+  dd {
+      text-align: justify;
+      margin-left: 17%;
+      margin-bottom:15px;
+  }
+  p {
+      text-align: justify;
+      margin-top:0;
+      margin-bottom:7px;
+  }
+
+  /* Blockquotes */
+  blockquote {
+      margin: 1.5em 0 2em 1.7em;
+      text-align: center !important;
+      border-left: none;
+      padding-left: 5.5em;
+  }
+
+  /* Links */
+  a {
+      /* text-decoration: none; */
+      color: #0000EE !important;
+  }
+  a:hover, a:active {
+      background-color: #0096c7 !important;
+      color: #FFFFFF !important;
+      text-decoration: none;
+      text-shadow: 1px 1px 1px #4361ee !important;
+  }
+
+  /* Horizontal separators */
+  hr {
+      color: #A6A6A6;
+  }
+  /* table stuff */
+  table {
+      border-collapse: collapse;
+      margin: 25px 0;
+      font-size: 0.9em;
+      font-family: sans-serif;
+      width: 100%; 
+      display: table;
+      box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+      overflow-x:auto;
+  }
+  table th,
+  table td {
+      padding: 5px 15px;
+  }
+  table thead tr {
+      background-color: #457b9d;
+      color: #ffffff;
+      text-align: left;
+  }
+  table tbody tr {
+      border-bottom: 1px solid #dddddd;
+  }
+
+  table tbody tr:nth-of-type(even) {
+      background-color: #e6f4f5;
+  }
+
+  table tbody tr:last-of-type {
+      border-bottom: 2px solid #457b9d;
+  }
+  .styled-table tbody tr.active-row {
+      font-weight: bold;
+      color: #457b9d;
+  }
+
+
+
+  </style>
+</head>
+<body>
+<h1 id="xavier-defontaine">Xavier Defontaine</h1>
+<blockquote>
+<p><strong>Full Stack Junior Developer</strong> looking for a role across Backend and/or Frontend.</p>
+</blockquote>
+<hr />
+<p><a href="#about-me-">About me</a> | <a href="#skills">Skills</a> | <a href="#projects">Projects</a> | <a href="#education-">Education</a> | <a href="#experience-">Experience</a> | <a href="#interests-">Interests</a></p>
+<hr />
+<h2 id="about-me">About me</h2>
+<p>I have recently graduated from Makers Academy, having realised a lifelong passion for software development. I am passionate about Ruby and Javascript with a thirst for discovering new languages and frameworks.</p>
+<p>With a background in Logistics &amp; Supply Chain and having spent 7 years planning worldwide tours for global artist management agencies, I have developed a strong set of problem solving, collaborative and stakeholder management skills.</p>
+<p>I love programming as it gives me the freedom to create and innovate and it offers the opportunity to push exciting new boundaries while improving user experiences.</p>
+<p>Throughout my career, I would always think of ways to improve our processes while keeping abreast of innovations in the sector and I am now particularly excited to be able to use my technical knowledge to build solutions to help solve real world problems, whether in my personal projects or in a workplace.</p>
+<h2 id="skills">Skills</h2>
+<h3 id="tech-skills">Tech Skills 🏋️‍</h3>
+<table>
+<thead>
+<tr class="header">
+<th>Languages</th>
+<th>Technologies</th>
+<th>Testing</th>
+<th>Concepts</th>
+<th>Tools</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>JavaScript</td>
+<td>React</td>
+<td>Jest</td>
+<td>XP/Agile</td>
+<td>VSCode</td>
+</tr>
+<tr class="even">
+<td>NodeJS</td>
+<td>Express</td>
+<td>Jasmine</td>
+<td>TDD/BDD</td>
+<td>GCP/AWS</td>
+</tr>
+<tr class="odd">
+<td>Ruby</td>
+<td>Sequelize</td>
+<td>Capybara</td>
+<td>OO Design</td>
+<td>Git</td>
+</tr>
+<tr class="even">
+<td>SQL</td>
+<td>Ruby on Rails</td>
+<td>RSpec</td>
+<td>Remote working</td>
+<td>TablePlus</td>
+</tr>
+<tr class="odd">
+<td>HTML5</td>
+<td>Sinatra</td>
+<td>Selenium</td>
+<td>Pair programming</td>
+<td>OSX</td>
+</tr>
+<tr class="even">
+<td>CSS3</td>
+<td>jQuery</td>
+<td></td>
+<td>CI/CD</td>
+<td>Bootstrap</td>
+</tr>
+<tr class="odd">
+<td>Markdown</td>
+<td>PostgreSQL</td>
+<td></td>
+<td>Git workflow</td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td>TravisCI</td>
+<td></td>
+<td>RESTful APIs</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>Heroku</td>
+<td></td>
+<td>MVC Pattern</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h3 id="soft-skills">Soft Skills</h3>
+<h4 id="problem-solving">Problem solving 🕵🏻‍♂️</h4>
+<p>I always approach solving problems by breaking them down into manageable chunks. I am <strong>patient</strong> and never deterred by a problem.<br />
+A good example of this was deploying a finished product in just over a week using entirely new technologies to us for my final project at Makers - we came up against multiple challenges which we overcame by mapping how each actor interacted, outlining the flow in the code, narrowing down the issue, then each reading up on them and sharing what we learned to inform our next sprint.<br />
+While working at MN2S, I led a team of 5 logistics coordinators in a highly demanding environment, where we were constantly faced with complex issues relating to artist tours. I taught the team to remain <strong>calm</strong> and worked with them to find the <strong>cleanest solution</strong>.</p>
+<h4 id="stakeholder-management">Stakeholder management 🤝</h4>
+<p>Whilst working in artist management, I successfully managed high stakes relationships with a variety of key stakeholders, including press and legal teams, event promoters, artist managers and the artists themselves, to ensure the success of worldwide tours and individual shows.<br />
+This resulted in the band Boney M trusting me to tour manage them in Thailand and DJ Jazzy Jeff’s team agreeing to <a href="https://www.bbc.co.uk/news/uk-england-lancashire-41051831" target="_blank">reunite</a> with Will Smith for a one-off show in Blackpool in 2017 which they hadn’t done in decades.</p>
+<h4 id="adaptable">Adaptable ☯︎</h4>
+<p>I always try to operate using a <strong>growth mindset</strong>, by seeking out criticism, changing my approach if I meet a difficult challenge and gathering different perspectives This served me well when working on my final group project at Makers as it meant I could quickly learn new tools and motivate the team when we were struggling.<br />
+I pride myself on being <strong>empathic</strong>, a good listener and have the emotional intelligence to navigate through difficult situations. This meant I could play an important role in keeping the project team on track through <strong>positive leadership</strong>.<br />
+While working in music, I often had to adapt my communication style to build good relationships and explain complex concepts (e.g. technical, legal etc) to different audiences.</p>
+<h4 id="bonus">Bonus</h4>
+<p>Oh, and I also speak French fluently!</p>
+<h2 id="projects">Projects 👨🏻‍💻</h2>
+<h3 id="process-reviews-dashboard"><a href="https://github.com/XavierDefontaine/ProcessReviewSite" target="_blank">Process Reviews Dashboard</a></h3>
+<p><em>“A web app for reviewers and students to book reviews and track their progress visually over time.”</em></p>
+<p>In this final group project at Makers, I:</p>
+<ul>
+<li>Challenged myself by learning an entirely new stack which was not taught on the course and deployed in just over a week.</li>
+<li>Wrote the frontend with <strong>Javascript/React</strong> and <strong>Bootstrap</strong> for extra styling</li>
+<li>Wrote the backend in <strong>NodeJS/Express</strong></li>
+<li>Hosted the database on <strong>AWS</strong> via <strong>Heroku</strong> and managed via <strong>PostgreSQL/Sequelize</strong></li>
+<li>Used <strong>Bcrypt/Passport</strong> for authentication,</li>
+<li>Deployed via <strong>Heroku</strong> with continuous integration via Travis-CI</li>
+</ul>
+<p>I particularly loved to:</p>
+<ul>
+<li>Work as part of a team and take ownership of features across backend and frontend</li>
+<li>Gain the confidence to take a project from scoping requirements through to actual launch</li>
+<li>Learn how to deploy a web app using the server to serve React’s build</li>
+<li>Showcase our project to a wider audience (<a href="https://www.youtube.com/watch?v=iJvfMVrU9Vk" target="_blank">presentation on YouTube</a>).</li>
+</ul>
+<p>Nice to have, if we had more time:</p>
+<ul>
+<li>Making the frontend more responsive</li>
+<li>Fixing graphs rendering issues when passing props down from the Profile</li>
+<li>Implementing Hash History as to avoid 404s on refresh or gracefully handle them with a catch-all.</li>
+</ul>
+<h3 id="acebook-robot-lizard"><a href="https://github.com/XavierDefontaine/acebook-robotlizard" target="_blank">Acebook Robot-lizard</a></h3>
+<p><em>“A web app inspired by Facebook for lizards and robots who like to hack.”</em></p>
+<p>In this group project, we used:</p>
+<ul>
+<li><strong>Ruby on Rails</strong> for the backend</li>
+<li><strong>HTML/CSS</strong> for the frontend</li>
+<li><strong>Devise</strong> for Authentication and emails management</li>
+<li><strong>Capybara/RSpec</strong> for TDD</li>
+<li>Database management with <strong>PostgreSQL</strong> and <strong>Google Cloud </strong>for media files</li>
+<li>Deployed via <strong>Heroku</strong>.</li>
+</ul>
+<h3 id="bank-tech-test"><a href="https://github.com/XavierDefontaine/Bank-Tech-Test" target="_blank">Bank Tech Test</a></h3>
+<p><em>“A solo project and small test-driven program to interact with the command line and log finances.”</em></p>
+<p>Here, I worked off acceptance criterias to create user stories and write a program in Ruby / RSpec using BDD / best OOP practices.</p>
+<h3 id="gilded-rose"><a href="https://github.com/XavierDefontaine/Gilded-Rose-tech-test" target="_blank">Gilded Rose</a></h3>
+<p><em>“A solo project to work with and refactor legacy code.”</em></p>
+<p>On this challenge, I had to add a new product to a legacy codebase that has gone <a href="https://github.com/emilybache/GildedRose-Refactoring-Kata/blob/master/ruby/gilded_rose.rb" target="_blank">out of hand</a>. I started by writing <a href="https://github.com/XavierDefontaine/Gilded-Rose-tech-test/blob/master/spec/gilded_rose_spec.rb" target="_blank">tests with 100% coverage</a> via RSpec and encapsulated behaviour to be able to <a href="https://github.com/XavierDefontaine/Gilded-Rose-tech-test/blob/master/lib/refactored_gilded_rose.rb" target="_blank">refactor and add the new product</a>. If I had more time then, I would have looked at moving each item into respective classes using SRP and dependency injection.</p>
+<h2 id="education">Education 🎓</h2>
+<dl>
+<dt>Sep 2020 - Nov 2020</dt>
+<dd><strong>Makers Academy</strong> • London (remote)<br />
+A highly selective and 12 week intensive <strong>software development bootcamp</strong>.
+</dd>
+<dd><ul>
+<li>Built full-stack applications in Ruby, Rails, JavaScript, SQL and HTML/CSS.</li>
+<li>Extensively practiced TDD principles using RSpec, Jasmine and Capybara</li>
+<li>Learnt and applied architectural patterns including MVC and DDD</li>
+<li>Pair programmed extensively during design and development of applications</li>
+<li>Provided code reviews focusing on OOP, DRY, SRP and RESTful API design</li>
+<li>Deployed to, and interacted with, cloud platforms including AWS, GCP and Heroku</li>
+<li>Integrated CI/CD workflows using Travis-CI and Github</li>
+<li>Development driven by Agile project management principles using Github Projects and UML diagrams</li>
+</ul>
+</dd>
+<dt>2009 - 2011</dt>
+<dd><strong>BSc, Logistics and Supply Chain Management</strong> • University of Marseille
+</dd>
+<dt>2007 - 2009</dt>
+<dd><strong>HND, Quality, Logistics and Organisation</strong> • University of Nice
+</dd>
+<dt>2007</dt>
+<dd><strong>A-level in Electrotechnics</strong> • Lycée Albert 1er - Monaco
+</dd>
+<dt>2001 - 2007</dt>
+<dd><strong>Higher Diploma in Music Theory</strong> • Music Academy of Monaco
+</dd>
+</dl>
+<h2 id="experience">Experience ☕️</h2>
+<dl>
+<dt>Jan 2019 - Present</dt>
+<dd><strong>Paradigm Talent Agency</strong> • Old Street, London<br />
+<em>Executive Assistant to 2 Senior Agents</em>
+</dd>
+<dt>Aug 2014 - Nov 2019</dt>
+<dd><strong>MN2S Booking Agency</strong> • Borough, London<br />
+<em>Logistics Coordinator &amp; Admin Manager</em>
+</dd>
+<dd><ul>
+<li>Led a team of 5 assistants overseeing a roster of 200+ artists across 20 agents and its logistics.</li>
+<li>Set up a corporate travel unit and provided expertise to boost our margins by up to 20%.</li>
+</ul>
+</dd>
+<dt>2013 - 2015</dt>
+<dd><strong>The Trailer TV</strong> • Deptford, London<br />
+<em>Co-founder - “Fortnightly music event showcasing emerging artists through its online broadcast of live performances, interviews and music videos in a lorry trailer”</em>
+</dd>
+<dd><ul>
+<li>Designed tech workshops for local arts charities to teach kids how to live stream and DJ.</li>
+</ul>
+</dd>
+<dt>2010 - 2011</dt>
+<dd><strong>ULYSSE Transport</strong> • Nice, France<br />
+<em>Transport Assistant and Fleet Officer</em>
+</dd>
+<dd><ul>
+<li>Coordinated 20 drivers and reduced Director’s admin time by creating automated tools to monitor the national fleet via Excel (insurance expiry, fines due dates, car locations, etc).</li>
+</ul>
+</dd>
+<dt>2009 - 2010</dt>
+<dd><strong>HELP Transport</strong> • Nice, France<br />
+<em>Transport Assistant Officer</em>
+</dd>
+<dd><ul>
+<li>Coordinated over 10 truck drivers internationally and increased our chartering margin by 10% by negotiating contracts and optimising internal flows (invoicing, database standardisation etc).</li>
+</ul>
+</dd>
+</dl>
+<h2 id="interests">Interests 🎉</h2>
+<ul>
+<li><strong>Martial Arts</strong>: I practice wing-chun (when there is no lock down).</li>
+<li><strong>Music</strong>: from playing classical/baroque music on the recorder as a kid to heavy metal as rhythm guitar in high school or obsessively listening to electronic music now, music has always been a passion of mine - <a href="https://open.spotify.com/playlist/37i9dQZF1EM51tz1HB9yQx" target="_blank">my top 2020 Spotify songs</a>.</li>
+<li><strong>Restoration</strong>: I love restoring mid-century furniture, gutting things around the house to see how they work and <em>sometimes</em> fix them.</li>
+<li><strong>Challenging</strong>: I am fascinated by concepts totally alien to me especially those around the tech community whether philosophical (e.g <a href="https://www.lesswrong.com/" target="_blank">Lesswrong</a>’s rationalism &amp; AI) or more technical (e.g Hacker News) often leading me down rabbits holes for hours on end.</li>
+<li><strong>Currently Reading</strong>: Metaprogramming Ruby by Paolo Perrota - Full Spectrum 3 - Thinking, Fast and Slow by Daniel Kahneman</li>
+<li><strong><em>Virtually</em> Attending</strong>: LRUG (London Ruby User Group) / BBC tech meetups.</li>
+</ul>
+<hr />
+<blockquote>
+<p><a href="mailto:xdefontaine@gmail.com" class="email">xdefontaine@gmail.com</a> • +44 7 845 585 137 • Deptford, London, UK</p>
+</blockquote>
+<hr />
+<p><em>Markdown CV made possible with Pandoc.</em></p>
+</body>
+</html>

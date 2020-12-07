@@ -186,4 +186,4 @@ Interests 🎉
 > <xdefontaine@gmail.com> • +44 7 845 585 137 • Deptford, London, UK
 
 ----
-_Markdown CV made possible with Pandoc._
+_Markdown CV made possible with Pandoc and [mszep](https://github.com/mszep/pandoc_resume)._
