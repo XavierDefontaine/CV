@@ -28,6 +28,7 @@ I love programming as it gives me the freedom to create and innovate and it offe
 ||TravisCI||RESTful APIs||
 ||Heroku||MVC Pattern||
 ||||Legacy code||
+
 ### Projects 👨🏻‍💻
 #### [Process Reviews Dashboard](https://github.com/XavierDefontaine/ProcessReviewSite) 
 _"A web app for reviewers and students to book reviews and track their progress visually over time."_
@@ -41,7 +42,7 @@ In this final group project at Makers, I:
 - Deployed via **Heroku** with continuous integration via Travis-CI
 
 I particularly loved to:
-- Work as part of team and take ownership of features across backend and frontend
+- Work as part of a team and take ownership of features across backend and frontend
 - Gain the confidence to take a project from scoping requirements through to actual launch
 - Learn how to deploy a web app using the server to serve React’s build
 - Showcase our project to a wider audience ([presentation on YouTube](https://www.youtube.com/watch?v=iJvfMVrU9Vk)).
@@ -80,7 +81,7 @@ I started by writing [tests with 100% coverage](https://github.com/XavierDefonta
 #### Problem solving 🕵🏻‍♂️
 I always approach solving problems by breaking them down into manageable chunks. I am **patient** and never deterred by a problem. A good example of this was deploying a finished product in just over a week using entirely new technologies to us for my final project at Makers - we came up against multiple challenges which we overcame by mapping how each actor interacted, outlining the flow in the code, narrowing down the issue, then each reading up on them and sharing what we learned to inform our next sprint.
 
-While working at MN2S, I led a team of 5 logistics coordinators in a highly demanding environment, where we were constantly faced with complex issues relating to artist tours. I taught the team to remain **calm** and worked with them to find the cleanest solution. 
+While working at MN2S, I led a team of 5 logistics coordinators in a highly demanding environment, where we were constantly faced with complex issues relating to artist tours. I taught the team to remain **calm** and worked with them to find the **cleanest solution**. 
 
 #### Stakeholder management 🤝
 Whilst working in artist management, I successfully managed high stakes relationships with a variety of key stakeholders, including press and legal teams, event promoters, artist managers and the artists themselves, to ensure the success of worldwide tours and individual shows. 
