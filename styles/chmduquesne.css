@@ -28,8 +28,9 @@ body {
     max-width: 1000px;
     margin: auto;
     background: #f1faee;
-    padding: 10px 10px 10px 10px;
+    padding: 10px 25px 10px 25px;
     color: #003049;
+    font-size: 0.8em;
 }
 
 /* Title of the resume */
@@ -132,12 +133,8 @@ table {
     width: 100%; 
     display: table;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
-    /* overflow-x:auto; */
 }
-/* table th,
-table td {
-    padding: 5px 15px;
-} */
+
 table thead tr {
     background-color: #457b9d;
     color: #ffffff;

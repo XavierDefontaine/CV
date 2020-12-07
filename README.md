@@ -5,7 +5,8 @@ Xavier Defontaine
 
 -------------------     ----------------------------
   
-[About me](#about-me-) | [Skills](#skills) | [Projects](#projects) | [Education](#education-) | [Experience](#experience-) | [Interests](#interests-) |
+[About me](#about-me) | [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) |
+<!-- |---------|------------|-------|--------|-----| -->
 
 -------------------     ----------------------------
 
@@ -19,8 +20,6 @@ With a background in Logistics & Supply Chain and having spent 7 years planning 
 I love programming as it gives me the freedom to create and innovate and it offers the opportunity to push exciting new boundaries while improving user experiences. 
 
 Throughout my career, I would always think of ways to improve our processes while keeping abreast of innovations in the sector and I am now particularly excited to be able to use my technical knowledge to build solutions to help solve real world problems, whether in my personal projects or in a workplace. 
-
-
 
 
 Skills
@@ -56,9 +55,6 @@ I always try to operate using a **growth mindset**, by seeking out criticism, ch
 This served me well when working on my final group project at Makers as it meant I could quickly learn new tools and motivate the team when we were struggling.  
 I pride myself on being **empathic**, a good listener and have the emotional intelligence to navigate through difficult situations. This meant I could play an important role in keeping the project team on track through **positive leadership**.  
 While working in music, I often had to adapt my communication style to build good relationships and explain complex concepts (e.g. technical, legal etc) to different audiences. 
-
-#### Bonus
-Oh, and I also speak French fluently!
 
 Projects 👨🏻‍💻
 ---------
