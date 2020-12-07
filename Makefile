@@ -1,4 +1,4 @@
-OUT_DIR=output
+OUT_DIR=docs
 IN_DIR=.
 STYLES_DIR=styles
 STYLE=chmduquesne
