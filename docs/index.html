@@ -4,7 +4,7 @@
   <meta charset="utf-8" />
   <meta name="generator" content="pandoc" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-  <title>README</title>
+  <title>Xavier Defontaine - CV</title>
   <style>
     html {
       line-height: 1.5;
@@ -162,6 +162,16 @@
   html {
       background: #f1faee;
   }
+  /* navbar! */
+  /* table:first-of-type {
+  background-color: red !important;
+  position: fixed;
+  width: 100%;
+  align-items: center;
+  top: 0px; 
+  } */
+
+
   body {
       font-family: 'Roboto', sans-serif;
       max-width: 1000px;
@@ -237,11 +247,14 @@
 
   /* Blockquotes */
   blockquote {
-      margin: 1.5em 0 2em 1.7em;
-      text-align: center !important;
-      border-left: none;
-      padding-left: 5.5em;
+      border-left: none !important;
+      padding-right: 2em;
+      margin: 1.7em 0 1em 1em;
   }
+  p:nth-child(1) {
+      text-align: center !important;
+  }
+
 
   /* Links */
   a {
@@ -263,17 +276,17 @@
   table {
       border-collapse: collapse;
       margin: 25px 0;
-      font-size: 0.9em;
+      font-size: 0.85em;
       font-family: sans-serif;
       width: 100%; 
       display: table;
       box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
-      overflow-x:auto;
+      /* overflow-x:auto; */
   }
-  table th,
+  /* table th,
   table td {
       padding: 5px 15px;
-  }
+  } */
   table thead tr {
       background-color: #457b9d;
       color: #ffffff;
@@ -305,7 +318,19 @@
 <p><strong>Full Stack Junior Developer</strong> looking for a role across Backend and/or Frontend.</p>
 </blockquote>
 <hr />
-<p><a href="#about-me-">About me</a> | <a href="#skills">Skills</a> | <a href="#projects">Projects</a> | <a href="#education-">Education</a> | <a href="#experience-">Experience</a> | <a href="#interests-">Interests</a></p>
+<table>
+<thead>
+<tr class="header">
+<th><a href="#about-me-">About me</a></th>
+<th><a href="#skills">Skills</a></th>
+<th><a href="#projects">Projects</a></th>
+<th><a href="#education-">Education</a></th>
+<th><a href="#experience-">Experience</a></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
 <hr />
 <h2 id="about-me">About me</h2>
 <p>I have recently graduated from Makers Academy, having realised a lifelong passion for software development. I am passionate about Ruby and Javascript with a thirst for discovering new languages and frameworks.</p>
@@ -448,7 +473,7 @@ While working in music, I often had to adapt my communication style to build goo
 <p>On this challenge, I had to add a new product to a legacy codebase that has gone <a href="https://github.com/emilybache/GildedRose-Refactoring-Kata/blob/master/ruby/gilded_rose.rb" target="_blank">out of hand</a>. I started by writing <a href="https://github.com/XavierDefontaine/Gilded-Rose-tech-test/blob/master/spec/gilded_rose_spec.rb" target="_blank">tests with 100% coverage</a> via RSpec and encapsulated behaviour to be able to <a href="https://github.com/XavierDefontaine/Gilded-Rose-tech-test/blob/master/lib/refactored_gilded_rose.rb" target="_blank">refactor and add the new product</a>. If I had more time then, I would have looked at moving each item into respective classes using SRP and dependency injection.</p>
 <h2 id="education">Education 🎓</h2>
 <dl>
-<dt>Sep 2020 - Nov 2020</dt>
+<dt>09/2020 - 11/2020</dt>
 <dd><strong>Makers Academy</strong> • London (remote)<br />
 A highly selective and 12 week intensive <strong>software development bootcamp</strong>.
 </dd>
@@ -478,11 +503,11 @@ A highly selective and 12 week intensive <strong>software development bootcamp</
 </dl>
 <h2 id="experience">Experience ☕️</h2>
 <dl>
-<dt>Jan 2019 - Present</dt>
+<dt>01/2019 - 12/2020</dt>
 <dd><strong>Paradigm Talent Agency</strong> • Old Street, London<br />
 <em>Executive Assistant to 2 Senior Agents</em>
 </dd>
-<dt>Aug 2014 - Nov 2019</dt>
+<dt>08/2014 - 11/2019</dt>
 <dd><strong>MN2S Booking Agency</strong> • Borough, London<br />
 <em>Logistics Coordinator &amp; Admin Manager</em>
 </dd>
@@ -530,6 +555,6 @@ A highly selective and 12 week intensive <strong>software development bootcamp</
 <p><a href="mailto:xdefontaine@gmail.com" class="email">xdefontaine@gmail.com</a> • +44 7 845 585 137 • Deptford, London, UK</p>
 </blockquote>
 <hr />
-<p><em>Markdown CV made possible with Pandoc and <a href="https://github.com/mszep/pandoc_resume" target="_blank">mszep</a>.</em></p>
+<p><em>Markdown CV made possible with <a href="https://pandoc.org/" target="_blank">Pandoc</a> and <a href="https://github.com/mszep/pandoc_resume" target="_blank">mszep</a>.</em></p>
 </body>
 </html>

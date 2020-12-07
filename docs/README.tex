@@ -77,10 +77,19 @@ and/or Frontend.
 
 \thinrule
 
-\goto{About me}[about-me-] \letterbar{} \goto{Skills}[skills]
-\letterbar{} \goto{Projects}[projects] \letterbar{}
-\goto{Education}[education-] \letterbar{} \goto{Experience}[experience-]
-\letterbar{} \goto{Interests}[interests-]
+\startplacetable[location=none]
+\startxtable
+\startxtablehead[head]
+\startxrow
+\startxcell \goto{About me}[about-me-] \stopxcell
+\startxcell \goto{Skills}[skills] \stopxcell
+\startxcell \goto{Projects}[projects] \stopxcell
+\startxcell \goto{Education}[education-] \stopxcell
+\startxcell \goto{Experience}[experience-] \stopxcell
+\stopxrow
+\stopxtablehead
+\stopxtable
+\stopplacetable
 
 \thinrule
 
@@ -352,7 +361,7 @@ dependency injection.
 
 \subsection[title={Education 🎓},reference={education}]
 
-\startdescription{Sep 2020 - Nov 2020}
+\startdescription{09/2020 - 11/2020}
   {\bf Makers Academy} • London (remote)\crlf
   A highly selective and 12 week intensive {\bf software development
   bootcamp}.
@@ -402,12 +411,12 @@ dependency injection.
 
 \subsection[title={Experience ☕️},reference={experience}]
 
-\startdescription{Jan 2019 - Present}
+\startdescription{01/2019 - 12/2020}
   {\bf Paradigm Talent Agency} • Old Street, London\crlf
   {\em Executive Assistant to 2 Senior Agents}
 \stopdescription
 
-\startdescription{Aug 2014 - Nov 2019}
+\startdescription{08/2014 - 11/2019}
   {\bf MN2S Booking Agency} • Borough, London\crlf
   {\em Logistics Coordinator & Admin Manager}
 
@@ -497,7 +506,8 @@ dependency injection.
 
 \thinrule
 
-{\em Markdown CV made possible with Pandoc and
-\useURL[url13][https://github.com/mszep/pandoc_resume][][mszep]\from[url13].}
+{\em Markdown CV made possible with
+\useURL[url13][https://pandoc.org/][][Pandoc]\from[url13] and
+\useURL[url14][https://github.com/mszep/pandoc_resume][][mszep]\from[url14].}
 
 \stoptext

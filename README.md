@@ -5,7 +5,7 @@ Xavier Defontaine
 
 -------------------     ----------------------------
   
-[About me](#about-me-) | [Skills](#skills) | [Projects](#projects) | [Education](#education-) | [Experience](#experience-) | [Interests](#interests-)  
+[About me](#about-me-) | [Skills](#skills) | [Projects](#projects) | [Education](#education-) | [Experience](#experience-) | [Interests](#interests-) |
 
 -------------------     ----------------------------
 
@@ -117,7 +117,7 @@ I started by writing [tests with 100% coverage](https://github.com/XavierDefonta
 Education 🎓 
 ---------
 
-Sep 2020 -  Nov 2020
+09/2020 - 11/2020
 :   **Makers Academy** • London (remote)  
 A highly selective and 12 week intensive **software development bootcamp**.  
 : * Built full-stack applications in Ruby, Rails, JavaScript, SQL and HTML/CSS.
@@ -145,11 +145,11 @@ A highly selective and 12 week intensive **software development bootcamp**.
 Experience ☕️
 ----------
 
-Jan 2019 -  Present
+01/2019 - 12/2020
 :   **Paradigm Talent Agency** • Old Street, London  
 _Executive Assistant to 2 Senior Agents_
 
-Aug 2014 - Nov 2019
+08/2014 - 11/2019
 :   **MN2S Booking Agency** • Borough, London  
 _Logistics Coordinator & Admin Manager_
 : - Led a team of 5 assistants overseeing a roster of 200+ artists across 20 agents and its logistics.
@@ -186,4 +186,4 @@ Interests 🎉
 > <xdefontaine@gmail.com> • +44 7 845 585 137 • Deptford, London, UK
 
 ----
-_Markdown CV made possible with Pandoc and [mszep](https://github.com/mszep/pandoc_resume)._
+_Markdown CV made possible with [Pandoc](https://pandoc.org/) and [mszep](https://github.com/mszep/pandoc_resume)._

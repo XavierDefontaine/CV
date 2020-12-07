@@ -13,6 +13,16 @@
 html {
     background: #f1faee;
 }
+/* navbar! */
+/* table:first-of-type {
+background-color: red !important;
+position: fixed;
+width: 100%;
+align-items: center;
+top: 0px; 
+} */
+
+
 body {
     font-family: 'Roboto', sans-serif;
     max-width: 1000px;
@@ -88,11 +98,14 @@ p {
 
 /* Blockquotes */
 blockquote {
-    margin: 1.5em 0 2em 1.7em;
-    text-align: center !important;
-    border-left: none;
-    padding-left: 5.5em;
+    border-left: none !important;
+    padding-right: 2em;
+    margin: 1.7em 0 1em 1em;
 }
+p:nth-child(1) {
+    text-align: center !important;
+}
+
 
 /* Links */
 a {
@@ -114,17 +127,17 @@ hr {
 table {
     border-collapse: collapse;
     margin: 25px 0;
-    font-size: 0.9em;
+    font-size: 0.85em;
     font-family: sans-serif;
     width: 100%; 
     display: table;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
-    overflow-x:auto;
+    /* overflow-x:auto; */
 }
-table th,
+/* table th,
 table td {
     padding: 5px 15px;
-}
+} */
 table thead tr {
     background-color: #457b9d;
     color: #ffffff;
