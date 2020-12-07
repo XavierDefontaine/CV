@@ -30,29 +30,30 @@ I love programming as it gives me the freedom to create and innovate and it offe
 ||||Legacy code||
 ### Projects 👨🏻‍💻
 #### [Process Reviews Dashboard](https://github.com/XavierDefontaine/ProcessReviewSite) 
-_A web app for Reviewers to add their avails, rate student reviews and Students to book reviews and track their progress visually over time._
+_A web app for reviewers to add their avails, rate student reviews and students to book reviews and track their progress visually over time._
 
 In this final group project at Makers, I:
-- challenged myself by learning an entirely new stack which was not taught on the course and deployed in just over a week. 
-- wrote the frontend with Javascript/React and Bootstrap for extra styling
-- wrote the backend in NodeJS/Express
-- hosted the database on AWS via Heroku and managed via PostgreSQL/Sequelize
-- used Bcrypt/Passport for authentication,
-- deployed via Heroku  with continuous integration via Travis-CI
+- Challenged myself by learning an entirely new stack which was not taught on the course and deployed in just over a week. 
+- Wrote the frontend with **Javascript/React** and **Bootstrap** for extra styling
+- Wrote the backend in **NodeJS/Express**
+- Hosted the database on **AWS** via **Heroku** and managed via **PostgreSQL/Sequelize**
+- Used **Bcrypt/Passport** for authentication,
+- Deployed via **Heroku** with continuous integration via Travis-CI
 
 I particularly loved to:
-- work as part of team and take ownership of features across backend and frontend
-- gain the confidence to take a project from scoping requirements through to actual launch
-- learn how to deploy a web app using the server to serve React’s build
-- showcase our project to a wider audience (presentation on YouTube).
+- Work as part of team and take ownership of features across backend and frontend
+- Gain the confidence to take a project from scoping requirements through to actual launch
+- Learn how to deploy a web app using the server to serve React’s build
+- Showcase our project to a wider audience ( presentation on YouTube](https://www.youtube.com/watch?v=iJvfMVrU9Vk)).
 
 Nice to have, if we had more time:
-- making the frontend more responsive 
-- fixing graphs rendering issues when passing props down from the Profile
-- implementing Hash History as to avoid 404s on refresh or gracefully handle them with a catch-all.
+- Making the frontend more responsive 
+- Fixing graphs rendering issues when passing props down from the Profile
+- Implementing Hash History as to avoid 404s on refresh or gracefully handle them with a catch-all.
 
 #### [Acebook Robot-lizard](https://github.com/XavierDefontaine/acebook-robotlizard) |
 _A web app inspired by Facebook for lizards and robots who like to hack._
+
 In this group project, we used:
 - Ruby on Rails for the backend
 - HTML/CSS for the frontend
@@ -63,19 +64,21 @@ In this group project, we used:
 
 #### [Bank Tech Test](https://github.com/XavierDefontaine/Bank-Tech-Test) 
 _A solo project and small test-driven program to interact within the command line and log finances._ 
+
 Here, I worked off acceptance criterias to create user stories and write a program in Ruby / RSpec using BDD / best OOP practices.
 
 #### [Gilded Rose](https://github.com/XavierDefontaine/Gilded-Rose-tech-test) 
 _A solo project to work with and refactor legacy code._
+
 On this challenge, I had to add a new product to an [ugly](https://github.com/emilybache/GildedRose-Refactoring-Kata/blob/master/ruby/gilded_rose.rb) codebase. 
 I started by writing [tests with 100% coverage](https://github.com/XavierDefontaine/Gilded-Rose-tech-test/blob/master/spec/gilded_rose_spec.rb) via RSpec and encapsulated patterns to be able to [refactor and add the new product](https://github.com/XavierDefontaine/Gilded-Rose-tech-test/blob/master/lib/refactored_gilded_rose.rb). If I had more time then, I would have looked at moving each item into respective classes using SRP and dependency injection.
 
 ### Soft Skills 
 
 #### Problem solving 🕵🏻‍♂️
-I always approach solving problems by breaking them down into manageable chunks. I am patient and never deterred by a problem. A good example of this was deploying a finished product in just over a week using entirely new technologies to us for my final project at Makers - we came up against multiple challenges which we overcame by mapping how each actor interacted, outlining the flow in the code, narrowing down the issue, then each reading up on them and sharing what we learned to inform our next sprint.
+I always approach solving problems by breaking them down into manageable chunks. I am **patient** and never deterred by a problem. A good example of this was deploying a finished product in just over a week using entirely new technologies to us for my final project at Makers - we came up against multiple challenges which we overcame by mapping how each actor interacted, outlining the flow in the code, narrowing down the issue, then each reading up on them and sharing what we learned to inform our next sprint.
 
-While working at MN2S, I led a team of 5 logistics coordinators in a highly demanding environment, where we were constantly faced with complex issues relating to artist tours. I taught the team to remain calm and worked with them to find the cleanest solution. 
+While working at MN2S, I led a team of 5 logistics coordinators in a highly demanding environment, where we were constantly faced with complex issues relating to artist tours. I taught the team to remain **calm** and worked with them to find the cleanest solution. 
 
 #### Stakeholder management 🤝
 Whilst working in artist management, I successfully managed high stakes relationships with a variety of key stakeholders, including press and legal teams, event promoters, artist managers and the artists themselves, to ensure the success of worldwide tours and individual shows. 
@@ -83,14 +86,15 @@ Whilst working in artist management, I successfully managed high stakes relation
 This resulted in the band Boney M trusting me to tour manage them in Thailand and DJ Jazzy Jeff’s team agreeing to [reunite](https://www.bbc.co.uk/news/uk-england-lancashire-41051831) with Will Smith for a one-off show in Blackpool in 2017 which they hadn’t done in decades.  
 
 #### Adaptable ☯︎
-I always try to operate using a growth mindset, by seeking out criticism, changing my approach if I meet a difficult challenge and gathering different perspectives
+I always try to operate using a **growth mindset**, by seeking out criticism, changing my approach if I meet a difficult challenge and gathering different perspectives
 
 This served me well when working on my final group project at Makers as it meant I could quickly learn new tools and motivate the team when we were struggling.
 
-I pride myself on being empathic, a good listener and have the emotional intelligence to navigate through difficult situations and meant I could play an important role in keeping the team on track through positive leadership.
+I pride myself on being **empathic**, a good listener and have the emotional intelligence to navigate through difficult situations. This meant I could play an important role in keeping the project team on track through **positive leadership**.
 
 While working in music, I often had to adapt my communication style to build good relationships and explain complex concepts (e.g. technical, legal etc) to different audiences. 
-For example, I would always meticulously research the music genre, product and industry I was working with to go above and beyond what was expected of me, for the artist and my company. 
+
+Having worked with a very diverse roster of artists, I would always meticulously research the music genre, product and industry I was working with to go above and beyond what was expected of me, for the artist and my company. 
 
 #### Additional Skill 
 Oh, and I also speak French fluently!
