@@ -1,6 +1,6 @@
 ## Xavier Defontaine
 
-[About Me](#about-me-) | [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
+[About Me](#about-me-) | [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests-)
 
 ## About me
 
@@ -56,8 +56,8 @@ Having worked with a very diverse roster of artists, I would always meticulously
 Oh, and I also speak French fluently!
 
 
-## Projects 👨🏻‍💻
-#### [Process Reviews Dashboard](https://github.com/XavierDefontaine/ProcessReviewSite) 
+## Projects
+#### 👨🏻‍💻 [Process Reviews Dashboard](https://github.com/XavierDefontaine/ProcessReviewSite) 
 _"A web app for reviewers and students to book reviews and track their progress visually over time."_
 
 In this final group project at Makers, I:
@@ -79,7 +79,7 @@ Nice to have, if we had more time:
 - Fixing graphs rendering issues when passing props down from the Profile
 - Implementing Hash History as to avoid 404s on refresh or gracefully handle them with a catch-all.
 
-#### [Acebook Robot-lizard](https://github.com/XavierDefontaine/acebook-robotlizard) 
+#### 🦎 [Acebook Robot-lizard](https://github.com/XavierDefontaine/acebook-robotlizard) 
 _"A web app inspired by Facebook for lizards and robots who like to hack."_
 
 In this group project, we used:
@@ -90,22 +90,22 @@ In this group project, we used:
 - Database management with **PostgreSQL** and **Google Cloud **for media files
 - Deployed via **Heroku**.
 
-#### [Bank Tech Test](https://github.com/XavierDefontaine/Bank-Tech-Test) 
+#### 🏦 [Bank Tech Test](https://github.com/XavierDefontaine/Bank-Tech-Test) 
 _"A solo project and small test-driven program to interact with the command line and log finances."_ 
 
 
 Here, I worked off acceptance criterias to create user stories and write a program in Ruby / RSpec using BDD / best OOP practices.
 
-####  [Gilded Rose](https://github.com/XavierDefontaine/Gilded-Rose-tech-test) 
+#### 🚜 [Gilded Rose](https://github.com/XavierDefontaine/Gilded-Rose-tech-test) 
 _"A solo project to work with and refactor legacy code."_
 
 
 On this challenge, I had to add a new product to a legacy codebase that has gone [out of hand](https://github.com/emilybache/GildedRose-Refactoring-Kata/blob/master/ruby/gilded_rose.rb). 
 I started by writing [tests with 100% coverage](https://github.com/XavierDefontaine/Gilded-Rose-tech-test/blob/master/spec/gilded_rose_spec.rb) via RSpec and encapsulated behaviour to be able to [refactor and add the new product](https://github.com/XavierDefontaine/Gilded-Rose-tech-test/blob/master/lib/refactored_gilded_rose.rb). If I had more time then, I would have looked at moving each item into respective classes using SRP and dependency injection.
 
-## Education 🎓
+## Education
 
-#### Makers Academy (September 2020 - November 2020)
+#### 🎓 Makers Academy (September 2020 - November 2020)
 Makers is a highly selective and 12 week intensive **software development bootcamp**. 
 - Built full-stack applications in several languages including Ruby, Rails, JavaScript, SQL (PostgreSQL, ActiveRecord) and HTML/CSS.
 - Extensively practiced TDD principles using RSpec, Jasmine and Capybara
@@ -129,7 +129,7 @@ Makers is a highly selective and 12 week intensive **software development bootca
 - Higher Diploma in Music Theory
 
 
-## Experience ☕️
+## Experience
 
 **Paradigm Talent Agency** - Old Street, London (01/2019 - Present)  
 _Executive Assistant to 2 Senior Agents_
