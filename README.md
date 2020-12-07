@@ -10,7 +10,7 @@ I have recently graduated from Makers Academy, having realised a lifelong passio
 
 With a background in Logistics & Supply Chain and having spent 7 years planning worldwide tours for global artist management agencies, I have developed a strong set of problem solving, collaborative and stakeholder management skills.
 
-I love programming as it gives me the freedom to create and innovate and it offers the opportunity to push exciting new boundaries while improving user experiences. Throughout my career, I always thought of ways to improve and increase the efficiency of our processes, while keeping abreast of innovations in the sector. I am now particularly excited to be able to use my technical knowledge to build solutions to help solve real world problems, whether in my personal projects or in a workplace. 
+I love programming as it gives me the freedom to create and innovate and it offers the opportunity to push exciting new boundaries while improving user experiences. Throughout my career, I would always think of ways to improve our processes while keeping abreast of innovations in the sector. I am now particularly excited to be able to use my technical knowledge to build solutions to help solve real world problems, whether in my personal projects or in a workplace. 
 
 
 ## Skills
