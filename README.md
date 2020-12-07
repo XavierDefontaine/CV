@@ -113,58 +113,63 @@ I started by writing [tests with 100% coverage](https://github.com/XavierDefonta
 Education 🎓 
 ---------
 
-09/2020 - 11/2020
-:   **Makers Academy** • London (remote)  
+#### Makers Academy (September 2020 - November 2020)
 A highly selective and 12 week intensive **software development bootcamp**.  
-: * Built full-stack applications in Ruby, Rails, JavaScript, SQL and HTML/CSS.
-* Extensively practiced TDD principles using RSpec, Jasmine and Capybara
-* Learnt and applied architectural patterns including MVC and DDD
-* Pair programmed extensively during design and development of applications
-* Provided code reviews focusing on OOP, DRY, SRP and RESTful API design
-* Deployed to, and interacted with, cloud platforms including AWS, GCP and Heroku
-* Integrated CI/CD workflows using Travis-CI and Github
-* Development driven by Agile project management principles using Github Projects and UML diagrams  
+  
+- Built full-stack applications in Ruby, Rails, JavaScript, SQL (PostgreSQL, ActiveRecord) and HTML/CSS.
+- Extensively practiced TDD principles using RSpec, Jasmine and Capybara
+- Learnt and applied architectural patterns including MVC and DDD
+- Pair programmed extensively during design and development of applications
+- Provided code reviews focusing on OOP, DRY, SRP and RESTful API design
+- Deployed to, and interacted with, cloud platforms including AWS, GCP and Heroku
+- Integrated CI/CD workflows using Travis-CI and Github
+- Development driven by Agile project management principles using Github Projects and UML diagrams
 
-2009 - 2011
-:   **BSc, Logistics and Supply Chain Management** • University of Marseille
+#### Marseille University - France (2009 - 2011)
+- Bachelor’s degree in Logistics and Supply Chain Management 
 
-2007 - 2009
-:   **HND, Quality, Logistics and Organisation** • University of Nice
+#### University of Nice - France (2007 - 2009)
+- HND in Quality, Logistics and Organisation 
 
-2007
-:   **A-level in Electrotechnics** • Lycée Albert 1er - Monaco
+#### Lycée Albert 1er - Monaco (2007)
+- A-level in Electrotechnics
 
-2001 - 2007
-:   **Higher Diploma in Music Theory** • Music Academy of Monaco
+#### Music Academy of Monaco  (2001 - 2007)
+- Higher Diploma in Music Theory
+
 
 
 Experience ☕️
 ----------
 
-01/2019 - 12/2020
-:   **Paradigm Talent Agency** • Old Street, London  
+**Paradigm Talent Agency** - Old Street, London (01/2019 - Present)  
 _Executive Assistant to 2 Senior Agents_
 
-08/2014 - 11/2019
-:   **MN2S Booking Agency** • Borough, London  
-_Logistics Coordinator & Admin Manager_
-: - Led a team of 5 assistants overseeing a roster of 200+ artists across 20 agents and its logistics.
+**MN2S Booking Agency** - Borough, London (08/2014 - 01/2019)  
+_Logistics Coordinator & Admin Manager_  
+  
+- Led a team of 5 assistants overseeing a roster of 200+ artists across 20 agents and its logistics.
 - Set up a corporate travel unit and provided expertise to boost our margins by up to 20%.
 
-2013 - 2015
-:   **The Trailer TV** • Deptford, London  
-_Co-founder - "Fortnightly music event showcasing emerging artists through its online broadcast of live performances, interviews and music videos in a lorry trailer"_  
-: - Designed tech workshops for local arts charities to teach kids how to live stream and DJ.
+**The Big Noise Festival** - Elephant & Castle, London (2014)  
+_Booker/Production assistant_  
+  
+- Facilitated the procurement of sound equipment, live streamed and booked artists.
 
-2010 - 2011
-:   **ULYSSE Transport** • Nice, France  
-_Transport Assistant and Fleet Officer_
-: - Coordinated 20 drivers and reduced Director's admin time by creating automated tools to monitor the national fleet via Excel (insurance expiry, fines due dates, car locations, etc).
+**The Trailer TV** - Deptford, London (2013 - 2015)  
+_Co-founder - "Fortnightly event showcasing emerging artists through its live broadcast of performances, interviews and music videos in a lorry trailer."_   
 
-2009 - 2010
-:   **HELP Transport** • Nice, France  
-_Transport Assistant Officer_
-: - Coordinated over 10 truck drivers internationally and increased our chartering margin by 10% by negotiating contracts and optimising internal flows (invoicing, database standardisation etc).
+- Designed tech workshops for local arts charities to teach kids on how to live stream and DJ.
+
+**ULYSSE Transport** - Nice, France (2010 - 2011)  
+_Transport Assistant and Fleet Officer_  
+  
+- Coordinated 20 drivers and reduced Director's admin time by creating automated tools to monitor the national fleet via Excel (insurance expiry, fines due dates, car locations, etc).
+
+**HELP Transport** - Nice, France (2009 - 2010)  
+_Transport Assistant Officer_  
+  
+- Coordinated over 10 truck drivers internationally and increased our chartering margin by 10% by negotiating contracts and optimising internal flows (invoicing, database standardisation etc).
 
 
 Interests 🎉
