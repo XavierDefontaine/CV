@@ -29,7 +29,8 @@ I love programming as it gives me the freedom to create and innovate and it offe
 ||Heroku||MVC Pattern||
 ||||Legacy code||
 ### Projects 👨🏻‍💻
-#### [Process Reviews Dashboard](https://github.com/XavierDefontaine/ProcessReviewSite) - _A web app for reviewers to add their avails, rate student reviews and students to book reviews and track their progress visually over time._
+#### | [Process Reviews Dashboard](https://github.com/XavierDefontaine/ProcessReviewSite) | 
+_A web app for reviewers and students to book reviews and track their progress visually over time._
 
 In this final group project at Makers, I:
 - Challenged myself by learning an entirely new stack which was not taught on the course and deployed in just over a week. 
@@ -50,25 +51,27 @@ Nice to have, if we had more time:
 - Fixing graphs rendering issues when passing props down from the Profile
 - Implementing Hash History as to avoid 404s on refresh or gracefully handle them with a catch-all.
 
-#### [Acebook Robot-lizard](https://github.com/XavierDefontaine/acebook-robotlizard) | _A web app inspired by Facebook for lizards and robots who like to hack._
+#### | [Acebook Robot-lizard](https://github.com/XavierDefontaine/acebook-robotlizard) | 
+_A web app inspired by Facebook for lizards and robots who like to hack._
 
 In this group project, we used:
-- Ruby on Rails for the backend
-- HTML/CSS for the frontend
-- Devise for Authentication and emails management
-- Capybara/RSpec for TDD
-- Database management with PostgreSQL and Google Cloud for media files
-- Deployed via Heroku.
+- **Ruby on Rails** for the backend
+- **HTML/CSS** for the frontend
+- **Devise** for Authentication and emails management
+- **Capybara/RSpec** for TDD
+- Database management with **PostgreSQL** and **Google Cloud **for media files
+- Deployed via **Heroku**.
 
-#### [Bank Tech Test](https://github.com/XavierDefontaine/Bank-Tech-Test) | _A solo project and small test-driven program to interact within the command line and log finances._ 
+#### | [Bank Tech Test](https://github.com/XavierDefontaine/Bank-Tech-Test) | 
+_A solo project and small test-driven program to interact with the command line and log finances._ 
 
 Here, I worked off acceptance criterias to create user stories and write a program in Ruby / RSpec using BDD / best OOP practices.
 
-#### [Gilded Rose](https://github.com/XavierDefontaine/Gilded-Rose-tech-test) 
+####  | [Gilded Rose](https://github.com/XavierDefontaine/Gilded-Rose-tech-test) | 
 _A solo project to work with and refactor legacy code._
 
-On this challenge, I had to add a new product to an [ugly](https://github.com/emilybache/GildedRose-Refactoring-Kata/blob/master/ruby/gilded_rose.rb) codebase. 
-I started by writing [tests with 100% coverage](https://github.com/XavierDefontaine/Gilded-Rose-tech-test/blob/master/spec/gilded_rose_spec.rb) via RSpec and encapsulated patterns to be able to [refactor and add the new product](https://github.com/XavierDefontaine/Gilded-Rose-tech-test/blob/master/lib/refactored_gilded_rose.rb). If I had more time then, I would have looked at moving each item into respective classes using SRP and dependency injection.
+On this challenge, I had to add a new product to a legacy codebase that has gone [out of hand](https://github.com/emilybache/GildedRose-Refactoring-Kata/blob/master/ruby/gilded_rose.rb). 
+I started by writing [tests with 100% coverage](https://github.com/XavierDefontaine/Gilded-Rose-tech-test/blob/master/spec/gilded_rose_spec.rb) via RSpec and encapsulated behaviour to be able to [refactor and add the new product](https://github.com/XavierDefontaine/Gilded-Rose-tech-test/blob/master/lib/refactored_gilded_rose.rb). If I had more time then, I would have looked at moving each item into respective classes using SRP and dependency injection.
 
 ### Soft Skills 
 
@@ -101,14 +104,15 @@ Oh, and I also speak French fluently!
 
 #### Makers Academy (September 2020 - November 2020)
 Makers is a highly selective and 12 week intensive **software development bootcamp**. 
-Built full-stack applications in several languages including Ruby, Rails, JavaScript, SQL (PostgreSQL, ActiveRecord) and HTML/CSS.
-Extensively practiced TDD principles using RSpec, Jasmine and Capybara
-Learnt and applied architectural patterns including MVC and DDD
-Pair programmed extensively during design and development of applications
-Provided code reviews focusing on OOP, DRY, SRP and RESTful API design
-Deployed to, and interacted with, cloud platforms including AWS, GCP and Heroku
-Integrated CI/CD workflows using Travis-CI and Github
-Development driven by Agile project management principles using Github Projects and UML diagrams
+- Built full-stack applications in several languages including Ruby, Rails, JavaScript, SQL (PostgreSQL, ActiveRecord) and HTML/CSS.
+- Extensively practiced TDD principles using RSpec, Jasmine and Capybara
+- Learnt and applied architectural patterns including MVC and DDD
+- Pair programmed extensively during design and development of applications
+- Provided code reviews focusing on OOP, DRY, SRP and RESTful API design
+- Deployed to, and interacted with, cloud platforms including AWS, GCP and Heroku
+- Integrated CI/CD workflows using Travis-CI and Github
+- Development driven by Agile project management principles using Github Projects and UML diagrams
+
 #### Marseille University - France (2009 - 2011)
 - Bachelor’s degree in Logistics and Supply Chain Management 
 
