@@ -56,8 +56,8 @@ Having worked with a very diverse roster of artists, I would always meticulously
 Oh, and I also speak French fluently!
 
 
-## Projects
-#### 👨🏻‍💻 [Process Reviews Dashboard](https://github.com/XavierDefontaine/ProcessReviewSite) 
+## Projects 👨🏻‍💻
+#### [Process Reviews Dashboard](https://github.com/XavierDefontaine/ProcessReviewSite) 
 _"A web app for reviewers and students to book reviews and track their progress visually over time."_
 
 In this final group project at Makers, I:
@@ -79,7 +79,7 @@ Nice to have, if we had more time:
 - Fixing graphs rendering issues when passing props down from the Profile
 - Implementing Hash History as to avoid 404s on refresh or gracefully handle them with a catch-all.
 
-#### 🦎 [Acebook Robot-lizard](https://github.com/XavierDefontaine/acebook-robotlizard) 
+#### [Acebook Robot-lizard](https://github.com/XavierDefontaine/acebook-robotlizard) 
 _"A web app inspired by Facebook for lizards and robots who like to hack."_
 
 In this group project, we used:
@@ -90,13 +90,13 @@ In this group project, we used:
 - Database management with **PostgreSQL** and **Google Cloud **for media files
 - Deployed via **Heroku**.
 
-#### 🏦 [Bank Tech Test](https://github.com/XavierDefontaine/Bank-Tech-Test) 
+#### [Bank Tech Test](https://github.com/XavierDefontaine/Bank-Tech-Test) 
 _"A solo project and small test-driven program to interact with the command line and log finances."_ 
 
 
 Here, I worked off acceptance criterias to create user stories and write a program in Ruby / RSpec using BDD / best OOP practices.
 
-#### 🚜 [Gilded Rose](https://github.com/XavierDefontaine/Gilded-Rose-tech-test) 
+#### [Gilded Rose](https://github.com/XavierDefontaine/Gilded-Rose-tech-test) 
 _"A solo project to work with and refactor legacy code."_
 
 
