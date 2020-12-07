@@ -65,10 +65,12 @@ In this group project, we used:
 #### | [Bank Tech Test](https://github.com/XavierDefontaine/Bank-Tech-Test) 
 _A solo project and small test-driven program to interact with the command line and log finances._ 
 
+
 Here, I worked off acceptance criterias to create user stories and write a program in Ruby / RSpec using BDD / best OOP practices.
 
 ####  | [Gilded Rose](https://github.com/XavierDefontaine/Gilded-Rose-tech-test) 
 _A solo project to work with and refactor legacy code._
+
 
 On this challenge, I had to add a new product to a legacy codebase that has gone [out of hand](https://github.com/emilybache/GildedRose-Refactoring-Kata/blob/master/ruby/gilded_rose.rb). 
 I started by writing [tests with 100% coverage](https://github.com/XavierDefontaine/Gilded-Rose-tech-test/blob/master/spec/gilded_rose_spec.rb) via RSpec and encapsulated behaviour to be able to [refactor and add the new product](https://github.com/XavierDefontaine/Gilded-Rose-tech-test/blob/master/lib/refactored_gilded_rose.rb). If I had more time then, I would have looked at moving each item into respective classes using SRP and dependency injection.
