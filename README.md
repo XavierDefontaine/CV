@@ -15,9 +15,9 @@ About me
 
 I have recently graduated from Makers Academy, having realised a lifelong passion for software development. I am passionate about Ruby and Javascript with a thirst for discovering new languages and frameworks. 
 
-With a background in Logistics & Supply Chain and having spent 7 years planning worldwide tours for global artist management agencies, I have developed a strong set of problem solving, collaborative and stakeholder management skills.
+With a background in Logistics & Supply Chain and having spent 7 years planning worldwide tours for global artist management agencies, I have developed a strong set of problem solving, collaborative and stakeholder management skills.  
 
-I love programming as it gives me the freedom to create and innovate and it offers the opportunity to push exciting new boundaries while improving user experiences. 
+I love programming as it gives me the freedom to create and innovate and it offers the opportunity to push exciting new boundaries while improving user experiences.  
 
 Throughout my career, I would always think of ways to improve our processes while keeping abreast of innovations in the sector and I am now particularly excited to be able to use my technical knowledge to build solutions to help solve real world problems, whether in my personal projects or in a workplace. 
 
@@ -43,17 +43,21 @@ Skills
 
 #### Problem solving 🕵🏻‍♂️
 I always approach solving problems by breaking them down into manageable chunks. I am **patient** and never deterred by a problem.  
+  
 A good example of this was deploying a finished product in just over a week using entirely new technologies to us for my final project at Makers - we came up against multiple challenges which we overcame by mapping how each actor interacted, outlining the flow in the code, narrowing down the issue, then each reading up on them and sharing what we learned to inform our next sprint.  
+  
 While working at MN2S, I led a team of 5 logistics coordinators in a highly demanding environment, where we were constantly faced with complex issues relating to artist tours. I taught the team to remain **calm** and worked with them to find the **cleanest solution**. 
 
 #### Stakeholder management 🤝
-Whilst working in artist management, I successfully managed high stakes relationships with a variety of key stakeholders, including press and legal teams, event promoters, artist managers and the artists themselves, to ensure the success of worldwide tours and individual shows.  
+Whilst working in artist management, I successfully managed high stakes relationships with a variety of key stakeholders, including press and legal teams, event promoters, artist managers and the artists themselves, to ensure the success of worldwide tours and individual shows.
+    
 This resulted in the band Boney M trusting me to tour manage them in Thailand and DJ Jazzy Jeff’s team agreeing to [reunite](https://www.bbc.co.uk/news/uk-england-lancashire-41051831) with Will Smith for a one-off show in Blackpool in 2017 which they hadn’t done in decades.  
 
 #### Adaptable ☯︎
-I always try to operate using a **growth mindset**, by seeking out criticism, changing my approach if I meet a difficult challenge and gathering different perspectives
-This served me well when working on my final group project at Makers as it meant I could quickly learn new tools and motivate the team when we were struggling.  
-I pride myself on being **empathic**, a good listener and have the emotional intelligence to navigate through difficult situations. This meant I could play an important role in keeping the project team on track through **positive leadership**.  
+I always try to operate using a **growth mindset**, by seeking out criticism, changing my approach if I meet a difficult challenge and gathering different perspectives.
+  
+This served me well when working on my final group project at Makers as it meant I could quickly learn new tools and motivate the team when we were struggling. I pride myself on being **empathic**, a good listener and have the emotional intelligence to navigate through difficult situations. This meant I could play an important role in keeping the project team on track through **positive leadership**.  
+  
 While working in music, I often had to adapt my communication style to build good relationships and explain complex concepts (e.g. technical, legal etc) to different audiences. 
 
 Projects 👨🏻‍💻
@@ -113,7 +117,7 @@ I started by writing [tests with 100% coverage](https://github.com/XavierDefonta
 Education 🎓 
 ---------
 
-#### Makers Academy (September 2020 - November 2020)
+#### Makers Academy (Sep 2020 - Nov 2020)
 A highly selective and 12 week intensive **software development bootcamp**.  
   
 - Built full-stack applications in Ruby, Rails, JavaScript, SQL (PostgreSQL, ActiveRecord) and HTML/CSS.
@@ -142,10 +146,10 @@ A highly selective and 12 week intensive **software development bootcamp**.
 Experience ☕️
 ----------
 
-**Paradigm Talent Agency** - Old Street, London (01/2019 - Present)  
+**Paradigm Talent Agency** - London (Jan 2019 - Dec 2020)  
 _Executive Assistant to 2 Senior Agents_
 
-**MN2S Booking Agency** - Borough, London (08/2014 - 01/2019)  
+**MN2S Booking Agency** - London (Aug 2014 - Jan 2019)  
 _Logistics Coordinator & Admin Manager_  
   
 - Led a team of 5 assistants overseeing a roster of 200+ artists across 20 agents and its logistics.
