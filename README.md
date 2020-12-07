@@ -30,7 +30,7 @@ I love programming as it gives me the freedom to create and innovate and it offe
 ||||Legacy code||
 ### Projects 👨🏻‍💻
 #### [Process Reviews Dashboard](https://github.com/XavierDefontaine/ProcessReviewSite) 
-_'A web app for reviewers and students to book reviews and track their progress visually over time.'_
+_"A web app for reviewers and students to book reviews and track their progress visually over time."_
 
 In this final group project at Makers, I:
 - Challenged myself by learning an entirely new stack which was not taught on the course and deployed in just over a week. 
@@ -52,7 +52,7 @@ Nice to have, if we had more time:
 - Implementing Hash History as to avoid 404s on refresh or gracefully handle them with a catch-all.
 
 #### [Acebook Robot-lizard](https://github.com/XavierDefontaine/acebook-robotlizard) 
-_'A web app inspired by Facebook for lizards and robots who like to hack.'_
+_"A web app inspired by Facebook for lizards and robots who like to hack."_
 
 In this group project, we used:
 - **Ruby on Rails** for the backend
@@ -63,13 +63,13 @@ In this group project, we used:
 - Deployed via **Heroku**.
 
 #### [Bank Tech Test](https://github.com/XavierDefontaine/Bank-Tech-Test) 
-_'A solo project and small test-driven program to interact with the command line and log finances.'_ 
+_"A solo project and small test-driven program to interact with the command line and log finances."_ 
 
 
 Here, I worked off acceptance criterias to create user stories and write a program in Ruby / RSpec using BDD / best OOP practices.
 
 ####  [Gilded Rose](https://github.com/XavierDefontaine/Gilded-Rose-tech-test) 
-_'A solo project to work with and refactor legacy code.'_
+_"A solo project to work with and refactor legacy code."_
 
 
 On this challenge, I had to add a new product to a legacy codebase that has gone [out of hand](https://github.com/emilybache/GildedRose-Refactoring-Kata/blob/master/ruby/gilded_rose.rb). 
