@@ -1,6 +1,6 @@
 ## Xavier Defontaine
 
-[About Me](https://github.com/XavierDefontaine/CV#about-me-) | [Skills](https://github.com/XavierDefontaine/CV#skills) | [Projects](https://github.com/XavierDefontaine/CV#projects) | [Education](https://github.com/XavierDefontaine/CV#education) | [Experience](https://github.com/XavierDefontaine/CV#experience) | [Interests](https://github.com/XavierDefontaine/CV#interests)
+[About Me](#about-me-) | [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
 ## About me
 
