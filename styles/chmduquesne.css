@@ -14,15 +14,54 @@ html {
     background: #f1faee;
 }
 /* navbar! */
-/* table:first-of-type {
-background-color: red !important;
-position: fixed;
-width: 100%;
-align-items: center;
-top: 0px; 
-} */
+table:first-of-type {
+    position: sticky;
+    width: 100%;
+    top: 0px; 
+    height: 45px;
+    margin: none;
+}
+
+/* whole row */
+table:first-of-type thead tr {
+    text-align: center !important;
+    background-color: whitesmoke !important;
+    display: flex;
+    align-content: center;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    align-items: stretch;
+    height: 100%;
+}
+
+/* each header */
+table:first-of-type thead th {
+    border-top: none;
+}
+
+/*link within each header*/
+table:first-of-type a   {
+    text-decoration: none;
+    padding: 15px 1.5em;
+    background-color: transparent;
+    cursor: pointer;
+    outline: none;
+    font-size: 18px;
+}
+
+table:first-of-type a:hover, a:active {
+    background-color: teal;
+    transition: all 0.6s ease;
+}
+
+table:first-of-type a:hover, a:active {
+    background-color: teal;
+    text-decoration: none;
+    text-shadow: none;
+}
 
 
+/* Just body stuff */
 body {
     font-family: 'Roboto', sans-serif;
     max-width: 800px;

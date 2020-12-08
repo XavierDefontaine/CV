@@ -2,4 +2,4 @@
 *.swo
 *.swp
 ISSUE_TEMPLATE.*
-README.tex
+*.tex

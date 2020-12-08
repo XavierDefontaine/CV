@@ -5,8 +5,9 @@ Xavier Defontaine
 
 -------------------     ----------------------------
   
-[About me](#about-me) | [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) |
-<!-- |---------|------------|-------|--------|-----| -->
+[About](#about-me) | [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) |
+|---------|------------|-------|--------|-----|
+
 
 -------------------     ----------------------------
 

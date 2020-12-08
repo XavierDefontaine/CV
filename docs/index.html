@@ -163,15 +163,55 @@
       background: #f1faee;
   }
   /* navbar! */
-  /* table:first-of-type {
-  background-color: red !important;
-  position: fixed;
-  width: 100%;
-  align-items: center;
-  top: 0px; 
-  } */
+  table:first-of-type {
+      position: sticky;
+      width: 100%;
+      top: 0px; 
+      height: 45px;
+      margin: none;
+  }
+
+  /* whole row */
+  table:first-of-type thead tr {
+      text-align: center !important;
+      background-color: whitesmoke !important;
+      display: flex;
+      align-content: center;
+      flex-wrap: nowrap;
+      justify-content: space-around;
+      align-items: stretch;
+      height: 100%;
+  }
+
+  /* each header */
+  table:first-of-type thead th {
+      border-top: none;
+  }
+
+  /*link within each header*/
+  table:first-of-type a   {
+      text-decoration: none;
+      padding: 15px 1.5em;
+      background-color: transparent;
+      cursor: pointer;
+      outline: none;
+      font-size: 18px;
+      margin: 1em 0.8em;
+  }
+
+  table:first-of-type a:hover, a:active {
+      background-color: teal;
+      transition: all 0.6s ease;
+  }
+
+  table:first-of-type a:hover, a:active {
+      background-color: teal;
+      text-decoration: none;
+      text-shadow: none;
+  }
 
 
+  /* Just body stuff */
   body {
       font-family: 'Roboto', sans-serif;
       max-width: 800px;
@@ -341,7 +381,19 @@
 <p><strong>Full Stack Junior Developer</strong> looking for a role across Backend and/or Frontend.</p>
 </blockquote>
 <hr />
-<p><a href="#about-me">About me</a> | <a href="#skills">Skills</a> | <a href="#projects">Projects</a> | <a href="#education">Education</a> | <a href="#experience">Experience</a> | <a href="#interests">Interests</a> | <!-- |---------|------------|-------|--------|-----| --></p>
+<table>
+<thead>
+<tr class="header">
+<th><a href="#about-me">About</a></th>
+<th><a href="#skills">Skills</a></th>
+<th><a href="#projects">Projects</a></th>
+<th><a href="#education">Education</a></th>
+<th><a href="#experience">Experience</a></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
 <hr />
 <h2 id="about-me">About me</h2>
 <p>I have recently graduated from Makers Academy, having realised a lifelong passion for software development. I am passionate about Ruby and Javascript with a thirst for discovering new languages and frameworks.</p>
@@ -428,16 +480,16 @@
 </table>
 <h3 id="soft-skills">Soft Skills</h3>
 <h4 id="problem-solving">Problem solving 🕵🏻‍♂️</h4>
-<p>I always approach solving problems by breaking them down into manageable chunks. I am <strong>patient</strong> and never deterred by a problem.<br />
-A good example of this was deploying a finished product in just over a week using entirely new technologies to us for my final project at Makers - we came up against multiple challenges which we overcame by mapping how each actor interacted, outlining the flow in the code, narrowing down the issue, then each reading up on them and sharing what we learned to inform our next sprint.<br />
-While working at MN2S, I led a team of 5 logistics coordinators in a highly demanding environment, where we were constantly faced with complex issues relating to artist tours. I taught the team to remain <strong>calm</strong> and worked with them to find the <strong>cleanest solution</strong>.</p>
+<p>I always approach solving problems by breaking them down into manageable chunks. I am <strong>patient</strong> and never deterred by a problem.</p>
+<p>A good example of this was deploying a finished product in just over a week using entirely new technologies to us for my final project at Makers - we came up against multiple challenges which we overcame by mapping how each actor interacted, outlining the flow in the code, narrowing down the issue, then each reading up on them and sharing what we learned to inform our next sprint.</p>
+<p>While working at MN2S, I led a team of 5 logistics coordinators in a highly demanding environment, where we were constantly faced with complex issues relating to artist tours. I taught the team to remain <strong>calm</strong> and worked with them to find the <strong>cleanest solution</strong>.</p>
 <h4 id="stakeholder-management">Stakeholder management 🤝</h4>
-<p>Whilst working in artist management, I successfully managed high stakes relationships with a variety of key stakeholders, including press and legal teams, event promoters, artist managers and the artists themselves, to ensure the success of worldwide tours and individual shows.<br />
-This resulted in the band Boney M trusting me to tour manage them in Thailand and DJ Jazzy Jeff’s team agreeing to <a href="https://www.bbc.co.uk/news/uk-england-lancashire-41051831" target="_blank">reunite</a> with Will Smith for a one-off show in Blackpool in 2017 which they hadn’t done in decades.</p>
+<p>Whilst working in artist management, I successfully managed high stakes relationships with a variety of key stakeholders, including press and legal teams, event promoters, artist managers and the artists themselves, to ensure the success of worldwide tours and individual shows.</p>
+<p>This resulted in the band Boney M trusting me to tour manage them in Thailand and DJ Jazzy Jeff’s team agreeing to <a href="https://www.bbc.co.uk/news/uk-england-lancashire-41051831" target="_blank">reunite</a> with Will Smith for a one-off show in Blackpool in 2017 which they hadn’t done in decades.</p>
 <h4 id="adaptable">Adaptable ☯︎</h4>
-<p>I always try to operate using a <strong>growth mindset</strong>, by seeking out criticism, changing my approach if I meet a difficult challenge and gathering different perspectives This served me well when working on my final group project at Makers as it meant I could quickly learn new tools and motivate the team when we were struggling.<br />
-I pride myself on being <strong>empathic</strong>, a good listener and have the emotional intelligence to navigate through difficult situations. This meant I could play an important role in keeping the project team on track through <strong>positive leadership</strong>.<br />
-While working in music, I often had to adapt my communication style to build good relationships and explain complex concepts (e.g. technical, legal etc) to different audiences.</p>
+<p>I always try to operate using a <strong>growth mindset</strong>, by seeking out criticism, changing my approach if I meet a difficult challenge and gathering different perspectives.</p>
+<p>This served me well when working on my final group project at Makers as it meant I could quickly learn new tools and motivate the team when we were struggling. I pride myself on being <strong>empathic</strong>, a good listener and have the emotional intelligence to navigate through difficult situations. This meant I could play an important role in keeping the project team on track through <strong>positive leadership</strong>.</p>
+<p>While working in music, I often had to adapt my communication style to build good relationships and explain complex concepts (e.g. technical, legal etc) to different audiences.</p>
 <h2 id="projects">Projects 👨🏻‍💻</h2>
 <h3 id="process-reviews-dashboard"><a href="https://github.com/XavierDefontaine/ProcessReviewSite" target="_blank">Process Reviews Dashboard</a></h3>
 <p><em>“A web app for reviewers and students to book reviews and track their progress visually over time.”</em></p>
@@ -481,7 +533,7 @@ While working in music, I often had to adapt my communication style to build goo
 <p><em>“A solo project to work with and refactor legacy code.”</em></p>
 <p>On this challenge, I had to add a new product to a legacy codebase that has gone <a href="https://github.com/emilybache/GildedRose-Refactoring-Kata/blob/master/ruby/gilded_rose.rb" target="_blank">out of hand</a>. I started by writing <a href="https://github.com/XavierDefontaine/Gilded-Rose-tech-test/blob/master/spec/gilded_rose_spec.rb" target="_blank">tests with 100% coverage</a> via RSpec and encapsulated behaviour to be able to <a href="https://github.com/XavierDefontaine/Gilded-Rose-tech-test/blob/master/lib/refactored_gilded_rose.rb" target="_blank">refactor and add the new product</a>. If I had more time then, I would have looked at moving each item into respective classes using SRP and dependency injection.</p>
 <h2 id="education">Education 🎓</h2>
-<h4 id="makers-academy-september-2020---november-2020">Makers Academy (September 2020 - November 2020)</h4>
+<h4 id="makers-academy-sep-2020---nov-2020">Makers Academy (Sep 2020 - Nov 2020)</h4>
 <p>A highly selective and 12 week intensive <strong>software development bootcamp</strong>.</p>
 <ul>
 <li>Built full-stack applications in Ruby, Rails, JavaScript, SQL (PostgreSQL, ActiveRecord) and HTML/CSS.</li>
@@ -510,9 +562,9 @@ While working in music, I often had to adapt my communication style to build goo
 <li>Higher Diploma in Music Theory</li>
 </ul>
 <h2 id="experience">Experience ☕️</h2>
-<p><strong>Paradigm Talent Agency</strong> - Old Street, London (01/2019 - Present)<br />
+<p><strong>Paradigm Talent Agency</strong> - London (Jan 2019 - Dec 2020)<br />
 <em>Executive Assistant to 2 Senior Agents</em></p>
-<p><strong>MN2S Booking Agency</strong> - Borough, London (08/2014 - 01/2019)<br />
+<p><strong>MN2S Booking Agency</strong> - London (Aug 2014 - Jan 2019)<br />
 <em>Logistics Coordinator &amp; Admin Manager</em></p>
 <ul>
 <li>Led a team of 5 assistants overseeing a roster of 200+ artists across 20 agents and its logistics.</li>
