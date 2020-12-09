@@ -63,7 +63,7 @@ html {
         flex-grow: 1;
     }
 
-    table:first-of-type a:hover {
+    table:first-of-type a:active {
         background-color: #0096c7;
         color: #FFFFFF !important;
         text-decoration: none;
