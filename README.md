@@ -57,6 +57,8 @@ Whilst working in artist management, I successfully managed high stakes relation
     
 This resulted in the band Boney M trusting me to tour manage them in Thailand and DJ Jazzy Jeff’s team agreeing to [reunite](https://www.bbc.co.uk/news/uk-england-lancashire-41051831) with Will Smith for a one-off show in Blackpool in 2017 which they hadn’t done in decades.  
 
+At Makers, this meant I could **pair program** with ease and quickly keep all teams up to speed on group project after each print.   
+
 #### Adaptable ☯︎
 I always try to operate using a **growth mindset**, by seeking out criticism, changing my approach if I meet a difficult challenge and gathering different perspectives.
   
@@ -72,7 +74,7 @@ _"A web app for reviewers and students to book reviews and track their progress 
 
 In this final group project at Makers, I:
  
-- Challenged myself by learning an entirely new stack which was not taught on the course and deployed in just over a week. 
+* Challenged myself by learning an entirely new stack which was not taught on the course and deployed in just over a week. 
 * Wrote the frontend with **Javascript/React** and **Bootstrap** for extra styling
 * Wrote the backend in **NodeJS/Express**
 * Hosted the database on **AWS** via **Heroku** and managed via **PostgreSQL/Sequelize**
@@ -86,7 +88,7 @@ I particularly loved to:
 * Learn how to deploy a web app using the server to serve React’s build
 * Showcase our project to a wider audience ([presentation on YouTube](https://www.youtube.com/watch?v=iJvfMVrU9Vk)).
 
-Nice to have, if we had more time:
+Improvements if we had more time:
  
 * Making the frontend more responsive 
 * Fixing graphs rendering issues when passing props down from the Profile
@@ -151,7 +153,10 @@ Experience ☕️
 ----------
 
 **Paradigm Talent Agency** - London (Jan 2019 - Dec 2020)  
-_Executive Assistant to 2 Senior Agents_
+_Executive Assistant to 2 Senior Agents_  
+
+- First point of contact for operational, logistical and administrative support.  
+- **Time management** was key to coordinate tours (tax) marketing, announcements and on-sale including the approval of artworks, press releases and ticket sales across various platforms.
 
 **MN2S Booking Agency** - London (Aug 2014 - Jan 2019)  
 _Logistics Coordinator & Admin Manager_  
