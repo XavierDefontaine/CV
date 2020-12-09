@@ -63,7 +63,7 @@ table:first-of-type a   {
         overflow-x: hidden;
     }
 
-    table:first-of-type a:active {
+    table:first-of-type a:focus {
         background-color: #0096c7;
         color: #FFFFFF !important;
         text-decoration: none;
