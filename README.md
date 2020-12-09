@@ -57,7 +57,7 @@ Whilst working in artist management, I successfully managed high stakes relation
     
 This resulted in the band Boney M trusting me to tour manage them in Thailand and DJ Jazzy Jeff’s team agreeing to [reunite](https://www.bbc.co.uk/news/uk-england-lancashire-41051831) with Will Smith for a one-off show in Blackpool in 2017 which they hadn’t done in decades.  
 
-At Makers, this meant I could **pair program** with ease and quickly keep all teams up to speed on group project after each print.   
+At Makers, this meant I could **pair program** with ease and quickly keep all teams up to speed after each print during group projects.   
 
 #### Adaptable ☯︎
 I always try to operate using a **growth mindset**, by seeking out criticism, changing my approach if I meet a difficult challenge and gathering different perspectives.
