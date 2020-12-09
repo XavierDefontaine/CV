@@ -162,7 +162,8 @@
   html {
       background: #f1faee;
   }
-  /* navbar! */
+
+  /* NAVBAR ! */
 
   /* mobile responsive */
   @media screen and (max-width: 500px) {
@@ -210,19 +211,37 @@
           font-size: 14px;
           flex-grow: 1;
       }
+
+      table:first-of-type a:hover, a:active {
+          background-color: #0096c7;
+          color: #FFFFFF !important;
+          text-decoration: none;
+          text-shadow: 1px 1px 1px #4361ee !important;
+      }
+
+      hr:first-of-type {
+          background-color: transparent !important;
+      }
   }
 
-
+  /* Desktop responsive! */
   @media screen and (min-width: 501px) {
-      /* whole row */
       table:first-of-type {
           position: sticky;
           width: 100%;
-          top: 0px;
-          height: 41px;
           margin: 0px;
+          top: 0px;
           background-color: whitesmoke;
+          display: flex;
+          align-items: center;
+          overflow-x: hidden;
       }
+
+      table:first-of-type thead {
+          flex-grow: 1;
+          align-self: stretch;
+      }
+
       table:first-of-type thead tr {
           text-align: center !important;
           background-color: whitesmoke !important;
@@ -231,31 +250,31 @@
           flex-wrap: nowrap;
           justify-content: space-around;
           align-items: stretch;
-          height: 100%;
       }
 
-      /* each header */
       table:first-of-type thead th {
           border-top: none;
-          margin: 10px;
+          flex-grow: 1;
+          display: flex;
+          padding: 0px;
       }
 
-      /*link within each header*/
       table:first-of-type a   {
           text-decoration: none;
-          padding: 18px 1.5em;
+          padding: 8px 0.5em;
           background-color: transparent;
           color: teal;
           cursor: pointer;
           outline: none;
-          font-size: 18px;
+          font-size: 14px;
+          flex-grow: 1;
       }
 
       table:first-of-type a:hover, a:active {
-          background-color: teal;
+          background-color: #0096c7;
+          color: #FFFFFF !important;
           text-decoration: none;
-          transition: all 0.6s ease;
-          text-shadow: none;
+          text-shadow: 1px 1px 1px #4361ee !important;
       }
   }
 
@@ -294,11 +313,6 @@
       text-align:center;
       margin-bottom:15px;
   }
-  /* h1:hover { */
-  /*     background-color: #757575; */
-  /*     color: #FFFFFF; */
-  /*     text-shadow: 1px 1px 1px #333; */
-  /* } */
 
   /* Titles of categories */
   h2 {
@@ -435,11 +449,14 @@
 <blockquote>
 <p><strong>Full Stack Junior Developer</strong> looking for a role across Backend and/or Frontend.</p>
 </blockquote>
+<blockquote>
+<p><a href="mailto:xdefontaine@gmail.com" class="email">xdefontaine@gmail.com</a> • London, UK</p>
+</blockquote>
 <hr />
 <table>
 <thead>
 <tr class="header">
-<th><a href="#about-me">About</a></th>
+<th><a href="#top">Profile</a></th>
 <th><a href="#skills">Skills</a></th>
 <th><a href="#projects">Projects</a></th>
 <th><a href="#education">Education</a></th>
@@ -450,7 +467,7 @@
 </tbody>
 </table>
 <hr />
-<h2 id="about-me">About me</h2>
+<h2 id="profile">Profile</h2>
 <p>I have recently graduated from Makers Academy, having realised a lifelong passion for software development. I am passionate about Ruby and Javascript with a thirst for discovering new languages and frameworks.</p>
 <p>With a background in Logistics &amp; Supply Chain and having spent 7 years planning worldwide tours for global artist management agencies, I have developed a strong set of problem solving, collaborative and stakeholder management skills.</p>
 <p>I love programming as it gives me the freedom to create and innovate and it offers the opportunity to push exciting new boundaries while improving user experiences.</p>
@@ -654,10 +671,6 @@
 <li><strong>Currently Reading</strong>: Metaprogramming Ruby by Paolo Perrota - Full Spectrum 3 - Thinking, Fast and Slow by Daniel Kahneman</li>
 <li><strong><em>Virtually</em> Attending</strong>: LRUG (London Ruby User Group) / BBC tech meetups.</li>
 </ul>
-<hr />
-<blockquote>
-<p><a href="mailto:xdefontaine@gmail.com" class="email">xdefontaine@gmail.com</a> • <a href="tel:+44%207%20845%20585%20137">+44 7 845 585 137</a> • Deptford, London, UK</p>
-</blockquote>
 <hr />
 <p><em>Markdown CV made possible with <a href="https://pandoc.org/" target="_blank">Pandoc</a> and <a href="https://github.com/mszep/pandoc_resume" target="_blank">mszep</a>.</em></p>
 </body>

@@ -1,17 +1,20 @@
 Xavier Defontaine
 ============
 
+
+
 >  **Full Stack Junior Developer** looking for a role across Backend and/or Frontend.  
 
--------------------     ----------------------------
+> <xdefontaine@gmail.com> • London, UK  
+
+-------------------     ----------------------------  
   
-[About](#about-me) | [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) |
-|---------|------------|-------|--------|-----|
+[Profile](#top) | [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) |
+|---------|------------|-------|--------|-----|  
 
+-------------------     ----------------------------   
 
--------------------     ----------------------------
-
-About me
+Profile
 --------------------
 
 I have recently graduated from Makers Academy, having realised a lifelong passion for software development. I am passionate about Ruby and Javascript with a thirst for discovering new languages and frameworks. 
@@ -186,10 +189,6 @@ Interests 🎉
 - **Challenging**: I am fascinated by concepts totally alien to me especially those around the tech community whether philosophical (e.g [Lesswrong](https://www.lesswrong.com/)'s rationalism & AI) or more technical (e.g Hacker News) often leading me down rabbits holes for hours on end.
 - **Currently Reading**: Metaprogramming Ruby by Paolo Perrota - Full Spectrum 3 - Thinking, Fast and Slow by Daniel Kahneman
 - **_Virtually_ Attending**: LRUG (London Ruby User Group) / BBC tech meetups.
-
-----
-
-> <xdefontaine@gmail.com> • [+44 7 845 585 137](tel:+44 7 845 585 137) • Deptford, London, UK
 
 ----
 _Markdown CV made possible with [Pandoc](https://pandoc.org/) and [mszep](https://github.com/mszep/pandoc_resume)._

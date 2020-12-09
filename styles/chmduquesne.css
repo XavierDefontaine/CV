@@ -13,7 +13,8 @@
 html {
     background: #f1faee;
 }
-/* navbar! */
+
+/* NAVBAR ! */
 
 /* mobile responsive */
 @media screen and (max-width: 500px) {
@@ -61,19 +62,37 @@ html {
         font-size: 14px;
         flex-grow: 1;
     }
+
+    table:first-of-type a:hover, a:active {
+        background-color: #0096c7;
+        color: #FFFFFF !important;
+        text-decoration: none;
+        text-shadow: 1px 1px 1px #4361ee !important;
+    }
+
+    hr:first-of-type {
+        background-color: transparent !important;
+    }
 }
 
-
+/* Desktop responsive! */
 @media screen and (min-width: 501px) {
-    /* whole row */
     table:first-of-type {
         position: sticky;
         width: 100%;
-        top: 0px;
-        height: 41px;
         margin: 0px;
+        top: 0px;
         background-color: whitesmoke;
+        display: flex;
+        align-items: center;
+        overflow-x: hidden;
     }
+
+    table:first-of-type thead {
+        flex-grow: 1;
+        align-self: stretch;
+    }
+
     table:first-of-type thead tr {
         text-align: center !important;
         background-color: whitesmoke !important;
@@ -82,31 +101,31 @@ html {
         flex-wrap: nowrap;
         justify-content: space-around;
         align-items: stretch;
-        height: 100%;
     }
 
-    /* each header */
     table:first-of-type thead th {
         border-top: none;
-        margin: 10px;
+        flex-grow: 1;
+        display: flex;
+        padding: 0px;
     }
 
-    /*link within each header*/
     table:first-of-type a   {
         text-decoration: none;
-        padding: 18px 1.5em;
+        padding: 8px 0.5em;
         background-color: transparent;
         color: teal;
         cursor: pointer;
         outline: none;
-        font-size: 18px;
+        font-size: 14px;
+        flex-grow: 1;
     }
 
     table:first-of-type a:hover, a:active {
-        background-color: teal;
+        background-color: #0096c7;
+        color: #FFFFFF !important;
         text-decoration: none;
-        transition: all 0.6s ease;
-        text-shadow: none;
+        text-shadow: 1px 1px 1px #4361ee !important;
     }
 }
 
@@ -145,11 +164,6 @@ h1 {
     text-align:center;
     margin-bottom:15px;
 }
-/* h1:hover { */
-/*     background-color: #757575; */
-/*     color: #FFFFFF; */
-/*     text-shadow: 1px 1px 1px #333; */
-/* } */
 
 /* Titles of categories */
 h2 {
