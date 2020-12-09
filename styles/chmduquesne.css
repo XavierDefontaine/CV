@@ -14,52 +14,101 @@ html {
     background: #f1faee;
 }
 /* navbar! */
-table:first-of-type {
-    position: sticky;
-    width: 100%;
-    top: 0px; 
-    height: 45px;
-    margin: none;
+
+/* mobile responsive */
+@media screen and (max-width: 500px) {
+    table:first-of-type {
+        position: fixed;
+        width: 100%;
+        top: 0px;
+        margin: 0px;
+        background-color: whitesmoke;
+        left: 0px;
+        display: flex;
+        align-items: center;
+        overflow-x: hidden;
+    }
+
+    table:first-of-type thead {
+        flex-grow: 1;
+        align-self: stretch;
+    }
+
+    table:first-of-type thead tr {
+        text-align: center !important;
+        background-color: whitesmoke !important;
+        display: flex;
+        align-content: center;
+        flex-wrap: nowrap;
+        justify-content: space-around;
+        align-items: stretch;
+    }
+
+    table:first-of-type thead th {
+        border-top: none;
+        flex-grow: 1;
+        display: flex;
+        padding: 0px;
+    }
+
+    table:first-of-type a   {
+        text-decoration: none;
+        padding: 8px 0.5em;
+        background-color: transparent;
+        color: teal;
+        cursor: pointer;
+        outline: none;
+        font-size: 14px;
+        flex-grow: 1;
+    }
 }
 
-/* whole row */
-table:first-of-type thead tr {
-    text-align: center !important;
-    background-color: whitesmoke !important;
-    display: flex;
-    align-content: center;
-    flex-wrap: nowrap;
-    justify-content: space-around;
-    align-items: stretch;
-    height: 100%;
-}
 
-/* each header */
-table:first-of-type thead th {
-    border-top: none;
-}
+@media screen and (min-width: 501px) {
+    /* whole row */
+    table:first-of-type {
+        position: sticky;
+        width: 100%;
+        top: 0px;
+        height: 41px;
+        margin: 0px;
+        background-color: whitesmoke;
+    }
+    table:first-of-type thead tr {
+        text-align: center !important;
+        background-color: whitesmoke !important;
+        display: flex;
+        align-content: center;
+        flex-wrap: nowrap;
+        justify-content: space-around;
+        align-items: stretch;
+        height: 100%;
+    }
 
-/*link within each header*/
-table:first-of-type a   {
-    text-decoration: none;
-    padding: 15px 1.5em;
-    background-color: transparent;
-    cursor: pointer;
-    outline: none;
-    font-size: 18px;
-}
+    /* each header */
+    table:first-of-type thead th {
+        border-top: none;
+        margin: 10px;
+    }
 
-table:first-of-type a:hover, a:active {
-    background-color: teal;
-    transition: all 0.6s ease;
-}
+    /*link within each header*/
+    table:first-of-type a   {
+        text-decoration: none;
+        padding: 18px 1.5em;
+        background-color: transparent;
+        color: teal;
+        cursor: pointer;
+        outline: none;
+        font-size: 18px;
+    }
 
-table:first-of-type a:hover, a:active {
-    background-color: teal;
-    text-decoration: none;
-    text-shadow: none;
+    table:first-of-type a:hover, a:active {
+        background-color: teal;
+        text-decoration: none;
+        transition: all 0.6s ease;
+        text-shadow: none;
+    }
 }
-
 
 /* Just body stuff */
 body {
@@ -70,6 +119,13 @@ body {
     padding: 10px 25px 10px 25px;
     color: #003049;
     font-size: 0.7em;
+}
+
+h2  {
+    padding-top: 45px;
+    margin-top: -45px;
+    -webkit-background-clip: content-box;
+    background-clip: content-box;
 }
 
 /* Title of the resume */
@@ -168,10 +224,10 @@ p:nth-child(1) {
 /* Links */
 a {
     /* text-decoration: none; */
-    color: #0000EE !important;
+    color: #047da5 !important;
 }
 a:hover, a:active {
-    background-color: #0096c7 !important;
+    background-color: #0096c7;
     color: #FFFFFF !important;
     text-decoration: none;
     text-shadow: 1px 1px 1px #4361ee !important;
