@@ -57,7 +57,7 @@ Whilst working in artist management, I successfully managed high stakes relation
     
 This resulted in the band Boney M trusting me to tour manage them in Thailand and DJ Jazzy Jeff’s team agreeing to [reunite](https://www.bbc.co.uk/news/uk-england-lancashire-41051831) with Will Smith for a one-off show in Blackpool in 2017 which they hadn’t done in decades.  
 
-At Makers, this meant I could **pair program** with ease and quickly keep all teams up to speed after each print during group projects.   
+At Makers, this meant I could **pair program** with ease and quickly keep all teams up to speed after each sprint during our group projects.   
 
 #### Adaptable ☯︎
 I always try to operate using a **growth mindset**, by seeking out criticism, changing my approach if I meet a difficult challenge and gathering different perspectives.
@@ -110,7 +110,7 @@ In this group project, we used:
 _"A solo project and small test-driven program to interact with the command line and log finances."_ 
 
 
-Here, I worked off acceptance criterias to create user stories and write a program in Ruby / RSpec using BDD / best OOP practices.
+Here, I worked off acceptance criterias to create user stories and write a program in Ruby / RSpec using BDD and best OOP practices.
 
 ### [Gilded Rose](https://github.com/XavierDefontaine/Gilded-Rose-tech-test) 
 _"A solo project to work with and refactor legacy code."_
