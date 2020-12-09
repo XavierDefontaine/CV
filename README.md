@@ -126,14 +126,14 @@ Education 🎓
 #### Makers Academy (Sep 2020 - Nov 2020)
 A highly selective and 12 week intensive **software development bootcamp**.  
   
-- Built full-stack applications in Ruby, Rails, JavaScript, SQL (PostgreSQL, ActiveRecord) and HTML/CSS.
-- Extensively practiced TDD principles using RSpec, Jasmine and Capybara
-- Learnt and applied architectural patterns including MVC and DDD
+- Built full-stack applications in **Ruby**, **Rails**, **JavaScript**, **SQL** (**PostgreSQL**, **ActiveRecord**) and **HTML/CSS**.
+- Extensively practiced **TDD** principles using **RSpec**, **Jasmine** and **Capybara**
+- Learnt and applied architectural patterns including **MVC** and **DDD**
 - Pair programmed extensively during design and development of applications
-- Provided code reviews focusing on OOP, DRY, SRP and RESTful API design
-- Deployed to, and interacted with, cloud platforms including AWS, GCP and Heroku
-- Integrated CI/CD workflows using Travis-CI and Github
-- Development driven by Agile project management principles using Github Projects and UML diagrams
+- Provided code reviews focusing on **OOP**, **DRY**, **SRP** and **RESTful API** design
+- Deployed to, and interacted with, cloud platforms including **AWS**, **GCP** and **Heroku**
+- Integrated **CI/CD** workflows using **Travis-CI**
+- Development driven by **Agile** project management principles using **Github Projects** and **UML diagrams**
 
 #### Marseille University - France (2009 - 2011)
 - Bachelor’s degree in Logistics and Supply Chain Management 
