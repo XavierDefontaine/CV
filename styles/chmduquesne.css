@@ -16,7 +16,40 @@ html {
 
 /* NAVBAR ! */
 
-/* mobile responsive */
+table:first-of-type thead {
+    flex-grow: 1;
+    align-self: stretch;
+}
+
+table:first-of-type thead tr {
+    text-align: center !important;
+    background-color: whitesmoke !important;
+    display: flex;
+    align-content: center;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    align-items: stretch;
+}
+
+table:first-of-type thead th {
+    border-top: none;
+    flex-grow: 1;
+    display: flex;
+    padding: 0px;
+}
+
+table:first-of-type a   {
+    text-decoration: none;
+    padding: 8px 0.5em;
+    background-color: transparent;
+    color: teal;
+    cursor: pointer;
+    outline: none;
+    font-size: 14px;
+    flex-grow: 1;
+}
+
+/* NAVBAR mobile responsive */
 @media screen and (max-width: 500px) {
     table:first-of-type {
         position: fixed;
@@ -30,40 +63,7 @@ html {
         overflow-x: hidden;
     }
 
-    table:first-of-type thead {
-        flex-grow: 1;
-        align-self: stretch;
-    }
-
-    table:first-of-type thead tr {
-        text-align: center !important;
-        background-color: whitesmoke !important;
-        display: flex;
-        align-content: center;
-        flex-wrap: nowrap;
-        justify-content: space-around;
-        align-items: stretch;
-    }
-
-    table:first-of-type thead th {
-        border-top: none;
-        flex-grow: 1;
-        display: flex;
-        padding: 0px;
-    }
-
-    table:first-of-type a   {
-        text-decoration: none;
-        padding: 8px 0.5em;
-        background-color: transparent;
-        color: teal;
-        cursor: pointer;
-        outline: none;
-        font-size: 14px;
-        flex-grow: 1;
-    }
-
-    table:first-of-type a:hover {
+    table:first-of-type a:active {
         background-color: #0096c7;
         color: #FFFFFF !important;
         text-decoration: none;
@@ -75,7 +75,7 @@ html {
     }
 }
 
-/* Desktop responsive! */
+/* NAVBAR Desktop responsive! */
 @media screen and (min-width: 501px) {
     table:first-of-type {
         position: sticky;
@@ -88,41 +88,8 @@ html {
         overflow-x: hidden;
     }
 
-    table:first-of-type thead {
-        flex-grow: 1;
-        align-self: stretch;
-    }
-
-    table:first-of-type thead tr {
-        text-align: center !important;
-        background-color: whitesmoke !important;
-        display: flex;
-        align-content: center;
-        flex-wrap: nowrap;
-        justify-content: space-around;
-        align-items: stretch;
-    }
-
-    table:first-of-type thead th {
-        border-top: none;
-        flex-grow: 1;
-        display: flex;
-        padding: 0px;
-    }
-
-    table:first-of-type a   {
-        text-decoration: none;
-        padding: 8px 0.5em;
-        background-color: transparent;
-        color: teal;
-        cursor: pointer;
-        outline: none;
-        font-size: 14px;
-        flex-grow: 1;
-    }
-
     table:first-of-type a:hover {
-        background-color: #0096c7;
+        background-color: #0096c7 !important;
         color: #FFFFFF !important;
         text-decoration: none;
         text-shadow: 1px 1px 1px #4361ee !important;
@@ -148,6 +115,13 @@ h2  {
 }
 
 /* Title of the resume */
+
+h1 {
+    color: #1d3557;
+    text-align:center;
+    margin-bottom:15px;
+}
+
 @media screen and (min-width: 501px) {
     h1 {
         font-size: 5vw;
@@ -159,11 +133,6 @@ h2  {
     }
 }
 
-h1 {
-    color: #1d3557;
-    text-align:center;
-    margin-bottom:15px;
-}
 
 /* Titles of categories */
 h2 {
@@ -190,11 +159,6 @@ h4 {
     margin-bottom: 0.5em;
 }
 
-/* h2:hover { */
-/*     background-color: #397249; */
-/*     color: #FFFFFF; */
-/*     text-shadow: 1px 1px 1px #333; */
-/* } */
 
 /* Definitions */
 dt {
@@ -219,9 +183,7 @@ p {
 ul {
     margin-top: 0.1em
 }
-/* li {
-    text-align: justify;
-} */
+
 
 /* Blockquotes */
 blockquote {
@@ -240,18 +202,7 @@ a {
     /* text-decoration: none; */
     color: #047da5 !important;
 }
-a:hover {
-    background-color: #0096c7;
-    color: #FFFFFF !important;
-    text-decoration: none;
-    text-shadow: 1px 1px 1px #4361ee !important;
-}
-
-a:visited {
-    background-color: transparent;
-    color: teal;
-}
-
+    
 /* Horizontal separators */
 hr {
     color: #A6A6A6;
