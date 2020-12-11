@@ -10,7 +10,7 @@ Xavier Defontaine
 -------------------     ----------------------------  
   
 [Profile](#top) | [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) |
-|---------|------------|-------|--------|-----|  
+|---------|------------|-------|--------|-----|-----|    
 
 -------------------     ----------------------------   
 
@@ -155,13 +155,13 @@ Experience ☕️
 **Paradigm Talent Agency** - London (Jan 2019 - Dec 2020)  
 _Executive Assistant to 2 Senior Agents_  
 
-- First point of contact for operational, logistical and administrative support.  
-- **Time management** was key to coordinate tours (tax) marketing, announcements and on-sale including the approval of artworks, press releases and ticket sales across various platforms.
+- **Time management** was primordial to coordinate complex tours and provide multi-faceted support to two busy senior agents.  
+- **Stakeholder management** was also key as I would work with a variety of key stakeholders, including press and legal teams, event promoters, artist managers and the artists themselves, to ensure the success of worldwide tours and individual shows.
 
 **MN2S Booking Agency** - London (Aug 2014 - Jan 2019)  
 _Logistics Coordinator & Admin Manager_  
   
-- Led a team of 5 assistants overseeing a roster of 200+ artists across 20 agents and its logistics.
+- Led a team of 5 assistants overseeing a roster of 200+ artists across 20 agents and its logistics.  
 - Set up a corporate travel unit and provided expertise to boost our margins by up to 20%.
 
 **The Big Noise Festival** - Elephant & Castle, London (2014)  
@@ -189,11 +189,8 @@ Interests 🎉
 ----------------------------------------
 
 - **Martial Arts**: I practice wing-chun (when there is no lock down).
-- **Music**: from playing classical/baroque music on the recorder as a kid to heavy metal as rhythm guitar in high school or obsessively listening to electronic music now, music has always been a passion of mine - [my top 2020 Spotify songs](https://open.spotify.com/playlist/37i9dQZF1EM51tz1HB9yQx).
+- **Music**: from playing classical/baroque music on the recorder as a kid to heavy metal as rhythm guitar in high school or obsessively listening to electronic music now, music has always been a passion of mine.
 - **Restoration**: I love restoring mid-century furniture, gutting things around the house to see how they work and _sometimes_ fix them.
 - **Challenging**: I am fascinated by concepts totally alien to me especially those around the tech community whether philosophical (e.g [Lesswrong](https://www.lesswrong.com/)'s rationalism & AI) or more technical (e.g Hacker News) often leading me down rabbits holes for hours on end.
 - **Currently Reading**: Metaprogramming Ruby by Paolo Perrota - Full Spectrum 3 - Thinking, Fast and Slow by Daniel Kahneman
 - **_Virtually_ Attending**: LRUG (London Ruby User Group) / BBC tech meetups.
-
-----
-_Markdown CV made possible with [Pandoc](https://pandoc.org/) and [mszep](https://github.com/mszep/pandoc_resume)._

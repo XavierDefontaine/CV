@@ -3,3 +3,5 @@
 *.swp
 ISSUE_TEMPLATE.*
 *.tex
+./docs/README.tex
+./docs/README.tuc

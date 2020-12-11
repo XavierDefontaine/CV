@@ -1,0 +1,1064 @@
+local utilitydata = { }
+
+utilitydata.comment={
+ ["escape"]="[===[ ... ]===]",
+ ["file"]="README",
+ ["format"]="cont-en",
+ ["stamp"]="2019.03.21 21:39",
+ ["version"]=1.31,
+}
+
+if not utilitydata.job then utilitydata.job = { } end
+if not utilitydata.job.variables then utilitydata.job.variables = { } end
+
+utilitydata.job.variables.checksums={
+}
+
+if not utilitydata.job then utilitydata.job = { } end
+if not utilitydata.job.variables then utilitydata.job.variables = { } end
+
+utilitydata.job.variables.collected={
+ ["macros"]={},
+ ["randomseed"]=0.3400887590833,
+ ["sectionblockorder"]={},
+}
+
+if not utilitydata.job then utilitydata.job = { } end
+if not utilitydata.job.structure then utilitydata.job.structure = { } end
+
+utilitydata.job.structure.collected={
+ ["branches"]={},
+ ["name"]="",
+ ["type"]="text",
+}
+
+if not utilitydata.job then utilitydata.job = { } end
+if not utilitydata.job.positions then utilitydata.job.positions = { } end
+
+utilitydata.job.positions.collected={
+}
+
+if not utilitydata.job then utilitydata.job = { } end
+if not utilitydata.job.passes then utilitydata.job.passes = { } end
+
+utilitydata.job.passes.collected={
+ ["itemgroup:itemize:1"]={
+  { 6, 0 },
+ },
+ ["itemgroup:itemize:10"]={
+  { 2, 0 },
+ },
+ ["itemgroup:itemize:11"]={
+  { 2, 0 },
+ },
+ ["itemgroup:itemize:12"]={
+  { 1, 0 },
+ },
+ ["itemgroup:itemize:13"]={
+  { 1, 0 },
+ },
+ ["itemgroup:itemize:14"]={
+  { 1, 0 },
+ },
+ ["itemgroup:itemize:15"]={
+  { 1, 0 },
+ },
+ ["itemgroup:itemize:16"]={
+  { 6, 0 },
+ },
+ ["itemgroup:itemize:2"]={
+  { 4, 0 },
+ },
+ ["itemgroup:itemize:3"]={
+  { 3, 0 },
+ },
+ ["itemgroup:itemize:4"]={
+  { 6, 0 },
+ },
+ ["itemgroup:itemize:5"]={
+  { 8, 0 },
+ },
+ ["itemgroup:itemize:6"]={
+  { 1, 0 },
+ },
+ ["itemgroup:itemize:7"]={
+  { 1, 0 },
+ },
+ ["itemgroup:itemize:8"]={
+  { 1, 0 },
+ },
+ ["itemgroup:itemize:9"]={
+  { 1, 0 },
+ },
+}
+
+if not utilitydata.job then utilitydata.job = { } end
+if not utilitydata.job.datasets then utilitydata.job.datasets = { } end
+
+utilitydata.job.datasets.collected={
+}
+
+if not utilitydata.job then utilitydata.job = { } end
+if not utilitydata.job.pagestates then utilitydata.job.pagestates = { } end
+
+utilitydata.job.pagestates.collected={
+ ["float"]={ 1, 1 },
+}
+
+if not utilitydata.structures then utilitydata.structures = { } end
+if not utilitydata.structures.specials then utilitydata.structures.specials = { } end
+
+utilitydata.structures.specials.collected={
+}
+
+if not utilitydata.structures then utilitydata.structures = { } end
+if not utilitydata.structures.sections then utilitydata.structures.sections = { } end
+
+utilitydata.structures.sections.collected={
+ {
+  ["block"]="bodypart",
+  ["conversionset"]="default",
+  ["hidenumber"]=true,
+  ["language"]="en",
+  ["numbers"]=1,
+  ["separatorset"]="default",
+  ["set"]="all",
+ },
+ {
+  ["block"]="bodypart",
+  ["conversionset"]="default",
+  ["hidenumber"]=true,
+  ["language"]="en",
+  ["numbers"]=2,
+  ["separatorset"]="default",
+  ["set"]="all",
+ },
+ {
+  ["block"]="bodypart",
+  ["conversionset"]="default",
+  ["hidenumber"]=true,
+  ["language"]="en",
+  ["numbers"]=3,
+  ["separatorset"]="default",
+  ["set"]="all",
+ },
+ {
+  ["block"]="bodypart",
+  ["conversionset"]="default",
+  ["hidenumber"]=true,
+  ["language"]="en",
+  ["numbers"]=4,
+  ["separatorset"]="default",
+  ["set"]="all",
+ },
+ {
+  ["block"]="bodypart",
+  ["conversionset"]="default",
+  ["hidenumber"]=true,
+  ["language"]="en",
+  ["numbers"]=5,
+  ["separatorset"]="default",
+  ["set"]="all",
+ },
+ {
+  ["block"]="bodypart",
+  ["conversionset"]="default",
+  ["hidenumber"]=true,
+  ["language"]="en",
+  ["numbers"]=6,
+  ["separatorset"]="default",
+  ["set"]="all",
+ },
+ {
+  ["block"]="bodypart",
+  ["conversionset"]="default",
+  ["hidenumber"]=true,
+  ["language"]="en",
+  ["numbers"]=7,
+  ["separatorset"]="default",
+  ["set"]="all",
+ },
+ {
+  ["block"]="bodypart",
+  ["conversionset"]="default",
+  ["hidenumber"]=true,
+  ["language"]="en",
+  ["numbers"]=8,
+  ["separatorset"]="default",
+  ["set"]="all",
+ },
+ {
+  ["block"]="bodypart",
+  ["conversionset"]="default",
+  ["hidenumber"]=true,
+  ["language"]="en",
+  ["numbers"]=9,
+  ["separatorset"]="default",
+  ["set"]="all",
+ },
+ {
+  ["block"]="bodypart",
+  ["conversionset"]="default",
+  ["hidenumber"]=true,
+  ["language"]="en",
+  ["numbers"]=10,
+  ["separatorset"]="default",
+  ["set"]="all",
+ },
+ {
+  ["block"]="bodypart",
+  ["conversionset"]="default",
+  ["hidenumber"]=true,
+  ["language"]="en",
+  ["numbers"]=11,
+  ["separatorset"]="default",
+  ["set"]="all",
+ },
+ {
+  ["block"]="bodypart",
+  ["conversionset"]="default",
+  ["hidenumber"]=true,
+  ["language"]="en",
+  ["numbers"]=12,
+  ["separatorset"]="default",
+  ["set"]="all",
+ },
+ {
+  ["block"]="bodypart",
+  ["conversionset"]="default",
+  ["hidenumber"]=true,
+  ["language"]="en",
+  ["numbers"]=13,
+  ["separatorset"]="default",
+  ["set"]="all",
+ },
+ {
+  ["block"]="bodypart",
+  ["conversionset"]="default",
+  ["hidenumber"]=true,
+  ["language"]="en",
+  ["numbers"]=14,
+  ["separatorset"]="default",
+  ["set"]="all",
+ },
+ {
+  ["block"]="bodypart",
+  ["conversionset"]="default",
+  ["hidenumber"]=true,
+  ["language"]="en",
+  ["numbers"]=15,
+  ["separatorset"]="default",
+  ["set"]="all",
+ },
+ {
+  ["block"]="bodypart",
+  ["conversionset"]="default",
+  ["hidenumber"]=true,
+  ["language"]="en",
+  ["numbers"]=16,
+  ["separatorset"]="default",
+  ["set"]="all",
+ },
+ {
+  ["block"]="bodypart",
+  ["conversionset"]="default",
+  ["hidenumber"]=true,
+  ["language"]="en",
+  ["numbers"]=17,
+  ["separatorset"]="default",
+  ["set"]="all",
+ },
+ {
+  ["block"]="bodypart",
+  ["conversionset"]="default",
+  ["hidenumber"]=true,
+  ["language"]="en",
+  ["numbers"]=18,
+  ["separatorset"]="default",
+  ["set"]="all",
+ },
+ {
+  ["block"]="bodypart",
+  ["conversionset"]="default",
+  ["hidenumber"]=true,
+  ["language"]="en",
+  ["numbers"]=19,
+  ["separatorset"]="default",
+  ["set"]="all",
+ },
+ {
+  ["block"]="bodypart",
+  ["conversionset"]="default",
+  ["hidenumber"]=true,
+  ["language"]="en",
+  ["numbers"]=20,
+  ["separatorset"]="default",
+  ["set"]="all",
+ },
+ {
+  ["block"]="bodypart",
+  ["conversionset"]="default",
+  ["hidenumber"]=true,
+  ["language"]="en",
+  ["numbers"]=21,
+  ["separatorset"]="default",
+  ["set"]="all",
+ },
+}
+
+if not utilitydata.structures then utilitydata.structures = { } end
+if not utilitydata.structures.counters then utilitydata.structures.counters = { } end
+
+utilitydata.structures.counters.collected={
+ ["chemical"]={
+  { 0 },
+ },
+ ["combination"]={
+  { 0 },
+ },
+ ["endnote"]={
+  { 0 },
+ },
+ ["figure"]={
+  { 0 },
+ },
+ ["footnote"]={
+  { 0 },
+ },
+ ["formula"]={
+  { 0 },
+ },
+ ["graphic"]={
+  { 0 },
+ },
+ ["intermezzo"]={
+  { 0 },
+ },
+ ["itemgroup:itemize"]={
+  { 0, 6, 4, 3, 6, 8, 1, 1, 1, 1, 2, 2, 1, 1, 1, 1, 6 },
+ },
+ ["linenote"]={
+  { 0 },
+ },
+ ["paragraph"]={
+  { 0 },
+ },
+ ["realpage"]={
+  { 5 },
+ },
+ ["subpage"]={
+  { 5 },
+ },
+ ["table"]={
+  { 0 },
+ },
+ ["userpage"]={
+  { 5 },
+ },
+}
+
+if not utilitydata.structures then utilitydata.structures = { } end
+if not utilitydata.structures.lists then utilitydata.structures.lists = { } end
+
+utilitydata.structures.lists.collected={
+ {
+  ["metadata"]=22,
+  ["numberdata"]=23,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=1,
+   ["realpage"]=1,
+   ["reference"]="xavier-defontaine",
+   ["section"]=1,
+  },
+  ["titledata"]={
+   ["label"]="section",
+   ["title"]="Xavier Defontaine",
+  },
+ },
+ {
+  ["metadata"]=24,
+  ["numberdata"]=25,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=3,
+   ["realpage"]=1,
+   ["reference"]="profile",
+   ["section"]=2,
+  },
+  ["titledata"]={
+   ["label"]="subsection",
+   ["title"]="Profile",
+  },
+ },
+ {
+  ["metadata"]=24,
+  ["numberdata"]=26,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=4,
+   ["realpage"]=1,
+   ["reference"]="skills",
+   ["section"]=3,
+   ["used"]="fit",
+  },
+  ["titledata"]={
+   ["label"]="subsection",
+   ["title"]="Skills",
+  },
+ },
+ {
+  ["metadata"]=27,
+  ["numberdata"]=28,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=5,
+   ["realpage"]=1,
+   ["reference"]="tech-skills",
+   ["section"]=4,
+  },
+  ["titledata"]={
+   ["label"]="subsubsection",
+   ["title"]="Tech Skills 🏋️‍",
+  },
+ },
+ {
+  ["metadata"]=27,
+  ["numberdata"]=29,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=6,
+   ["realpage"]=1,
+   ["reference"]="soft-skills",
+   ["section"]=5,
+  },
+  ["titledata"]={
+   ["label"]="subsubsection",
+   ["title"]="Soft Skills",
+  },
+ },
+ {
+  ["metadata"]=30,
+  ["numberdata"]=31,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=7,
+   ["realpage"]=1,
+   ["reference"]="problem-solving",
+   ["section"]=6,
+  },
+  ["titledata"]={
+   ["label"]="subsubsection",
+   ["title"]="Problem solving 🕵🏻‍♂️",
+  },
+ },
+ {
+  ["metadata"]=30,
+  ["numberdata"]=32,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=8,
+   ["realpage"]=2,
+   ["reference"]="stakeholder-management",
+   ["section"]=7,
+  },
+  ["titledata"]={
+   ["label"]="subsubsection",
+   ["title"]="Stakeholder management 🤝",
+  },
+ },
+ {
+  ["metadata"]=30,
+  ["numberdata"]=33,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=9,
+   ["realpage"]=2,
+   ["reference"]="adaptable",
+   ["section"]=8,
+  },
+  ["titledata"]={
+   ["label"]="subsubsection",
+   ["title"]="Adaptable ☯︎",
+  },
+ },
+ {
+  ["metadata"]=24,
+  ["numberdata"]=34,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=10,
+   ["realpage"]=2,
+   ["reference"]="projects",
+   ["section"]=9,
+   ["used"]="fit",
+  },
+  ["titledata"]={
+   ["label"]="subsection",
+   ["title"]="Projects 👨🏻‍💻",
+  },
+ },
+ {
+  ["metadata"]=27,
+  ["numberdata"]=35,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=11,
+   ["realpage"]=2,
+   ["reference"]="process-reviews-dashboard",
+   ["section"]=10,
+  },
+  ["titledata"]={
+   ["label"]="subsubsection",
+   ["title"]="\\useURL [url3][https://github.com/XavierDefontaine/ProcessReviewSite][][Process Reviews Dashboard]\\from [url3]",
+  },
+ },
+ {
+  ["metadata"]=27,
+  ["numberdata"]=36,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=12,
+   ["realpage"]=3,
+   ["reference"]="acebook-robot-lizard",
+   ["section"]=11,
+  },
+  ["titledata"]={
+   ["label"]="subsubsection",
+   ["title"]="\\useURL [url5][https://github.com/XavierDefontaine/acebook-robotlizard][][Acebook Robot-lizard]\\from [url5]",
+  },
+ },
+ {
+  ["metadata"]=27,
+  ["numberdata"]=37,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=13,
+   ["realpage"]=3,
+   ["reference"]="bank-tech-test",
+   ["section"]=12,
+  },
+  ["titledata"]={
+   ["label"]="subsubsection",
+   ["title"]="\\useURL [url6][https://github.com/XavierDefontaine/Bank-Tech-Test][][Bank Tech Test]\\from [url6]",
+  },
+ },
+ {
+  ["metadata"]=27,
+  ["numberdata"]=38,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=14,
+   ["realpage"]=3,
+   ["reference"]="gilded-rose",
+   ["section"]=13,
+  },
+  ["titledata"]={
+   ["label"]="subsubsection",
+   ["title"]="\\useURL [url7][https://github.com/XavierDefontaine/Gilded-Rose-tech-test][][Gilded Rose]\\from [url7]",
+  },
+ },
+ {
+  ["metadata"]=24,
+  ["numberdata"]=39,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=15,
+   ["realpage"]=3,
+   ["reference"]="education",
+   ["section"]=14,
+   ["used"]="fit",
+  },
+  ["titledata"]={
+   ["label"]="subsection",
+   ["title"]="Education 🎓",
+  },
+ },
+ {
+  ["metadata"]=30,
+  ["numberdata"]=40,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=16,
+   ["realpage"]=3,
+   ["reference"]="makers-academy-sep-2020---nov-2020",
+   ["section"]=15,
+  },
+  ["titledata"]={
+   ["label"]="subsubsection",
+   ["title"]="Makers Academy (Sep 2020 - Nov 2020)",
+  },
+ },
+ {
+  ["metadata"]=30,
+  ["numberdata"]=41,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=17,
+   ["realpage"]=4,
+   ["reference"]="marseille-university---france-2009---2011",
+   ["section"]=16,
+  },
+  ["titledata"]={
+   ["label"]="subsubsection",
+   ["title"]="Marseille University - France (2009 - 2011)",
+  },
+ },
+ {
+  ["metadata"]=30,
+  ["numberdata"]=42,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=18,
+   ["realpage"]=4,
+   ["reference"]="university-of-nice---france-2007---2009",
+   ["section"]=17,
+  },
+  ["titledata"]={
+   ["label"]="subsubsection",
+   ["title"]="University of Nice - France (2007 - 2009)",
+  },
+ },
+ {
+  ["metadata"]=30,
+  ["numberdata"]=43,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=19,
+   ["realpage"]=4,
+   ["reference"]="lycée-albert-1er---monaco-2007",
+   ["section"]=18,
+  },
+  ["titledata"]={
+   ["label"]="subsubsection",
+   ["title"]="Lycée Albert 1er - Monaco (2007)",
+  },
+ },
+ {
+  ["metadata"]=30,
+  ["numberdata"]=44,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=20,
+   ["realpage"]=4,
+   ["reference"]="music-academy-of-monaco-2001---2007",
+   ["section"]=19,
+  },
+  ["titledata"]={
+   ["label"]="subsubsection",
+   ["title"]="Music Academy of Monaco (2001 - 2007)",
+  },
+ },
+ {
+  ["metadata"]=24,
+  ["numberdata"]=45,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=21,
+   ["realpage"]=4,
+   ["reference"]="experience",
+   ["section"]=20,
+   ["used"]="fit",
+  },
+  ["titledata"]={
+   ["label"]="subsection",
+   ["title"]="Experience ☕️",
+  },
+ },
+ {
+  ["metadata"]=24,
+  ["numberdata"]=46,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=22,
+   ["realpage"]=5,
+   ["reference"]="interests",
+   ["section"]=21,
+   ["used"]="fit",
+  },
+  ["titledata"]={
+   ["label"]="subsection",
+   ["title"]="Interests 🎉",
+  },
+ },
+}
+
+if not utilitydata.structures then utilitydata.structures = { } end
+if not utilitydata.structures.pages then utilitydata.structures.pages = { } end
+
+utilitydata.structures.pages.collected={
+ {
+  ["block"]="bodypart",
+  ["number"]=1,
+  ["numberdata"]=47,
+  ["prefixdata"]=48,
+  ["state"]="start",
+ },
+ {
+  ["block"]="bodypart",
+  ["number"]=2,
+  ["numberdata"]=47,
+  ["prefixdata"]=48,
+  ["state"]="start",
+ },
+ {
+  ["block"]="bodypart",
+  ["number"]=3,
+  ["numberdata"]=47,
+  ["prefixdata"]=48,
+  ["state"]="start",
+ },
+ {
+  ["block"]="bodypart",
+  ["number"]=4,
+  ["numberdata"]=47,
+  ["prefixdata"]=48,
+  ["state"]="start",
+ },
+ {
+  ["block"]="bodypart",
+  ["number"]=5,
+  ["numberdata"]=47,
+  ["prefixdata"]=48,
+  ["state"]="start",
+ },
+}
+
+if not utilitydata.structures then utilitydata.structures = { } end
+if not utilitydata.structures.references then utilitydata.structures.references = { } end
+
+utilitydata.structures.references.collected={
+}
+
+if not utilitydata.structures then utilitydata.structures = { } end
+if not utilitydata.structures.references then utilitydata.structures.references = { } end
+
+utilitydata.structures.references.referred={
+ { 1, 1 },
+ { 1, 15 },
+ { 2, 20 },
+ { 3, 22 },
+ { 5, 29 },
+}
+
+if not utilitydata.job then utilitydata.job = { } end
+if not utilitydata.job.objects then utilitydata.job.objects = { } end
+
+utilitydata.job.objects.collected={
+}
+
+if not utilitydata.structures then utilitydata.structures = { } end
+if not utilitydata.structures.synonyms then utilitydata.structures.synonyms = { } end
+
+utilitydata.structures.synonyms.collected={
+}
+
+if not utilitydata.structures then utilitydata.structures = { } end
+if not utilitydata.structures.registers then utilitydata.structures.registers = { } end
+
+utilitydata.structures.registers.collected={
+}
+
+if not utilitydata.structures then utilitydata.structures = { } end
+if not utilitydata.structures.blocks then utilitydata.structures.blocks = { } end
+
+utilitydata.structures.blocks.collected={
+}
+
+if not utilitydata.job then utilitydata.job = { } end
+if not utilitydata.job.files then utilitydata.job.files = { } end
+
+utilitydata.job.files.collected={
+}
+
+if not utilitydata.publications then utilitydata.publications = { } end
+
+utilitydata.publications.collected={
+}
+
+if not utilitydata.job then utilitydata.job = { } end
+if not utilitydata.job.fileobjreferences then utilitydata.job.fileobjreferences = { } end
+
+utilitydata.job.fileobjreferences.collected={
+}
+
+if not utilitydata.job then utilitydata.job = { } end
+if not utilitydata.job.embedded then utilitydata.job.embedded = { } end
+
+utilitydata.job.embedded.collected={
+}
+
+utilitydata.job.packed={
+ ["index"]={
+  { 0, 0, 1 },
+  { 0, 0, 1, 1 },
+  { 0, 0, 1, 2 },
+  { 0, 0, 1, 2, 1 },
+  { 0, 0, 1, 2, 2 },
+  { 0, 0, 1, 2, 2, 1 },
+  { 0, 0, 1, 2, 2, 2 },
+  { 0, 0, 1, 2, 2, 3 },
+  { 0, 0, 1, 3 },
+  { 0, 0, 1, 3, 1 },
+  { 0, 0, 1, 3, 2 },
+  { 0, 0, 1, 3, 3 },
+  { 0, 0, 1, 3, 4 },
+  { 0, 0, 1, 4 },
+  { 0, 0, 1, 4, 0, 1 },
+  { 0, 0, 1, 4, 0, 2 },
+  { 0, 0, 1, 4, 0, 3 },
+  { 0, 0, 1, 4, 0, 4 },
+  { 0, 0, 1, 4, 0, 5 },
+  { 0, 0, 1, 5 },
+  { 0, 0, 1, 6 },
+  {
+   ["catcodes"]=8,
+   ["coding"]="tex",
+   ["increment"]="yes",
+   ["kind"]="section",
+   ["level"]=3,
+   ["name"]="section",
+  },
+  {
+   ["block"]="bodypart",
+   ["conversionset"]="default",
+   ["hidenumber"]=true,
+   ["language"]="en",
+   ["numbers"]=1,
+   ["separatorset"]="default",
+   ["set"]="all",
+  },
+  {
+   ["catcodes"]=8,
+   ["coding"]="tex",
+   ["increment"]="yes",
+   ["kind"]="section",
+   ["level"]=4,
+   ["name"]="subsection",
+  },
+  {
+   ["block"]="bodypart",
+   ["conversionset"]="default",
+   ["hidenumber"]=true,
+   ["language"]="en",
+   ["numbers"]=2,
+   ["separatorset"]="default",
+   ["set"]="all",
+  },
+  {
+   ["block"]="bodypart",
+   ["conversionset"]="default",
+   ["hidenumber"]=true,
+   ["language"]="en",
+   ["numbers"]=3,
+   ["separatorset"]="default",
+   ["set"]="all",
+  },
+  {
+   ["catcodes"]=8,
+   ["coding"]="tex",
+   ["increment"]="yes",
+   ["kind"]="section",
+   ["level"]=5,
+   ["name"]="subsubsection",
+  },
+  {
+   ["block"]="bodypart",
+   ["conversionset"]="default",
+   ["hidenumber"]=true,
+   ["language"]="en",
+   ["numbers"]=4,
+   ["separatorset"]="default",
+   ["set"]="all",
+  },
+  {
+   ["block"]="bodypart",
+   ["conversionset"]="default",
+   ["hidenumber"]=true,
+   ["language"]="en",
+   ["numbers"]=5,
+   ["separatorset"]="default",
+   ["set"]="all",
+  },
+  {
+   ["catcodes"]=8,
+   ["coding"]="tex",
+   ["increment"]="yes",
+   ["kind"]="section",
+   ["level"]=6,
+   ["name"]="subsubsubsection",
+  },
+  {
+   ["block"]="bodypart",
+   ["conversionset"]="default",
+   ["hidenumber"]=true,
+   ["language"]="en",
+   ["numbers"]=6,
+   ["separatorset"]="default",
+   ["set"]="all",
+  },
+  {
+   ["block"]="bodypart",
+   ["conversionset"]="default",
+   ["hidenumber"]=true,
+   ["language"]="en",
+   ["numbers"]=7,
+   ["separatorset"]="default",
+   ["set"]="all",
+  },
+  {
+   ["block"]="bodypart",
+   ["conversionset"]="default",
+   ["hidenumber"]=true,
+   ["language"]="en",
+   ["numbers"]=8,
+   ["separatorset"]="default",
+   ["set"]="all",
+  },
+  {
+   ["block"]="bodypart",
+   ["conversionset"]="default",
+   ["hidenumber"]=true,
+   ["language"]="en",
+   ["numbers"]=9,
+   ["separatorset"]="default",
+   ["set"]="all",
+  },
+  {
+   ["block"]="bodypart",
+   ["conversionset"]="default",
+   ["hidenumber"]=true,
+   ["language"]="en",
+   ["numbers"]=10,
+   ["separatorset"]="default",
+   ["set"]="all",
+  },
+  {
+   ["block"]="bodypart",
+   ["conversionset"]="default",
+   ["hidenumber"]=true,
+   ["language"]="en",
+   ["numbers"]=11,
+   ["separatorset"]="default",
+   ["set"]="all",
+  },
+  {
+   ["block"]="bodypart",
+   ["conversionset"]="default",
+   ["hidenumber"]=true,
+   ["language"]="en",
+   ["numbers"]=12,
+   ["separatorset"]="default",
+   ["set"]="all",
+  },
+  {
+   ["block"]="bodypart",
+   ["conversionset"]="default",
+   ["hidenumber"]=true,
+   ["language"]="en",
+   ["numbers"]=13,
+   ["separatorset"]="default",
+   ["set"]="all",
+  },
+  {
+   ["block"]="bodypart",
+   ["conversionset"]="default",
+   ["hidenumber"]=true,
+   ["language"]="en",
+   ["numbers"]=14,
+   ["separatorset"]="default",
+   ["set"]="all",
+  },
+  {
+   ["block"]="bodypart",
+   ["conversionset"]="default",
+   ["hidenumber"]=true,
+   ["language"]="en",
+   ["numbers"]=15,
+   ["separatorset"]="default",
+   ["set"]="all",
+  },
+  {
+   ["block"]="bodypart",
+   ["conversionset"]="default",
+   ["hidenumber"]=true,
+   ["language"]="en",
+   ["numbers"]=16,
+   ["separatorset"]="default",
+   ["set"]="all",
+  },
+  {
+   ["block"]="bodypart",
+   ["conversionset"]="default",
+   ["hidenumber"]=true,
+   ["language"]="en",
+   ["numbers"]=17,
+   ["separatorset"]="default",
+   ["set"]="all",
+  },
+  {
+   ["block"]="bodypart",
+   ["conversionset"]="default",
+   ["hidenumber"]=true,
+   ["language"]="en",
+   ["numbers"]=18,
+   ["separatorset"]="default",
+   ["set"]="all",
+  },
+  {
+   ["block"]="bodypart",
+   ["conversionset"]="default",
+   ["hidenumber"]=true,
+   ["language"]="en",
+   ["numbers"]=19,
+   ["separatorset"]="default",
+   ["set"]="all",
+  },
+  {
+   ["block"]="bodypart",
+   ["conversionset"]="default",
+   ["hidenumber"]=true,
+   ["language"]="en",
+   ["numbers"]=20,
+   ["separatorset"]="default",
+   ["set"]="all",
+  },
+  {
+   ["block"]="bodypart",
+   ["conversionset"]="default",
+   ["hidenumber"]=true,
+   ["language"]="en",
+   ["numbers"]=21,
+   ["separatorset"]="default",
+   ["set"]="all",
+  },
+  {
+   ["conversionset"]="pagenumber",
+  },
+  {
+   ["connector"]="–",
+   ["prefix"]="no",
+   ["set"]="part",
+  },
+ },
+ ["keys"]={
+  ["directives"]=true,
+  ["metadata"]=true,
+  ["numberdata"]=true,
+  ["numbers"]=true,
+  ["ownnumbers"]=true,
+  ["pagedata"]=true,
+  ["prefixdata"]=true,
+  ["processors"]=true,
+  ["sectiondata"]=true,
+  ["specification"]=true,
+ },
+ ["skip"]={
+  ["datasets"]=true,
+  ["positions"]=true,
+  ["userdata"]=true,
+ },
+ ["version"]=1.02,
+}
+
+return utilitydata

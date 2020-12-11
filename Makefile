@@ -3,7 +3,7 @@ IN_DIR=.
 STYLES_DIR=styles
 STYLE=chmduquesne
 
-all: html #pdf docx rtf
+all: pdf html docx #rtf
 
 pdf: init
 	for f in $(IN_DIR)/*.md; do \
