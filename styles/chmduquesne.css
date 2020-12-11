@@ -40,7 +40,7 @@ table:first-of-type thead th {
 
 table:first-of-type a   {
     text-decoration: none;
-    padding: 8px 0.5em;
+    padding: 8px 0.4em;
     background-color: transparent;
     color: teal;
     cursor: pointer;
@@ -72,6 +72,10 @@ table:first-of-type a   {
 
     hr:first-of-type {
         background-color: transparent !important;
+    }
+
+    table:first-of-type a   {
+        font-size: 12px;
     }
 }
 

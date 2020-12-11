@@ -10,7 +10,7 @@ Xavier Defontaine
 -------------------     ----------------------------  
   
 [Profile](#top) | [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) |
-|---------|------------|-------|--------|-----|  
+|---------|------------|-------|--------|-----|-----|
 
 -------------------     ----------------------------   
 
