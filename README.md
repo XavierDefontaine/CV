@@ -71,7 +71,7 @@ Projects 👨🏻‍💻
 ### PlayerSwap Club (WIP)
 _"A platform to easily swap games. Buy once, play forever."_
 
-I am building this serverless web app as a solo project to discover the **AWS ecosystem** (**Lambdas, noSQL, Incognito etc)**, consume **3rd party APIs** (Rawg, ShipEngine...) and practice my **ReactJS/NodeJS** with a focus on best engineering practices and TDD. ([API](https://github.com/XavierDefontaine/player-swap-club) / [Client](https://github.com/XavierDefontaine/player-swap-club-client))
+I am building this serverless web app as a solo project to discover the **AWS ecosystem** (**Lambdas, noSQL, Cognito etc)**, consume **3rd party APIs** (Rawg, ShipEngine...) and practice my **ReactJS/NodeJS** with a focus on best engineering practices and TDD. ([API](https://github.com/XavierDefontaine/player-swap-club) / [Client](https://github.com/XavierDefontaine/player-swap-club-client))
 
 
 ### [Process Reviews Dashboard](https://github.com/XavierDefontaine/ProcessReviewSite) 
