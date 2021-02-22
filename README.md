@@ -3,7 +3,7 @@ Xavier Defontaine
 
 
 
->  **Full Stack Junior Developer** looking for a role across Backend and/or Frontend.  
+>  **Junior Software Engineer** currently working @ Dice Technology.  
 
 > <xdefontaine@gmail.com> • London, UK  
 
